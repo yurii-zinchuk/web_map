@@ -1,74 +1,98 @@
+"""
+Module to create a file with locations of addresses from IMDB file.
+Not all addresses are accessed by geopy. Searching for coordinates is
+much faster with a file. This module uses geopy to find and write
+locations, than parse info into a beautiful form.
+!!  DO NOT RUN. WAS USED DURING DEVELOPMENT !!
+"""
+
 from geopy.geocoders import Nominatim
+from main import read_file, parse_lines
 
 
-def read_file(path: str) -> list:
-    """Read and create a list of strings
-    with film lines.
-
-    Args:
-        path (str): path to IMDB film file.
-
-    Returns:
-        list: list of film info lines.
-    """
-    with open(path, 'r', encoding='utf-8',
-              errors='ignore') as file:
-        lines = file.readlines()[14:-1]
-
-    return lines
-
-
-def parse_lines(lines: list) -> list:
-    """Clean up lines with film info, deleting trash.
+def write_base(path: str, clean_info: list):
+    """Try to find and write to a file locations
+    of all addresses from the input list. (lat, lon)
+    If error occured, print to stdout the address
+    and error itself, and the count of errors.
+    In the end print number of different addresses.
 
     Args:
-        lines (list): list of film info lines.
-
-    Returns:
-        list: clean film info lines.
+        path (str): Path to a location dataset (where to write).
+        clean_info (list): List with information,
+        especially with addresses.
     """
-    clean_info = list()
-    for line in lines:
-        if line.split('\t')[-1].endswith(')\n'):
-            clean_info.append(str(line.split('\t')[0][:line.split('\t')
-                                                      [0].index('(')-1] + '\t'
-                                  + line.split('\t')[0][line.split('\t')
-                                  [0].index('('):line.split('\t')[0].index
-                                  (')')+1] + '\t' + line.split('\t')[-2])
-                              .split('\t'))
-        else:
-            clean_info.append(str(line.split('\t')[0][:line.split('\t')
-                                                      [0].index('(')-1] + '\t'
-                                  + line.split('\t')[0][line.split('\t')
-                                  [0].index('('):line.split('\t')[0].index
-                                  (')')+1] + '\t' + line.split('\t')[-1][:-1])
-                              .split('\t'))
+    geolocator = Nominatim(user_agent="my_request")
 
-    return clean_info
+    cashed = set()
+    num_of_errors, num_of_different_addresses = 0, 0
+
+    for point in clean_info:
+        address = ', '.join(point[2].split(', ')[-3:])
+        if address not in cashed:
+
+            cashed.add(address)
+            num_of_different_addresses += 1
+
+            try:
+                location = geolocator.geocode(address)
+                with open(path, 'a', encoding='utf-8', errors='ignore')\
+                        as file:
+                    file.write(address + '\t' + str(location.latitude) + ' ' +
+                               str(location.longitude) + '\n')
+
+            except Exception as err:
+                num_of_errors += 1
+                err_info = '<<{}>>!!!!!!!!{}!!!!!!!!!\n {}'
+                print(err_info.format(num_of_errors, address, err))
+
+    print(f">>>{num_of_different_addresses} different addresses<<<")
+
+
+def create_file_with_unique_addresses(path: str):
+    """Rewrite file leaving only unique lines.
+
+    Args:
+        path (srt): Path to file.
+    """
+    with open(path, 'r', encoding='utf-8', errors='ignore') as file:
+        unique_addresses = set(file.readlines())
+
+    with open(path, 'w', encoding='utf-8', errors='ignore') as file:
+        file.writelines(unique_addresses)
+
+
+def find_not_found_addresses(path_src: str, path_dst: str, clean_info: list):
+    """Create file with addresses, which locations are not found.
+
+    Args:
+        path_src (str): Path to file with addresses with found locations.
+        path_dst (str): Path to file with addresses with not found locations.
+        clean_info (list): Info list with all possible addresses.
+    """
+    found_addresses = set()
+    with open(path_src, 'r', encoding='utf-8', errors='ignore') as file:
+        for line in file:
+            found_addresses.add(line.split('\t')[0]+'\n')
+
+    all_addresses = set()
+    for point in clean_info:
+        address = ', '.join(point[2].split(', ')[-3:])
+        all_addresses.add(address+'\n')
+
+    not_found_addresses = all_addresses.difference(found_addresses)
+    with open(path_dst, 'w', encoding='utf-8', errors='ignore') as file:
+        file.writelines(not_found_addresses)
 
 
 if __name__ == "__main__":
-    lines = read_file('locations.list')
-    clean_info = parse_lines(lines)
-    geolocator = Nominatim(user_agent="my_request")
+    # lines = read_file('data/locations.list')
+    # clean_info = parse_lines(lines)
 
-    cashed = dict()
+    # write_base('data/locbase.txt')
+    # create_file_with_unique_addresses('data/locbase.txt')
 
-    for point in clean_info:
-        if len(point[2]) >= 3:
-            loc = ', '.join(point[2].split(', ')[-3:])
-        else:
-            loc = point[2]
-        if loc not in cashed:
-            try:
-                location = geolocator.geocode(loc)
-                cashed[loc] = (location.longitude, location.latitude)
-                with open('locbase', 'a', encoding='utf-8',
-                          errors='ignore') as file:
-                    file.write(loc + '\t' + str(location.longitude) + ' ' +
-                               str(location.latitude) + '\n')
-                print(loc)
-                print(location.longitude, location.latitude)
-            except Exception as err:
-                print(f'!!!!!!!!{loc}!!!!!!!!!', err)
-                cashed[loc] = 'failed'
+    # find_not_found_addresses('data/locbase.txt',
+    #                          'data/notfound.txt', clean_info)
+
+    pass
