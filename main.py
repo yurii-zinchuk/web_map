@@ -23,7 +23,7 @@ def read_file(path: str) -> List[str]:
     """
     with open(path, 'r', encoding='utf-8',
               errors='ignore') as file:
-        raw_lines = file.readlines()[14:-1]
+        raw_lines = set(file.readlines()[14:-1])
 
     return raw_lines
 
@@ -38,7 +38,7 @@ def parse_lines(lines: list) -> List[List[str]]:
     Returns:
         List[List[str]]: Nested list. Each list contains name, year, adderss.
     """
-    clean_info = list()
+    clean_info = set()
     for line in lines:
         paren_index = line.split('\t')[0].index('(')
         film_name = str(line.split('\t')[0][:paren_index-1])
@@ -49,7 +49,7 @@ def parse_lines(lines: list) -> List[List[str]]:
         else:
             shooting_location = str(line.split('\t')[-1][:-1])
 
-        clean_info.append([film_name, release_year, shooting_location])
+        clean_info.add((film_name, release_year, shooting_location))
 
     return clean_info
 
