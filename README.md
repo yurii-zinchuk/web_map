@@ -15,3 +15,4 @@ Executing module with Lviv coordinates.
 python3 main.py 2012 40.7128 -74.0060
 ```
 ## Result
+![image](https://user-images.githubusercontent.com/91616521/153650613-04ea1740-34ca-44b2-a31f-b6c1a2118a80.png)
