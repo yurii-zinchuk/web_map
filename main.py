@@ -5,11 +5,11 @@ using the IMDB database.
 
 import argparse
 import folium as fl
-from typing import List
+from typing import Set, Tuple
 from haversine import haversine
 
 
-def read_file(path: str) -> List[str]:
+def read_file(path: str) -> Set[str]:
     """Read file. Return list of file's lines. Raw, without
     any parsing, slicing or cleanup. Lines contain:
     film name, release year, shooting address.
@@ -19,7 +19,7 @@ def read_file(path: str) -> List[str]:
         path (str): Path to dataset.
 
     Returns:
-        List[str]: List of raw lines.
+        Set[str]: List of raw lines.
     """
     with open(path, 'r', encoding='utf-8',
               errors='ignore') as file:
@@ -28,15 +28,15 @@ def read_file(path: str) -> List[str]:
     return raw_lines
 
 
-def parse_lines(lines: list) -> List[List[str]]:
+def parse_lines(lines: set, year: str) -> Set[Tuple[str]]:
     """Clean up lines with film info, delete trash.
     Leave only film name, release year, shooting address.
 
     Args:
-        lines (list): Raw lines from func which reads the file.
+        lines (set): Raw lines from func which reads the file.
 
     Returns:
-        List[List[str]]: Nested list. Each list contains name, year, adderss.
+        Set[Tuple[str]]: Nested list. Each list contains name, year, adderss.
     """
     clean_info = set()
     for line in lines:
@@ -49,33 +49,10 @@ def parse_lines(lines: list) -> List[List[str]]:
         else:
             shooting_location = str(line.split('\t')[-1][:-1])
 
-        clean_info.add((film_name, release_year, shooting_location))
+        if release_year == year:
+            clean_info.add((film_name, shooting_location))
 
     return clean_info
-
-
-def create_dict(clean_info: list) -> dict:
-    """Create dict with release years as keys and list of
-    tuples of films' names and shooting addresses as values.
-    Ignore bad years.
-
-    Args:
-        clean_info (list): Nested list containing lists with
-            name, year and address.
-
-    Returns:
-        dict: Films grouped by realease year.
-    """
-    films_by_years = dict()
-    for film_name, release_year, shooting_address in clean_info:
-        key_year = release_year
-        if key_year.isnumeric() and len(key_year) == 4:
-            if key_year not in films_by_years.keys():
-                films_by_years[key_year] = [(film_name, shooting_address)]
-            else:
-                films_by_years[key_year].append((film_name, shooting_address))
-
-    return films_by_years
 
 
 def get_coordinates(address: str, path: str) -> tuple:
@@ -103,24 +80,6 @@ def get_coordinates(address: str, path: str) -> tuple:
             return coordinates
 
 
-def calculate_distance(la1: float, la2: float,
-                       lo1: float, lo2: float) -> float:
-    """Return distance between two points on Earth's surface.
-    Units are kilometers.
-
-    Args:
-        la1 (float): Latitude of first point.
-        la2 (float): Latitude of second point.
-        lo1 (float): Longitude of first point.
-        lo2 (float): Longitude of second point.
-
-    Returns:
-        float: Distance in kilometers.
-    """
-    distance = haversine((la1, lo1), (la2, lo2))
-    return distance
-
-
 def create_stat(names_and_addresses: list, lat: float,
                 lon: float, coord_base: str) -> list:
     """Return a nested list with lists that contain all info about
@@ -145,7 +104,7 @@ def create_stat(names_and_addresses: list, lat: float,
             address_lat = address_coordinates[0]
             address_lon = address_coordinates[1]
 
-            distance = calculate_distance(lat, address_lat, lon, address_lon)
+            distance = haversine((lat, lon), (address_lat, address_lon))
 
             stat.append([film, address, distance, address_coordinates])
     stat.sort(key=lambda x: x[2])
@@ -330,9 +289,8 @@ def main(year: int, lat: float, lon: float,
         imdb_base (str): Path to the file with IMDB film info.
     """
     lines = read_file(imdb_base)
-    clean_info = parse_lines(lines)
-    films_by_year = create_dict(clean_info)
-    names_and_addresses = films_by_year[year]
+    clean_info = parse_lines(lines, year)
+    names_and_addresses = clean_info
     stat = create_stat(names_and_addresses, lat, lon, coord_base)
 
     markers_info = filter_stat(stat)
@@ -357,6 +315,6 @@ if __name__ == "__main__":
 
     coordinates_base = 'data/locbase.txt'
     map_name = 'MyMap.html'
-    imdb_file = 'data/locations_small.list'
+    imdb_file = 'data/locations.list'
 
     main(year, lat, lon, coordinates_base, map_name, imdb_file)
