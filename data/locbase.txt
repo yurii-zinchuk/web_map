@@ -47464,3 +47464,3186 @@ Mabalingwe, South Africa	-24.8369556 28.0517803
 Mangilao, Guam, USA	13.4439915 144.8050528119469
 140 Progress Dr Manchester, Connecticut, USA	41.803331 -72.50255348997442
 Habovka, Slovakia	49.277690050000004 19.628448958472696
+Wall Lake, Iowa, USA	42.2710952 -95.093047
+Fayetteville, Texas, USA	29.9052013 -96.6751391
+Belmont, Western Australia, Australia	-31.9462298 115.9336781
+South Goa, Goa, India	15.21961365 74.1152813019196
+Alsfeld, Hessen, Germany	50.7523545 9.268355
+Southern Utah, Utah, USA	37.67529935 -113.07318396996399
+Sapanca, Turkey	40.6597734 30.23822538259943
+Easkey, County Sligo, Ireland	54.23750425 -8.957136208888297
+Gahanna, Ohio, USA	40.0195625 -82.8791363
+Tomislavgrad, Bosnia and Herzegovina	43.7169169 17.2278277
+Leemount, Co. Cork, Ireland	51.9057994 -8.802621208388455
+Bud, Norway	62.9087903 6.9144755
+Hubbardston, Massachusetts, USA	42.4839084 -72.0046857
+Wolfratshausen-Gartenberg, Bavaria, Germany	47.8782851 11.4746216
+Rowley, Alberta, Canada	51.7615773 -112.786413
+Atocha, Madrid, Spain	40.406975 -3.688582
+Wollin, Pomerania, Germany	54.652142 13.3749036
+Marlay Park, Dublin, Ireland	53.273320350000006 -6.270509721967176
+Shanksville, Pennsylvania, USA	40.0175017 -78.9071878
+Gordon Neighbourhood House, British Columbia, Canada	49.2856383 -123.1336819
+Sasolburg, Free State, South Africa	-26.810278 27.821389
+Driggs, Idaho, USA	43.7231753 -111.110887
+Harrisburg, Arkansas, USA	35.5636367 -90.7214154
+Pla de l'Estany, Catalonia, Spain	42.12190995 2.7806888016293154
+Engelbrektskyrkan, Stockholm, Sweden	59.34410045 18.06763183235845
+Guasave, Mexico	25.5046381 -108.539960314508
+Sherrills Ford, North Carolina, USA	35.6204121 -80.9864655
+Castle Valley, Utah, USA	38.6394278 -109.4090056
+Palomino, La Guajira, Colombia	11.2448914 -73.5598131
+Parma, Emilia Romagna, Italy	44.8013678 10.3280833
+Kirchgellersen, Lower Saxony, Germany	53.2310573 10.2912265
+Kosjeric, Serbia	43.9971574 19.9071184
+St. Ulrich im Greith, Steiermark, Austria	46.7151502 15.3211205
+Trentino-Alto Adige, Bolzano, Italy	46.6918068 11.4306817
+Beaver Harbour, New Brunswick, Canada	45.0751612 -66.72416801434284
+Trappe, Maryland, USA	38.6584506 -76.0579956
+Forest Park, Georgia, USA	33.6220542 -84.3690918
+Highlandville, Missouri, USA	36.9328335 -93.2804626
+Haliburton, Ontario, Canada	45.0464422 -78.5087406
+Lake Lagunitas, California, USA	37.945869650000006 -122.59621132601546
+St. Pius College, India	19.1671501 72.85537057687773
+Manchester City, England, UK	53.4880867 -2.244172376938317
+Intiman, Stockholm, Sweden	59.3420123 18.0481755
+Tuxedo, New York, USA	41.1942345 -74.1844809
+Vinalhaven Island, Maine, USA	44.08165339999999 -68.85704827535281
+Lubelskie, Poland	50.8586338 22.7732404
+Firenze, Toscana, Italy	43.7698712 11.2555757
+Katpanah Lake, Pakistan	35.31873485 75.57469057821596
+Seeshaupt, Bavaria, Germany	47.8228233 11.3013554
+Totorillas, Ecuador	-3.0529152 -79.014754
+Rorschach, Switzerland	47.4779686 9.4914025
+Roslyn, Pennsylvania, USA	40.1317765 -75.137674
+Haarlem, Zuid-Holland, Netherlands	52.0119973 4.7242368
+3600 Barham Blvd.,Los Angeles, California, USA	34.13786545 -118.34102673665967
+Bahcesehir Universitesi, Istanbul, Turkey	41.04185045 29.00969788274344
+Rakitovec, Slovenia	45.469511 13.9696415
+Cocoyoc, Morelos, Mexico	18.8815525 -98.9803149
+Rue Dulcie La Courneuve, Seine-Saint-Denis, France	48.9294021 2.4007216
+Elsdorf, North Rhine-Westphalia, Germany	50.9371308 6.5698302
+Ksiezyce, Lower Silesia, Poland	50.7800459 17.1953154
+Wimberly, Texas, USA	30.0433807 -94.07324104342378
+Schleiden, North Rhine-Westphalia, Germany	50.5285919 6.4761556
+Pierce County, Washington, USA	47.0022547 -122.2117983
+Altenhof, Upper Austria, Austria	48.503965 13.7816439
+Ullapara, Sirajganj, Bangladesh	24.3133121 89.5696836
+Landegode, Norway	67.4086232 14.3383704914974
+Studio Plantage, Amsterdam, Netherlands	52.3747165 4.8980493
+Pahrump Valley, Nevada, USA	36.1476766 -116.06885933304761
+Assens, Fyn, Denmark	55.4243778 10.042567800202072
+Mount Whaleback, Western Australia, Australia	-23.36081115 119.66481215724413
+Historic Lutherville, Maryland, USA	39.4239845 -76.6291116
+Marianna, Florida, USA	30.7743596 -85.2268735
+Innisfree, Alberta, Canada	53.3803968 -111.530185
+Utah Beach, Sainte-Marie-du-Mont, France	49.4156657 -1.1747033
+Erieview, Ohio, USA	41.505285549999996 -81.68861443697199
+Korotia, Tangail, Bangladesh	24.2091509 89.9805516
+Los Angeles-Van Nuys, California, USA	34.1839689 -118.446164
+Solebury, Pennsylvania, USA	40.3648096 -75.0139404328036
+Agiez, Canton de Vaud, Switzerland	46.7199018 6.508106
+Gor, Spain	37.3696052 -2.9690113
+Richard-Wagner-Str., Berlin, Germany	52.5171266 13.3066708
+Naryn, Naryn Region, Kyrgyzstan	41.4254935 76.0057796
+Kullen, Sk�ne l�n, Sweden	55.7793655 13.1081313
+Midland, Arkansas, USA	35.0931523 -94.3532704
+Tamra, Israel	32.8534876 35.1978748
+Flowery Branch, Georgia	34.1851017 -83.9251809
+Binbrook, Ontario, Canada	43.121034 -79.804001
+Cerro La Silla, Chile	-29.2608346 -70.7314911
+La Bresse, Vosges, France	48.0066282 6.8766915
+Yukon, Oklahoma, USA	35.5067259 -97.7625386
+Mount Kuring-gai, New South Wales, Australia	-33.6531707 151.1368681
+Nainari, Sonora, Mexico	28.8017402 -111.4191108
+Palmer, Pennsylvania, USA	39.9117424 -79.919774
+Matadero, Madrid, Spain	40.39154475 -3.697703632352942
+South Perth, Western Australia, Australia	-31.997404250000002 115.8725372894501
+Blackman Township, Michigan, USA	44.190644 -83.926938
+Perry, Florida, USA	30.1174351 -83.5818147
+Defence colony, New Delhi, India	28.5673145 77.2101813
+Gaume, Belgium	49.539075 5.48971
+Bad Hofgastein, Austria	47.1703104 13.1060635
+Usti, Czech Republic	49.4735178 15.4147788
+South West London, England, UK	51.5804433 -0.0717169
+Hubice, Slovakia	48.0961007 17.3965567
+Andira River, Brazil	-3.7878536 -66.090923
+Rosengarten, Lower Saxony, Germany	53.3983771 9.9048979
+Nohant, France	46.6261469 1.9755263
+Fordham University, New York, USA	40.86334655 -73.88589577155778
+Audio Rebel, Rio de Janeiro, Brazil	-22.9576578 -43.19370742831116
+El Estor, Guatemala	15.5313737 -89.33241
+Camp Warehouse, Kabul, Afghanistan	34.54091925 69.30698390371218
+Eastern Shore, Maryland, USA	39.6031 -76.0671
+Pine Brook, New Jersey, USA	40.2806668 -74.0954182
+Le Zenith, Paris, France	48.89420775 2.3931778180311785
+Caacupe, Paraguay	-25.3855654 -57.1401431
+Grenchen, Kanton Solothurn, Switzerland	47.1911495 7.3967199
+Geneva, Ohio, USA	41.8052539 -80.9476206
+Noto, Ishikawa, Japan	37.3294213 137.1083671
+Cresson, Texas, USA	32.5305926 -97.6172232
+Saint-Lunaire, Ille-et-Vilaine, France	48.6354993 -2.1090269
+Thawville, Illinois, USA	40.6758683 -88.116155
+Pinhais, Brazil	-25.4443488 -49.1900307
+Grube, Schleswig-Holstein, Germany	54.2330328 11.0342922
+Tenextepango, Morelos, Mexico	18.7286675 -98.95822752437591
+Baldwin, New York, USA	40.6626725 -73.61030123947955
+Sidi Bibi, Morocco	30.237084 -9.526828
+Waterloo, Quebec, Canada	45.3441569 -72.5162169
+Fara Gera d'Adda, Bergamo, Italy	45.555676 9.537853
+Harwich, Massachusetts, USA	41.6862224 -70.0758508
+Riverton, UT, USA	40.5179761 -111.9393701
+Shek O, Hong Kong, China	22.2307536 114.2510366
+Bombinhas, Brazil	-27.1519159 -48.4875691
+Terrassa, Catalonia, Spain	41.5629623 2.0100492
+Dergaon, Assam, India	26.6912061 93.94939266209639
+Cadiz, Spain	36.5297438 -6.2928976
+Cornell�, Catalunya, Spain	41.6144075 2.5348163
+Portobelo, Panama	9.50043205 -79.61041157871679
+Solina, Podkarpackie, Poland	49.3996654 22.449867
+New Ross, Wexford, Ireland	52.3955671 -6.9446066
+Romoos, Kanton Luzern, Switzerland	47.0115225 8.0282996
+Madragoa, Lisbon, Portugal	38.70827985 -9.155896542035943
+Runde, Norway	62.3984429 5.631051250861052
+Mt. Abu, Rajasthan, India	24.592433 72.7081876
+Lecce, Puglia, Italia	40.152217300000004 18.2260628338229
+Dass Village, Ethiopia	4.3 38.78333
+Hadsten, Jylland, Denmark	56.3290887 10.0523863
+Petlalcingo, Puebla	18.062810300000002 -97.90979285583185
+Mid Glamorgan, Wales, UK	51.5 -3.45
+Gajan, France	43.8964 4.21505
+Point Lowly, South Australia, Australia	-32.994316749999996 137.78067011482977
+Clonmacnoise, Ireland	53.3261154 -7.9867065
+Robinson Canyon, Utah, USA	37.444318 -112.3725137
+Kowloon Park, Hong Kong	22.300533299999998 114.17011520656365
+Buga, Valle del Cauca, Colombia	3.9000578 -76.302013
+Caledonia, Ontario, Canada	43.6923702 -79.4653558
+Vallentuna kommun, Stockholms l�n, Sweden	59.5364695 18.0580001
+Mustang, Nevada, USA	39.5218565 -119.6285169
+Bloomfield, Connecticut, USA	41.826488 -72.7300945
+Steninge Castle, Stockholm, Sweden	59.602147200000005 17.80435044075445
+Kreuzeck, Bavaria, Germany	47.4524243 11.0666481
+Valley, Bavaria, Germany	47.8945169 11.7784633
+Sterling, Ohio, USA	40.96833015 -81.84656412028613
+Buchenwald memorial, Thuringia, Germany	51.022804199999996 11.250095440129032
+Altoona, Wisconsin, USA	44.8046825 -91.4432148
+County Laois, Ireland	52.9984575 -7.3980337750324185
+Springs, Gauteng, South Africa	-26.243056 28.431667
+Moss House. Winnipeg, Manitoba, Canada	49.8517695 -97.15173052026168
+Porto Novo, Cape Verde	17.0174637 -25.2004042229527
+Ottawa Illinois, USA	41.3516628 -88.845436
+Three Rivers, Texas, USA	28.4647614 -98.1809755
+Mount View Hotel, India	32.2434474 77.1866862
+Johnsbach, Steiermark, Austria	47.539816 14.5843377
+Hume Lake, California, USA	36.7906222 -118.90578530386585
+4313 Van Buren Place. Los Angeles, California, USA	34.00518887755102 -118.29704612244898
+Buchendorf, Bavaria, Germany	49.1532473 12.3756162
+Parks, Arizona, USA	35.260615 -111.9485469
+Yyteri, Pori, Finland	61.5640754 21.5294005
+Smithfield, Utah, USA	41.838429 -111.8328045
+Huila, Colombia	2.4738993 -75.5900113
+Decs, Hungary	46.2843291 18.7600689
+Garbsen, Lower Saxony, Germany	52.4276606 9.6005102
+Moose Mountain, New Hampshire, USA	44.063504 -71.623535
+Columbia Glacier, Alaska, USA	61.279388850000004 -147.03440717014092
+Chontla, Veracruz, Mexico	21.426917099999997 -98.00925112669015
+Gresham, Texas, USA	32.2293202 -95.349397
+The Mansion House, Dublin, Ireland	53.34025485 -6.258069357661135
+Carinda, NSW, Australia	-30.4629831 147.6902999
+Namche Bazaar, Nepal	27.8041662 86.7097956
+Monza, Lombardia, Italy	45.639544 9.278869369225038
+Huntington Beach, South Carolina, USA	33.50666085 -79.05835093302966
+Hersin-Coupigny, Pas-de-Calais, France	50.447236 2.6484954
+Daejeon Station, Daejeon, South Korea	36.3322464 127.4346482
+Herisau, Kanton Appenzell-Ausserrhoden, Switzerland	47.38555 9.2787571
+530 South Grand Ave, Los Angeles California, USA	33.739344959183676 -118.2900202244898
+Chesterfield, New Hampshire, USA	42.8873038 -72.4703661
+Illerbeuren, Bavaria, Germany	47.9023776 10.1258422
+Comunidad Valenciana, Spain	39.6819591 -0.7654406
+Playa de Madrid, Madrid, Spain	38.5360876 -0.1235322
+Devil's Slide, Utah, USA	41.06301594999999 -111.54808890261342
+Oostvaardersplassen, Flevoland, Netherlands	52.452925949999994 5.357325075577886
+Flitwick, Bedfordshire, UK	52.001396299999996 -0.4976232911829199
+Byurakan, Armenia	40.338002 44.2714773
+CEART Tijuana, Mexico	32.49971265 -116.94572281891892
+Wixom, Michigan, USA	42.5247729 -83.5363339
+Reicheneibach, Bavaria, Germany	48.465408 12.6181697
+Rowley, Massachusetts, USA	42.7136977 -70.8818364
+Coonabarabran, NSW, Australia	-31.2728076 149.2733225
+Ooststellingwerf, Friesland, Netherlands	52.99085895 6.304963752820772
+Deep River, Ontario, Canada	46.101328 -77.487602
+Hohenfelde, Hamburg, Germany	53.561882 10.0211917
+Colstrip, Montana, USA	45.884162 -106.623637
+Nixon, Nevada, USA	39.8318537 -119.3579527
+Lewisport, Kentucky, USA	37.9369974 -86.9022146
+Paris, Tennessee, USA	36.3019461 -88.3258578
+Chueca, Madrid, Spain	40.4227415 -3.6993271
+Porto San Giorgio, Italy	43.1826562 13.7933863
+Ojakkala, Finland	60.3687853 24.3943175
+Innenstadt, Hamburg, Germany	53.5461719 9.982527408409034
+Arcegno, Ticino, Switzerland	46.1624398 8.7429051
+Wisla, Slaskie, Poland	49.6523647 18.8709256
+Scanzorosciate, Bergamo, Italy	45.710782 9.735055
+Slobozia, Ialomita County, Romania	44.5614697 27.3617654
+Bijeljina, Bosnia and Herzegovina	44.7568464 19.2156628
+Badnera, Maharashtra, India	20.8558157 77.7327045
+Murud Janjira, India	18.3334545 72.9542408
+Parque del Oeste, Madrid, Spain	40.429696050000004 -3.7251884447637913
+Sonargaon, Narayanganj, Bangladesh	23.7033963 90.5260464
+Gerbstedt, Saxony-Anhalt, Germany	51.6301674 11.6240549
+Ta Yu Shan, Hong Kong, China	30.2630201 119.9415397
+Gouda, Zuid-Holland, Netherlands	52.018119350000006 4.711122134697802
+130 S Broadway Los Angeles, California, USA	33.841383634202955 -118.38686969455496
+Talstrasse 22, 20359 Hamburg, Germany	53.55060005 9.960349873630769
+Canterbury, Connecticut, USA	41.6984209 -71.9710811
+Forcarei, Galicia, Spain	42.5900309 -8.3509643
+Collegedale, Tennessee, USA	35.0531301 -85.0502277
+Forest Park, Ohio, USA	39.2903353 -84.5041108
+Mishima, Shizuoka, Japan	35.147361 138.948903
+Hohen Neuendorf, Brandenburg, Germany	52.6732755 13.2807255
+Martin, Slovakia	49.0724921 18.929193
+Seatoun Beach, Wellington, New Zealand	-41.3205037 174.83217088523827
+Port Aransas, Texas, USA	27.8332175 -97.0618324
+Awassa, Ethiopia	7.0481029 38.47861
+Pasedena California, USA	34.1691729 -118.1297929
+Carrer de la Comtessa de Sobradiel, Barcelona, Spain	41.3810754 2.1783123
+Saumane, Alpes-de-Haute-Provence, France	44.0899897 5.6913994
+St'Julians, Malta	35.9186922 14.4899746
+Garsten, Upper Austria, Austria	48.0222203 14.4077971
+Novi Itebej, Serbia	45.558033 20.7016912
+Asansol, West Bengal, India	23.6871297 86.9746587
+Miraflores, Caracas, Venezuela	10.50808735 -66.91909436914213
+Jaslo, Podkarpackie, Poland	49.746962749999994 21.493576018400987
+Calle Fortaleza, San Juan, Puerto Rico	18.4653346 -66.1142138
+Djerba, Tunisia	33.77339055 10.885904100766005
+Matsue City, Shimane, Japan	35.4432389 133.07537191695366
+White House, Tennessee, USA	36.4688705 -86.66533380000001
+Ath, Belgium	50.6288684 3.785318027789082
+Pelee Island, Ontario, Canada	41.77407145 -82.6591384057319
+Douro Valley, Portugal	41.1453439 -7.8167393
+Santee, Nebraska, USA	42.8407598 -97.8509699
+Omisalj, Krk Island, Croatia	45.22804105 14.577992696085733
+Wheaton, Maryland, USA	39.04979325 -77.05228508396917
+Lacha, Mazowieckie, Poland	52.5358212 21.09155191163232
+Altoona, Washington, USA	46.2667745 -123.6562504
+Fayette County, Texas, USA	29.8381635 -96.9559692
+Haute-Vienne, Limousin, France	45.91901925 1.203176771876291
+Grattacielo Pirelli, Milano, Italy	45.4847817 9.20117674013542
+Lexington, Tennessee, USA	35.650903 -88.3933796
+Burj Khalifa, United Arab Emirates	25.197030599999998 55.274221681616936
+Sembakkam, Tamil Nadu, India	12.7023624 80.1298612
+Beebe, Arkansas, USA	35.0735738 -91.8863516
+Stadthagen, Lower Saxony, Germany	52.3289688 9.2053496
+Fox Park, Wyoming, USA	44.270575050000005 -105.43483323882228
+Kane County, Illinois, USA	41.923434 -88.4248315
+Aricanduva, S�o Paulo, Brasil	-23.5780239 -46.511454
+Peristil, Split, Croatia	43.50824275 16.44017125546425
+Mooseheart, Illinois, USA	41.8239175 -88.3347959
+Chiricahua National Monument, Arizona, USA	32.01397275 -109.34754057502674
+Dexter, Maine, USA	45.024039 -69.290085
+Scharnitz, Tirol, Austria	47.3902687 11.2647993
+Eden, North Carolina, USA	36.4884715 -79.7667026
+Atelier Hamburg-Wandsbek, Hamburg, Germany	53.58567325 10.125445279889643
+Keavy, Kentucky, USA	37.0036977 -84.1610439
+Maynas Province, Peru	-9.6056398 -76.6468826
+Melgar, Tolima, Colombia	4.2039758 -74.6429479
+Orson, Pennsylvania, USA	41.8136949 -75.4479586
+Radiceva Street, Zagreb, Croatia	45.8177404 15.9754879
+Jamul, California, USA	32.7169988 -116.8761347
+Welcome Inn, Dublin, Ireland	54.08204255 -6.450956127609318
+Gomel, Belarus	52.4238936 31.0131698
+Lake View Terrace, California, USA	34.2763908 -118.3611912
+Chaska, Minnesota, USA	44.7894072 -93.6021791
+Moreland Hills, Ohio, USA	41.447831 -81.427615
+Atco, New Jersey, USA	39.769838 -74.8873855
+Bukit Brown, Singapore	1.3371278 103.8263414
+Gladstone, Michigan, USA	45.852744 -87.021805
+Beng Mealea, Cambodia	13.4755823 104.22977704917103
+404 Colorado St, Austin, Texas	30.2669654 -97.7448469
+Perry, Oklahoma, USA	36.2894855 -97.2880983
+Tira, Israel	32.2346856 34.9544553
+Port Orchard Marina, Port Orchard Washington, USA	47.5442515 -122.63749649084215
+Villa de Leyva Boyaca, Colombia	5.6619877 -73.52838010360202
+Chilika & Puri, Orissa, India	19.6853207 85.25036968762618
+Redmond, California, USA	37.2301115 -121.8720822
+Melito di Naples, Naples, Italy	40.8942229 14.2382956
+Flonheim, Rhineland-Palatinate, Germany	49.785 8.04
+Doussard, Haute-Savoie, France	45.776103 6.2200226
+Wirraminna, South Australia, Australia	-31.1999935 136.2278154
+Taboga Island, Panama	8.7895216 -79.56073999876523
+Les Alluets Le Roi, Yvelines, France	48.9139616 1.9177847
+Sankt Englmar, Bavaria, Germany	49.0013807 12.8239209
+Aflao, Volta Region, Ghana	6.1160471 1.1914021
+Beaumont-du-Ventoux, Vaucluse, France	44.1842023 5.1664171
+Merville-Franceville-Plage, Calvados, France	49.2788 -0.2036861
+White Earth Nation, Minnesota, USA	47.0858603 -95.8617135
+Benghazi, Libya	32.1288331 20.0817204
+Hotel Orient, Vienna, Austria	48.2130033 16.3691151
+Sidi Bouzid, Tunisia	34.881181 9.526359847182345
+Ako city, Hyogo, Japan	34.747287 134.390462
+Chauvry, Val-d'Oise, France	49.0544765 2.2669571
+Maghnia, Oran, Algeria	35.6913195 -0.6152871
+Fort Meyers, Florida, USA	27.797846 -81.32804
+Staigue Fort, Ireland	51.8050092 -10.015443278029903
+Stoughton Massachusetts, USA	42.1252079 -71.1022015
+La Traviesa, Madrid, Spain	40.4369659 -3.6876663
+Ellijay, Georgia, USA	34.6950278 -84.4827394
+County Carlow, Ireland	52.69078865 -6.825145150844913
+Dannemois, Essonne, France	48.4538873 2.4778402
+Cabo Corrientes, Jalisco, Mexico	20.3332855 -105.4242414888306
+Tumwater, Washington, USA	47.0080655 -122.910368
+Porter, Maine, USA	43.796376 -70.933228
+Sct. Bendtsgade 9, 4100 Ringsted, Denmark	55.4463077 11.7859528
+North Huntingdon, Pennsylvania, USA	40.3372785 -79.74820739087984
+Flintsbach, Bavaria, Germany	48.714137 13.1047465
+Baarn, Noord-Nederland, Netherlands	52.2148724 5.2830442
+Wellston, Ohio, USA	39.1234054 -82.5329377
+Fischbach/Pfalz, Rhineland-Palatinate, Germany	49.4542256 7.9136812
+Coatbridge, Scotland, UK	55.8622848 -4.0273166
+Dorcol, Belgrade, Serbia	44.8237627 20.4614824
+Mekedatu, Karnataka, India	12.2584997 77.4475194
+Andahuaylillas, Peru	-13.67422735 -71.67696403194999
+Bosa, Sardinia, Italy	40.2970061 8.4986123
+Augusta, Arkansas, USA	35.2823079 -91.3654063
+Niger Delta, Nigeria	4.833333 6.0
+Spis Castle, Slovakia	48.999434 20.76803014952728
+Vindobona, Vienna, Austria	48.2083537 16.3725042
+Shaoyang, Hunan, China	27.2426563 111.4610712
+Pichi Richi Pass, South Australia, Australia	-32.3959 137.98294
+Trubschachen, Kanton Bern, Switzerland	46.9228891 7.8466832
+Guri, Venezuela	10.669886250000001 -71.60678408549805
+Tonekabon, Mazandaran, Iran	36.8154324 50.8787003
+German, Bulgaria	42.6117101 23.4127002
+Bridgewater, South Australia, Australia	-35.0093879 138.7623775
+El Pireo, Greece	37.9431594 23.6470593
+Thiva, Greece	38.3200705 23.3175613
+Beveren, Oost-Vlaanderen, Belgium	51.21288495 4.249081329859443
+Kurtheater, Bad Homburg, Germany	50.2271758 8.6170703
+Studios Road, Middlesex, UK	53.4114891 -2.1500441
+Shijingshan District, Beijing, China	39.9046102 116.216797
+Germantown, Tennessee, USA	35.0867577 -89.8100858
+Mount Baldy, California, USA	34.2891206 -117.6464047
+Staphorst, Overijssel, Netherlands	52.636838749999995 6.208129803185402
+Oldenzaal, Netherlands	52.30853685 6.914603743122237
+Leiza, Navarra, Spain	43.0806959 -1.9163064
+South Las Vegas, Nevada, USA	36.011938900000004 -115.17611540695052
+Waltham, Quebec, Canada	45.907211 -76.908417
+Portuguese Bend, California, USA	33.7397395 -118.369517
+Mosigkau, Saxony-Anhalt, Germany	51.8067746 12.1535664
+Jarabulus, Syria	36.8181146 38.0098306
+St. Martin's Island, Cox's Bazar, Bangladesh	20.6284352 92.3218832
+Innsbrucker Platz, Berlin, Germany	52.47862670000001 13.344018894677344
+Champigneulles, Meurthe-et-Moselle, France	48.7342216 6.1651167
+High Court, Harare, Zimbabwe	-17.82567385 31.051006919898253
+East Village, Cork, Ireland	51.877399 -8.4345876
+Vermont, Illinois, USA	40.2942106 -90.4279033
+Haysi, Virginia, USA	37.205387 -82.2940326
+Piute Springs, California, USA	34.1095696 -118.7906757
+Prestonsburg, Kentucky, USA	37.6656527 -82.7715486
+Pretzfeld, Bavaria, Germany	49.7556419 11.1742432
+Portman, Murcia, Spain	37.59385045 -0.8574280617707528
+Grosrouvre, Yvelines, France	48.7829151 1.7611819
+Nabeul, Tunisia	36.4512897 10.7355915
+Coyuca, Guerrero, Mexico	17.178222599999998 -100.02586113890833
+University of Tartu Art Museum, Tartu, Estonia	58.3807628 26.7194208
+Grand Isle, Vermont, USA	44.7225436 -73.2923538
+Vilshofen, Bavaria, Germany	49.2978755 11.9529711
+Oignies, Pas-de-Calais, France	50.4643 2.99387
+Matanzas, Havana, Cuba	23.0617458 -82.3623037
+Kyburz, California, USA	38.7746298 -120.2968596
+Cascade Range, Washington, USA	47.6991344 -122.3391869
+White Twp, New Jersey, USA	40.822222499999995 -75.03387381831685
+Boonville, Missouri, USA	38.9751547 -92.7440277
+Bataviawerf, Lelystad, Netherlands	52.52237385 5.43648280364676
+Kabayan, Benguet, Philippines	16.623226 120.8384772
+Valle de Aezkoa, Navarra, Spain	42.1956874 -1.6377539
+Fairhaven, Massachusetts, USA	41.6376043 -70.9036487
+Santa Rosa, Guanajuato, Mexico	21.5522333 -101.0909691
+Kapelle, Zeeland, Netherlands	51.4879711 3.96063
+Santiago, Lisbon, Portugal	38.712361099999995 -9.13132901642144
+1986 N. Hill Field Rd. Layton, Utah, USA	41.0888079 -111.9724428
+Leerhotel het Klooster, Amersfoort, Netherlands	52.14131 5.3534586
+Antoing, Wallonia, Belgium	50.5574604 3.4661874583449226
+Falmouth, England, UK	50.1552197 -5.0688262
+Spanish Court Hotel	18.00807315 -76.78389126651808
+Changi Beach Club, Singapore	1.3907895 103.97531237978166
+Pemuteran, Bali, Indonesia	-8.1448438 114.6514284
+Ocean County, New Jersey, USA	39.977818 -74.3319287
+Cape York Peninsula, Queensland, Australia	-14.77330565 143.28956232101297
+Hoyerswerda, Sachsen, Germany	51.4333103 14.250083
+Stadtlohn, North Rhine-Westphalia, Germany	51.9928346 6.9173072
+Aglen, Bulgaria	43.2029714 24.311987
+Marmari, Euboea, Greece	38.0465835 24.3216297
+Roitham, Upper Austria, Austria	47.9609879 13.5873954
+Webster, New York, USA	43.212285 -77.429994
+University of California Los Angeles, California, USA	34.0708781 -118.44684973165106
+Calumet, Michigan, USA	47.246592 -88.454006
+Vorden, Gelderland, Netherlands	52.1041075 6.3126099
+Lewistown, Pennsylvania, USA	40.5992395 -77.571382
+Red Mesa, Arizona, USA	36.970667250000005 -109.3913319137331
+La Louviere, Belgium	50.479487 4.1852682
+Gruene Hall, Texas, USA	29.7383088 -98.10449521788766
+Canton Fribourg, Switzerland	46.6789116 7.1027113
+Frankfurt, Michigan, USA	42.6203331 -83.0250733
+Cohoes, New York, USA	42.7742446 -73.7001187
+Crystal City, Missouri, USA	38.2211656 -90.3790094
+San Pedro, Buenos Aires, Argentina	-33.6758554 -59.662845
+Decani monastery, Kosovo	42.55286705 20.247211999278264
+Ivanovka, Kharkiv, Ukraine	50.2439429 37.2668208
+Shannonville, Ontario, Canada	44.1949014 -77.2274387
+Dolen, Texas, USA	30.4252064 -94.8977079
+Four-Mile Bayou, Louisiana, USA	29.816202 -91.148267
+Sarmizegetusa, Romania	45.5152567 22.7825414
+Harburg, Hamburg, Germany	53.4562216 9.9872112
+Patterson, California, USA	37.471623 -121.1296949
+Ravenden, Arkansas, USA	36.2334012 -91.2517978
+Isle of Hope, Georgia, USA	31.9803688 -81.05919441889408
+Daundaj, Maharashtra, India	18.229761 74.1773903
+Rifle Gap, Colorado, USA	39.6341576 -107.7441162
+Ripollet, Catalonia, Spain	41.4993372 2.1573095
+Tuzigoot, Arizona, USA	34.77339605 -112.0287688549425
+Brabant, Belgium	50.7263212 5.8228954
+Kharkov, Ukraine	50.0436141 36.28879465183914
+Agua Prieta, Sonora, Mexico	31.3179664 -109.5425509
+Po Kong Village Road, Hong Kong, China	22.3429026 114.1987268
+La Cafetera Colonial, Santo Domingo, Dominican Republic	18.4731093 -69.8864305
+Washington, North Carolina, USA	35.5493702 -77.0535574
+Saint-Priest-sous-Aixe, Haute-Vienne, France	45.8164666 1.0992774
+Carrer del Rec, Barcelona, Spain	41.3845373 2.183598
+Laupheim, Germany	48.2305342 9.8771587
+Westerbork Camp, Netherlands	52.8492168 6.6103067
+Ventanilla, Callao, Peru	-11.88472945 -77.12306785364186
+Wrisbergholzen, Lower Saxony, Germany	52.0300662 9.9116198
+Tenango, Hidalgo, Mexico	20.2271271 -99.2873693
+Grossensee, Schleswig-Holstein, Germany	53.6136224 10.3420128
+Corolla, North Carolina, USA	36.3847464 -75.8286983
+Val Venosta, South Tirol, Italy	46.659822399999996 10.67294232071595
+Utuado, Puerto Rico	18.2653557 -66.6999395
+Lipson Island, South Australia, Australia	-34.263966100000005 136.26569493199565
+Summerhall, Edinburgh, UK	55.9399533 -3.1826741
+Tolentino, Italy	43.2087546 13.2844096
+Poitou-Charentes, France	46.13244785 -0.15455354898441043
+Cerro Brujo, Hidalgo, Mexico	20.3367811 -98.1815177
+Wilmington, Illinois, USA	39.4794415 -90.4874557487872
+Brentwood, Essex, UK	51.6201654 0.3018662
+Husvika, Norway	66.627833 13.318236
+Braila, Romania	45.2716092 27.9742932
+Lincoln, Montana, USA	48.5891095 -115.4911526
+Pigeon Lake, Alberta, Canada	53.023156799999995 -114.05347212175094
+Harvey, Louisiana, USA	29.9035387 -90.0772944
+Phillipsburg New Jersey, USA	40.6937099 -75.1901761
+Junction City, Oregon, USA	44.2191935 -123.204785
+Comino, Malta	36.01188675 14.336930375414362
+2 place des Ecoles, Val-d'Oise, France	49.0087725 2.284415450679875
+Center City, Minnesota, USA	45.3938525 -92.8166024
+Vexin, France	49.2625682 1.8821405
+Schwanenstadt, Upper Austria, Austria	48.0545249 13.7749232
+Olympic Stadium, Berlin, Germany	52.5145846 13.239814417756278
+Paso Robles High School, CA 93446, USA	35.61764125 -120.67018877824654
+Holesovice, Prague, Czech Republic	50.1006155 14.437384
+Amara, Romania	44.6173543 27.314991
+Manning, Iowa, USA	41.9091528 -95.0649917
+San Salvador, Bahamas	24.032 -74.49001670000001
+Tienhoven, Utrecht, Netherlands	52.1681803 5.081889
+Ayn, Savoie, France	45.571528 5.7492131
+Bhind, Madhya Pradesh, India	26.5 78.75
+San Miguel Canoa, Puebla, Mexico	19.151944 -98.103056
+Frankenland, Bavaria, Germany	50.014799 9.2879664
+Bidar, Karnataka, India	18.083333 77.333333
+Dalhousie, Himachal Pradesh, India	32.54357545 75.94484088677805
+Greifenberg, Bavaria, Germany	48.0707446 11.0835556
+Leander, Texas, USA	30.5603086 -97.8553655
+Velenje, Slovenia	46.3592869 15.1150301
+Pyhrn, Upper Austria, Austria	47.6127778 14.2857275
+Coplay, Pennsylvania, USA	40.6700965 -75.4954612
+Dorchester, South Carolina, USA	32.8496198 -79.9881442
+Cerro Muriano, Cordoba, Spain	38.0027632 -4.7694687
+Nakhon Sawan, Thailand	15.7054772 99.9288481
+Kollerschlag, Upper Austria, Austria	48.6051348 13.8415212
+Dickson, Tennessee, USA	36.0766534 -87.3870096
+St. Sigmund, Tirol, Austria	47.2014965 11.1025525
+Corning, Ohio, USA	39.6025696 -82.0881995
+Bruxelles, Brussels-Capital, Belgium	50.8465573 4.351697
+Tajima, Gifu, Japan	35.6542393 137.1713019
+Bremgarten, Kanton Aargau, Switzerland	47.3539569 8.3376446
+Hanover, Minnesota, USA	45.155797 -93.6663524
+Tarrant County, Texas, USA	32.7513658 -97.335696
+Wakayama, Japan	34.234617 135.1782181
+Traunreut, Bavaria, Germany	47.9627599 12.5952942
+Mottsville, Nevada, USA	38.9285183 -119.8376788
+Homer Glen, Illinois, USA	41.6000318 -87.9381112
+Bruchhausen-Vilsen, Lower Saxony, Germany	52.8288647 8.988901
+Wijhe, Netherlands	52.3841425 6.136018
+Warragamba, New South Wales, Australia	-33.8890386 150.6039175
+Saint-Bernard-de-Lacolle, Quebec, Canada	45.082248 -73.412361
+Oak Ridges, Ontario, Canada	44.2166594 -79.9998699
+Kincheloe, Michigan, USA	46.259185 -84.4673109
+Rorschach, Kanton St. Gallen, Switzerland	47.4779686 9.4914025
+M. P. Bruuns Gade, Aarhus, Denmark	56.1479758 10.2035289
+Gmirta Moedani, Tbilisi, Georgia	41.71318155 44.78249812417617
+Mendon, Massachusetts, USA	42.0962353 -71.5454516
+Malmsbury, Victoria, Australia	-37.1887679 144.38278
+Tsing Ma Bridge, Hong Kong, China	22.35170115 114.07611342337523
+Pomerene, Arizona, USA	31.999527 -110.286183
+Broomall, Pennsylvania, USA	39.9815001 -75.3565797
+Haan, North Rhine-Westphalia, Germany	51.1954956 7.0085328
+Preetz, Schleswig-Holstein, Germany	54.2359233 10.2818352
+Billing, Northamptonshire, UK	52.2547676 -0.8143222542315447
+Mandelieu-la-Napoule, Alpes-Maritimes, France	43.5439153 6.9359135
+New Hartford, New York, USA	43.061217 -75.27141473604938
+Redwater, Alberta, Canada	53.9527743 -113.1124871
+Connersville, Indiana, USA	39.6411589 -85.1410748
+Selva di Val Gardena, Trentino - Alto Adige, Italy	46.55258755 11.766362186154542
+Oersberg, Schleswig-Holstein, Germany	54.6752017 9.8427703
+Fisk, Wisconsin, USA	43.9558165 -88.6781668
+Mong Kok, Hong Kong	22.3197491 114.1693644
+Plaquemines Parish, Louisiana, USA	29.4291161 -89.5123524
+Neu-Anspach, Hessen, Germany	50.3024677 8.5098118
+Torres de la Alameda, Madrid, Spain	40.4021516 -3.360625
+Paonta Sahib, India	30.48904715 77.5819610357789
+Sahuaripa, Sonora, Mexico	29.01277815 -109.00894587829927
+Raimundtheater, Vienna, Austria	48.19219665 16.339917547799665
+Gibsonia, Pennsylvania, USA	40.6300671 -79.9695004
+Raritan River, New Jersey, USA	40.4926906 -74.4122172
+Newberry Park, California, USA	34.182220799999996 -117.29389948891509
+Museumstoomtram Hoorn-Medemblik, Netherlands	52.6456327 5.0545146
+Simiri, Niger	14.1402577 2.1333854
+Roma-Tolfa Strada, Lazio, Italy	42.032159199999995 11.939772600638568
+University Endowment Lands, British Columbia, Canada	49.25766695 -123.21724950249359
+Mount Aragaz, Armenia	40.5232682 44.1934291
+Sterling, Massachusetts, USA	42.4390247 -71.7666242
+Verchaix, Haute-Savoie, France	46.0960389 6.6755322
+Alster, Hamburg, Germany	53.6723882 10.0924265
+Tantanoola, South Australia, Australia	-37.6965916 140.4555752
+Greenfield, Iowa, USA	41.3052657 -94.4613543
+Nueva Colonia, Jalisco, Mexico	20.4275501 -102.9304296
+Las Tablas, Panama	7.65163785 -80.31489041885015
+Lamphun, Thailand	18.2661422 98.96749
+Oxford, Wisconsin, USA	43.7813661 -89.5726232
+Sunshine Coast QLD Australia	-26.6544338 153.0933668
+Lion and Unicorn London, England, UK	51.5480701 -0.1389707
+2 Beresford Square, Auckland, New Zealand	-36.8570596 174.758608
+Cormons, Gorizia, Italy	45.957791 13.4709541
+Negros Oriental, Visayas, Philippines	9.75 123.0
+Auburn, Michigan, USA	42.310407 -83.302175
+Kumluca, Antalya, Turkey	36.3657472 30.2875296
+Sand in Taufers, South Tyrol, Italy	46.9192363 11.9551824
+Maynardville, Tennessee, USA	36.2506364 -83.7974099
+New Haven, Kentucky, USA	37.6578397 -85.5910728
+Lesce, Slovenia	46.3618008 14.1544381
+Gidgegannup, Western Australia, Australia	-31.7932274 116.1960296
+Hepburn Springs, Victoria, Australia	-37.3091002 144.1409344
+Museo Inka, Cusco, Peru	-13.5152889 -71.9781013
+Shidler, Oklahoma, USA	36.7819849 -96.6611377
+Ebnat-Kappel, Kanton St. Gallen, Switzerland	47.2635337 9.1233561
+Lesina, Apulia, Italy	41.859439 15.352741
+Berre l'Etang, France	43.4758249 5.1673492
+Lettermore, County Galway, Ireland	53.289297 -9.6556407
+Lynn Center, Illinois, USA	41.2958691 -90.357904
+Dickwella, Sri Lanka	5.963938499999999 80.69404455
+Neptune City, New Jersey, USA	40.2001133 -74.0279152
+L'Hospitalet, Alpes-de-Haute-Provence, France	44.0870752 5.6990272
+Kayonza, Rwanda	-1.904955 30.510214
+Svaneti, Georgia	42.66802335 43.53487037032389
+Heftrich bei Idstein, Hessen, Germany	50.2210372 8.3307594
+Sankt Bendts Kirke, Ringsted, Denmark	55.44540135 11.786967607010515
+Hallbergmoos, Bavaria, Germany	48.3182064 11.7445128
+Canal Zone, Panama	8.9536841 -79.5376179437931
+Parkton, Maryland, USA	39.6409378 -76.6591376
+Camden, London, UK	51.5423045 -0.1395604
+Dunolly, Victoria, Australia	-36.8590029 143.7337931
+Barceloneta, Puerto Rico	18.4528931 -66.539884
+Beqaa Valley, Lebanon	33.8511651 35.9570637
+Cabra, Dublin, Ireland	53.3669485 -6.2933936
+Mehagne, Belgium	50.5996937 5.6159621
+Neustadt, Hamburg, Germany	53.5498808 9.9790482
+Vinarice, Czech Republic	50.3738098 14.9522751
+Commercial Street, London, UK	51.51697 -0.0732373
+Maria Alm, Salzburg, Austria	47.42371505 13.025118849999998
+4264 Huntington Drive North - Los Angeles, California, USA	34.07874408163266 -118.19331651020408
+Nambe, New Mexico, USA	35.8933654 -105.982529
+Chandni Chowk, New Delhi	28.6434826 77.2227421
+South River, New Jersey, USA	40.446495 -74.3859831
+Gambier, Ohio, USA	40.375643 -82.3970994
+Morden, Manitoba, Canada	49.1927055 -98.1014567
+Black Hawk County, Iowa, USA	42.4607526 -92.3030235
+Spring Lake Heights, New Jersey, USA	40.1532197 -74.0438803
+The Atlantic Ocean	45.5333174 -60.7198129
+Yesa, Navarra, Spain	42.620176 -1.2021437
+Villa Tunari, Bolivia	-16.9725468 -65.4200268
+Riverton, Connecticut, USA	41.9628729 -73.0167726
+Centrum-Warenhaus Leipzig, East Germany	51.336686549999996 12.329069451706705
+Irun, Gipuzkoa, Spain	43.3383176 -1.7888095
+N. Charleston, South Carolina, USA	32.9131295 -80.0629981965219
+Aa en Hunze, Drenthe, Netherlands	52.9814393 6.729452061777957
+Franz Josef Land, Russia	80.6174336 60.70770134579547
+Schwalmtal, North Rhine-Westphalia, Germany	51.22727 6.270687
+Boston, and Massachusetts, USA	41.29327725 -70.04089708759642
+Palatinate Forest, Rhineland-Palatinate, Germany	49.32336665 7.893715152033998
+Forbidden Plateau, British Columbia, Canada	49.6831856 -125.3168157
+Yanchep, Western Australia, Australia	-31.549942 115.6256848
+El Tamarindo, Jalisco, Mexico	19.2479449 -104.7949868665284
+Makkum, Netherlands	53.0572965 5.4048682
+Panam Nagar, Sonargaon, Bangladesh	23.6558359 90.6032983
+Huejuquilla, Jalisco, Mexico	22.371944 -103.926667
+Binya, New South Wales, Australia	-34.2309296 146.3460224
+Braidwood, New South Wales, Australia	-35.4388907 149.7955552
+Rio Maior, Portugal	39.350401950000006 -8.911176402248575
+Pierrelaye, Val-d'Oise, France	49.0231851 2.1557195
+Newark, Illinois, USA	41.5388542 -88.5852333
+Olney, Illinois, USA	38.7296538 -88.0846891
+Cuesta de Moyano, Madrid, Spain	40.4095951 -3.6911316
+Wloclawek, Kujawsko-Pomorskie, Poland	52.66017 19.0722963
+Bad Elster, Saxony, Germany	50.2811665 12.236949
+St. Croix River, Maine, USA	45.183793800000004 -67.29143250499624
+Herborn, Hesse, Germany	50.6832181 8.3031361
+Salix, Iowa, USA	42.3084403 -96.2877387
+Megler, Washington, USA	46.2509379 -123.8576454
+Subotica, Vojvodina, Serbia	46.1002058 19.6653273
+Patscherkofel, Tirol, Austria	47.2088279 11.4606079
+Saint-Yon, Essonne, France	48.5634783 2.187943
+Oppstryn, Norway	61.908837 7.0557756
+Oldenswort, Schleswig-Holstein, Germany	54.3712288 8.9411522
+Fields, Copenhagen	55.6310777 12.5770018
+Watermael-Boitsfort, Brussels-Capital, Belgium	50.7981063 4.4176441
+Moritzplatz 1, Saxony-Anhalt, Germany	52.1559083 11.632486525366748
+Santa Cristina Valgardena, Trentino-Alto Adige, Italy	46.5588749 11.7200359
+Gibsonville, North Carolina, USA	36.09791955 -79.54583336494393
+Elkhart, Illinois, USA	40.0207284 -89.4822462
+Val Senales, Trentino-Alto Adige, Italy	46.7519445 10.9612727
+Arendonk, Belgium	51.3202315 5.0864557
+Acitrezza, Sicily, Italy	37.5663397 15.161036488094958
+Spring Lake, Alberta, Canada	53.5193105 -114.1385071
+Chivilcoy, Buenos Aires Province, Argentina	-34.8969591 -60.0190499
+Pepperell, Massachusetts, USA	42.6697695 -71.6030963
+University of Cambridge, England	52.1998523 0.11973865741074383
+Lake Wolfgang, Salzburg, Austria	47.74575005 13.403349799593956
+Peguche, Ecuador	0.2504975 -78.2456389
+Unternberg, Salzburg, Austria	47.1124378 13.7412804
+Cape Jaffa, South Australia, Australia	-36.9449158 139.6889525
+8000 Cooper Avenue Glendale, New York, USA	40.6992875 -73.8879757
+Furlong, Pennsylvania, USA	40.2962179 -75.082115
+Lower Cwmtwrch, Wales, UK	51.770668349999994 -3.77937885145755
+Pustynia Bledowska, Slaskie, Poland	50.339790199999996 19.512753375769805
+Bockelskamp, Lower Saxony, Germany	52.5792072 10.1508007
+Rozendaal, Gelderland, Netherlands	52.0394752 5.963024982504363
+Lower Prospect, Nova Scotia, Canada	44.4542593 -63.7254816
+Shafter, Texas, USA	29.8173646 -104.3061281
+Franklin, Georgia, USA	34.3678642 -83.2156575
+Gut Bernried am Starnberger See, Bavaria, Germany	47.8500758 11.2812712
+Prerov nad Labem, Czech Republic	50.1601277 14.8245331
+Fraser Canyon, British Columbia, Canada	49.3512156 -121.27110298986912
+Forks of the Credit, Ontario, Canada	43.7983511 -79.9927117
+Tyne Tunnel, Newcastle, UK	55.0028836 -1.4851739
+Fort Ellewoutsdijk, Zeeland, Netherlands	51.3864388 3.812662037520756
+Balatonakali, Hungary	46.868188950000004 17.760506632023098
+Marble Falls, Arkansas, USA	36.1030426 -93.1294779
+Humboldt, Tennessee, USA	35.8197917 -88.9158953
+Huilloc, Peru	-13.2034555 -72.2007631
+Cementerio General de Santiago, Chile	-33.413208600000004 -70.64823209292882
+Co-prosperity Sphere Chicago, Illinois, USA	41.8357203 -87.6508905
+Bonney Lake, Washington, USA	47.1870191 -122.1702293
+Hashimoto, Kanagawa, Japan	35.5952335 139.3436025
+Winchester Fells, Massachusetts, USA	42.4417628 -71.0711633
+Roan Mountain, Tennessee, USA	36.1962305 -82.0703999
+Coentral, Portugal	37.3005446 -8.2223158
+Lindenfels, Hessen, Germany	49.6850417 8.7787942
+Paseo Montejo, Yucatan, Mexico	20.9880496 -89.6171024
+Apple Valley, Minnesota, USA	44.7319094 -93.21772
+Burbank, CA, USA	34.1816482 -118.3258554
+Weilheim, Bavaria, Germany	47.8395072 11.1416355
+Gietrzwald, Warminsko-Mazurskie, Poland	53.7479907 20.2344346
+Surin, Thailand	14.8841804 103.4906232
+Aligarh	27.87698975 78.13729027600994
+Phelpston, Ontario, Canada	44.518002 -79.8468118
+Crossett, Arkansas, USA	33.1263899 -91.96297
+Talakona, Andhra Pradesh, India	13.8116648 79.2157823
+the Algarve, Portugal	37.09911785 -7.998519333777031
+Foley, Minnesota, USA	45.663512 -93.9137277
+Woodland Hills, Ca, USA	34.1684364 -118.6058382
+Kamas, Utah, USA	40.6429578 -111.280518
+Drohobycz, Ukraine	49.3513996 23.5061662
+Barber� del Vall�s, Spain	42.5018645 0.809721
+New Cuyama, California, USA	34.9465835 -119.6860459
+Kotelsko, Czech Republic	50.5519782 15.2927853
+Ihlow, Brandenburg, Germany	51.8678267 13.3381237
+Outville, Ohio, USA	39.9950636 -82.5957182
+Croton Falls, New York, USA	41.3480995 -73.6621875
+Calvisson, France	43.7853458 4.1900505
+Monte Cassino, Italy	41.4899454 13.8133251
+Sta. Monica Parish Church, Iloilo, Philippines	11.5560457 122.7937277
+Mantua, Utah, USA	41.4957692 -111.9438329
+Batterie allemande de Longues sur Mer, Longues-sur-Mer, France	49.3437213 -0.693935
+Forest City, Pennsylvania, USA	41.6516065 -75.46904477262557
+Datteln, North Rhine-Westphalia, Germany	51.6512192 7.3393014
+Monticello, Wisconsin, USA	42.7456573 -89.5945254
+Brezje, Slovenia	45.8254891 15.2561325
+Mattersburg, Burgenland, Austria	47.7368423 16.3980488
+Roudnice, Czech Republic	50.1761626 15.6516988
+Fujisawa, Kanagawa, Japan	35.364842 139.465077
+Anadolu Universitesi, Eskisehir, Turkey	39.7944128 30.4948976
+Adams, Wisconsin, USA	43.9462246 -89.7836456
+Kreis Steinfurt, North Rhine-Westphalia, Germany	52.234923 7.51210543809956
+Grafton, Utah, USA	37.1441844 -113.0931261
+Nueva Guinea & Managua, Nicaragua	11.6870773 -84.4567053
+Kewaunee, Wisconsin, USA	44.4584016 -87.5031519
+Sparta, Ontario, Canada	42.7025017 -81.078734
+Paloemeu, Suriname	2.8551775 -55.382238
+Almancil, Algarve, Portugal	37.0949876 -7.9932482
+Chinook, Washington, USA	46.272883 -123.945429
+Deauville 14, France	49.36 0.0752778
+Ellenwood, Georgia, USA	33.613283 -84.288327
+Greater Vancouver, British Columbia, Canada	49.2779085 -123.10894170979472
+Glonn, Bavaria, Germany	47.9878929 11.8656334
+West River, Maryland, USA	38.8503923 -76.5960728
+Barysaw, Belarus	54.2240665 28.5117849
+Qeqertarsuaq, Disko Island, Greenland	69.2473546 -53.5374338
+Vienna, Illinois, USA	37.4153295 -88.8978435
+Three Lakes, Wisconsin, USA	45.033097049999995 -92.58653139985631
+South Riding, Virginia, USA	38.918018 -77.517342
+Bellevue, Canton Geneva, Switzerland	46.255 6.154317
+Rockwood, Manitoba, Canada	50.285829 -97.314148
+City of Commerce, California, USA	33.971865300000005 -118.12754763590029
+Cedar Key, Florida, USA	29.1377209 -83.0359638
+The Dolomites, Italy	46.4304627 11.6856738
+Hortobagy, Hungary	47.5826139 21.1525371
+Chillicothe, Illinois, USA	40.9161637 -89.4884384
+Bohinjska Bistrica, Slovenia	46.2723743 13.9538827
+Nocera Terinese, Italy	39.0368928 16.1607183
+Manus Island, Papua New Guinea	-5.558333 154.619444
+Mark Brandenburg, Brandenburg, Germany	51.8584391 14.4114735
+Oukaimeden, Morocco	31.205279 -7.8613235
+The Great Wall of China, Beijing, China	40.6917528 117.171338
+Holland Hills, Baltimore Maryland, USA	39.3362184 -76.5255197
+Paringa, South Australia, Australia	-34.1786264 140.7861587
+Kingston, NJ, USA	40.373057 -74.60551142628361
+Gossensass, South Tyrol, Italy	46.9401244 11.46145367091443
+Heidkate, Germany	54.4324052 10.3339066
+Neue Flora, Hamburg, Germany	53.5626225 9.950300851643679
+Schwerte, Germany	51.445525 7.5674652
+Cuiteco, Chihuahua, Mexico	27.4348518 -108.008074
+Viens, Vaucluse, France	43.8952255 5.5670137
+Gosciecice, Lower Silesia, Poland	50.7606171 17.0899569
+Alta, California, USA	39.2065653 -120.8113267
+Weitensfeld, Carinthia, Austria	46.723054 14.2574486
+Mejorada del Campo, Spain	40.3971785 -3.4896068
+Meppen, Lower Saxony, Germany	52.6959802 7.2980648
+Deerswood Avenue, Hatfield, UK	51.7513302 -0.226105
+Keele University, England, UK	53.0016756 -2.270694218876779
+Harrow, Middlesex, UK	51.5846298 -0.3291715
+Kreis Stormarn, Schleswig-Holstein, Germany	53.70797065 10.3057089477199
+Lipson Cove, South Australia, Australia	-34.2569 136.26527
+Velarde, New Mexico, USA	36.158879 -105.9747115
+Dettelbach, Germany	49.8022738 10.1612858
+Parque Nacional Alejandro de Humboldt, Cuba	20.47827705 -74.88990003864697
+Dori, Burkina Faso	14.0310659 -0.0289733
+Bhavnagar, Gujarat, India	21.7718836 72.1416449
+Chanzeaux, Maine-et-Loire, France	47.26906745 -0.6574610087155957
+Edgewood, New Mexico, USA	35.0614358 -106.1914141
+Effelsberg, Rhineland-Palatinate, Germany	50.52482295 6.883608437025704
+Woltersdorf bei Erkner, Brandenburg, Germany	52.4337103 13.753476
+Nieuw & Sint Joosland, Zeeland, Netherlands	51.4819696 3.6568838
+Hico, Texas, USA	31.9835159 -98.0316402
+Braeside, Victoria, Australia	-38.0005245 145.1229578
+Dalmazirain, Bern, Switzerland	46.9401371 7.4461498
+Turtle Lake, Wisconsin, USA	45.3944027 -92.1424066
+Seymour, Tennessee, USA	35.8704536 -83.7571149
+East William Street.	39.986398 -75.115405
+Strandhill, Co.Sligo, Ireland	54.271944 -8.5933329
+Freeland, Maryland, USA	39.7048259 -76.6838605
+Phillipines	10.2447856 -61.4561398
+Mazamitla, Jalisco, Mexico	19.890584150000002 -103.08102044422532
+Lake Victoria, Tanzania	-1.265906 32.86849590594538
+Highline Stages, New York, USA	40.7423011 -74.0066979
+Santiago, Cape Verde	15.1200758 -23.634818134026133
+Redcross, County Wicklow, Ireland	52.8725962 -6.1255575
+Bad Schwalbach, Hessen, Germany	50.141688 8.071992
+Takilma, Oregon, USA	42.0517864 -123.6197333
+Southern Oregon University	42.186606850000004 -122.69679025359596
+Pec, Kosovo	42.6593986 20.2885757
+Capannori, Tuscany, Italy	43.8420391 10.5735254
+Rishon Le Zion, Israel	32.3262908 34.8497945
+Helena, Alabama, USA	33.296224 -86.8436004
+Volturara, Apulia, Italy	41.496029 15.052239
+Area 15 Noda	-33.8183538 25.387567
+Bentong, Pahang, Malaysia	3.5196355 101.9133469
+3240 Wilshire Blvd, Los Angeles, California USA	34.06170565217391 -118.29263208695653
+Limburg an der Lahn, Germany	50.3876305 8.0636197
+Tremont, Illinois, USA	40.5275392 -89.4925979
+East Haddam, Connecticut, USA	41.4529215 -72.4613902
+Cyberjaya, Malaysia	2.9338908 101.6455587
+Arnsberg, North Rhine-Westphalia, Germany	51.4002384 8.0605908
+Zappendorf, Saxony-Anhalt, Germany	51.504718749999995 11.790701855539435
+Kungsgatan 30, Uppsala, Sweden	59.86122635 17.639976408638034
+Vilanova de Arousa, Pontevedra, Spain	42.5622257 -8.8265651
+Clefs, Maine-et-Loire, France	47.6241895 -0.0708434
+Bad Fischau, Lower Austria, Austria	47.8303476 16.1655929
+Bressolles, Allier, France	46.5318263 3.313561
+Robledo de Chavela, Madrid, Spain	40.5009201 -4.2380999
+Sweden, Stockholm	59.3251172 18.0710935
+Podnart, Slovenia	46.2970954 14.2545243
+Tulalip, Washington, USA	48.071385500000005 -122.26486740245815
+Empede, Niedersachsen, Germany	52.5364052 9.4651257
+Madison, West Virginia, USA	38.0670454 -81.8192892
+Cape Disappointment, Washington, USA	46.29007625 -124.06815876521793
+Wien Mitte Railway Station, Vienna, Austria	48.2056315 16.3842468
+Pembina Provincial Park, Alberta, Canada	53.609010600000005 -114.99141335062507
+Ciales, Puerto Rico	18.26380545 -66.50827910425036
+Trussville, Alabama, USA	33.7109475 -86.53302895495617
+Karl Marx Theatre, Havana, Cuba	23.1294092 -82.41960375778527
+Isle-et-Bardais, Allier, France	46.689 2.79212
+King Rd. King Township, Ontario, Canada	43.9201118 -79.5270426
+Mokpo, South Korea	34.7903335 126.3847547
+Gorky Park, Moscow, Russia	55.7270901 37.59955936200672
+Evendale, Ohio, USA	39.2561691 -84.417997
+Gulf of Salerno, Campania, Italy	40.46618035 14.733532725758263
+Gran Alacant, Alicante, Spain	38.222796 -0.5197043
+Berea, Ohio, USA	41.3661614 -81.8543026
+Averill Park, New York, USA	42.636092000000005 -73.55140404560012
+Rostovskaya Region, Russia	45.0532196 39.0053949
+Duivendrecht, Noord-Holland, Netherlands	52.3235282 4.9364854
+Genoa, Nevada, USA	39.0043524 -119.8471238
+St. Christoph, Tirol, Austria	47.127712 10.2135362
+Pancras Road, London, UK	51.5334262 -0.1266493
+Paramore, Florida, USA	30.557347 -84.279307
+Goffs, California, USA	34.9191646 -115.0627541
+Gandria, Ticino, Switzerland	46.005737 9.0027751
+Shibin El Kom, Egypt	30.5545106 31.0097923
+Clichy-sous-Bois, Seine-Saint-Denis, France	48.910939 2.5460722
+Pointe du Hoc, Calvados, France	49.3956973 -0.9882680066949512
+Dhodhsar, Rajasthan, India	27.2854322 75.6262135
+Roanoke, Texas, USA	33.0040126 -97.2258483
+Littlerock, California, USA	34.5213675 -117.98739359695347
+Teays Valley, West Virginia, USA	38.4458955 -81.9135801920068
+Largo do Corpo Santo, Lisbon, Portugal	38.707011949999995 -9.14184520000902
+Hofburg, Vienna, Austria	48.206329350000004 16.365625875684927
+Santa Ana Pueblo, New Mexico, USA	35.3486494 -106.5266927
+Rua da Madalena, Lisbon, Portugal	38.7116332 -9.1357841
+Hawthorne, Florida, USA	29.5918856 -82.0869578
+Didgori, Georgia	41.7914713 44.67241249391038
+1 Brattleboro Dr. Greensburg, Pennsylvania, USA	40.33814 -79.533689
+Bolata, Dobrich, Bulgaria	43.3823327 28.470033547989694
+Holtgast, Lower Saxony, Germany	53.6298 7.57507
+Puerto Tejada, Valle del Cauca, Colombia	3.3021933 -76.4774835
+Hamburg, Munich, Germany	48.1249694 11.6052155
+One and Only Ocean Club, Paradise Island, Bahamas	25.0838024 -77.3113455
+Santos, Lisbon, Portugal	38.706638 -9.1559208
+Tres Pinos, California, USA	36.7899573 -121.321043
+Cermenate CO, Italy	45.7000804 9.0800884
+Tremblay, Ille-et-Vilaine, France	48.419088849999994 -1.4503403898617546
+Inala, Brisbane, Australia	-27.59854 152.9720075
+Manhattan, New York, USA 	40.7896239 -73.9598939
+Sandwich, Massachusetts, USA	41.7579043 -70.4968152
+1200 Lansdowne Drive, Coquitlam, Canada	49.2779709 -122.8083198
+East Clandon, England, UK	51.2568306 -0.4826123
+Mariemont, Ohio, USA	39.1455233 -84.3743881
+Voldum, Jylland, Denmark	56.3658873 10.172958499984034
+Santa Rita Tlahuapan, Puebla, Mexico	19.3321786 -98.5780079
+Manzanillo de la Paz, Jalisco, Mexico	20.5099369 -103.2973653
+Whitehouse, Texas, USA	32.2268666 -95.2259279
+Ruidoso Downs, New Mexico, USA	33.3289733 -105.6044291
+Ibiraci, Minas Gerais, Brazil	-20.461944 -47.122223
+Kastellaun, Rhineland-Palatinate, Germany	50.0713361 7.4422325
+Satu-Mare, Romania	47.7891763 22.8725598
+Karjat, Maharashtra, India	18.57982995 75.0015318226267
+London, Kentucky, USA	37.1289771 -84.0832646
+Vieux village de Sarcelles, Val-d'Oise, France	49.0131509 2.464379727809765
+Mendig, Rhineland-Palatinate, Germany	50.3720933 7.2812427
+Voorschoten, Zuid-Holland, Netherlands	52.12572195 4.441016864583206
+Dunrobin, Ontario, Canada	45.4229052 -76.0204197
+Toledo Ohio, USA	41.6529143 -83.5378173
+North Babylon, New York, USA	40.7303088 -73.3265592076986
+Grand-Rechain, Herve, Belgium	50.6072867 5.8107674
+University of Alabama at Birmingham - Birmingham, Alabama, USA	33.5016153 -86.80604756076488
+Sultanpur Lodhi	31.2144692 75.19477
+Fredericktown, Ohio, USA	40.4811721 -82.5407213
+West Kill, New York, USA	42.1981982 -74.3397242
+Staatstheater Darmstadt, Germany	49.8682881 8.64903534856473
+Saint Mary, Louisiana, USA	29.94913175 -90.12016423966705
+555 Hastings Street, British Columbia, Canada	49.2811247 -123.0232227
+Busselton, Western Australia, Australia	-33.644499 115.3488754
+Drumfin, County Sligo, Ireland	54.129167 -8.441944
+California Rehabilitation Center - Norco, California, USA	33.92870615 -117.57227907488382
+Mongu, Zambia	-15.2668751 23.1365365
+Stift Stams, Austria	47.277686 10.98474
+Piotrkow, Poland	50.7172566 16.8821979
+Vale Royal, Cheshire West & Chester, UK	53.2246542 -2.5425091409879017
+Hill Country, Texas, USA	29.5824497 -98.4908512
+Union Grove, Alabama, USA	34.402263500000004 -86.44629485301036
+Ixopo, KwaZulu-Natal, South Africa	-30.151389 30.061111
+Grimaldi, S�o Paulo, Brasil	-22.606986300000003 -46.9428960900033
+Sirajganj, Bangladesh	24.4566253 89.7081281
+Glen, New Jersey, USA	40.960569500000005 -74.12438975863029
+Taiyuan City, Taiwan	22.7566527 121.1227223
+Frabertsham, Bavaria, Germany	48.028192 12.3707247
+Menomonie, Wisconsin, USA	44.8755183 -91.9193422
+Acqualagna, Marche, Italy	43.6258843 12.6759738
+Aberdeen, California, USA	36.9777669 -118.2548054
+Ridgeway, Iowa, USA	43.2977472 -91.9876632
+Tonsee, Brandenburg, Germany	52.2674301 13.542738258801005
+Ba�os, Ecuador	-34.5929294 -58.4030473
+Chisago City, Minnesota, USA	45.3735757 -92.8899376
+White Hall, Virginia, USA	38.1178793 -78.6612787
+Veurne, Bachten de Kupe, Belgium	50.9929302 2.6536625835438934
+461 S. Boylston St, LA, CA 90017	34.054009 -118.259618
+Xian Province, China	38.1904931 116.1191021
+International Plaza, Singapore	1.275755 103.84590035797444
+Pantepec, Puebla, Mexico	20.581037549999998 -97.85033481807949
+Bear Lake, Michigan, USA	44.420835 -86.148143
+Bezdez, Czech Republic	50.5337837 14.7217684
+Stokke, Norway	59.221354500000004 10.30039258333334
+Rue de Fleurus, Paris, France	48.8470722 2.3308583
+Boeverbos, Bruges, Belgium	51.19582235 3.1847714607806683
+Gold Bar, Washington, USA	47.8540432 -121.6932029
+Unicoi County, Tennessee, USA	36.1072175 -82.444068
+Lula, Georgia, USA	34.3876013 -83.6662854
+Sanford, Manitoba, Canada	49.6824648 -97.4445476
+Alameda del Valle, Madrid, Spain	40.9177178 -3.8438216
+Kuncice, Stare Mesto pod Sneznikem, Czech Republic	50.1880242 16.9413281
+Live Oak, Texas, USA	28.2678746 -98.101923
+Newport, Minnesota, USA	44.8734744 -93.0003862
+Cambridge Military Library, Halifax, Nova Scotia	44.6443181 -63.576724538433375
+Ward, Colorado, USA	40.0722083 -105.5083316
+Tecumseh, Michigan, USA	42.0039331 -83.9449417
+Windham, New York, USA	42.3073066 -74.2520875
+Sumapaz Paramo, Colombia	3.98710375 -74.2156310440227
+Sans Souci, New South Wales, Australia	-33.9926292 151.1337972
+Elbe River, Saxony-Anhalt, Germany	52.4951047 12.0088584
+Italy, Texas, USA	32.1840381 -96.8847194
+La Ronge, Saskatchewan, Canada	55.1005283 -105.2900485
+Dannebergplatz, Vienna, Austria	48.1988818 16.3898812
+Shannon, North Carolina, USA	34.8467945 -79.13812189051667
+Chateau de Vullierens, Vaud, Switzerland	46.57097815 6.479860429607726
+Haut-Jura, France	46.6596029 6.0743773
+Leusden, Utrecht, Netherlands	52.1187668 5.417118899734083
+Van Lear, Kentucky, USA	37.7712067 -82.7579371
+Magny-le-Hongre, Seine-et-Marne, France	48.8631156 2.8135257
+Egling, Bavaria, Germany	47.9230899 11.5086415
+Havel, Berlin, Germany	52.4309737 13.1076994
+La Fayette, Alabama, USA	33.592432 -87.829312
+Madura Island, East Java, Indonesia	-7.059076299999999 113.28431738934134
+Belleview, Florida, USA	29.0552507 -82.0623105
+Lincoln National Forest, New Mexico, USA	33.631035999999995 -105.44341705431984
+Halkida, Greece	38.4624412 23.5947651
+Grand Canal Dock, Dublin 4, Ireland	53.3418894 -6.238021519454154
+Keatchie, Louisiana, USA	32.1884945 -93.9054624
+Thalerhof bei Graz, Steiermark, Austria	46.9903925 15.4508469
+Riviera Beach, Florida, USA	26.784343 -80.0650293
+Oise, France	49.41205455 2.406487846905477
+Brandis, Saxony, Germany	51.3346604 12.6089036
+S�o Pedro de Penaferrim, Sintra, Portugal	38.77477085 -9.347807903025544
+Reinheim, Hessen, Germany	49.8295879 8.8303357
+Forest Hills, Pennsylvania, USA	40.4197911 -79.8500487
+LaGrange County, Indiana, USA	41.6372578 -85.4216948
+Baptiste Lake, Ontario, Canada	48.046775999999994 -80.64555192414244
+Malibu Creek, California, USA	34.0720225 -118.7054664
+Coulaines, Sarthe, France	48.0306873 0.2068691
+Brannenburg, Bavaria, Germany	47.7375435 12.1043795
+National Theatre Bucharest, Bucharest, Romania	44.436589 26.1034279
+Parco delle Groane, Lombardia, Italy	45.65248695 9.08925728978177
+Saint Pierre Laval, Auvergne, France	46.2017556 3.7796374
+sur les bords du Loing, France	48.17844295 2.7294028658079905
+Vent, Tirol, Austria	46.8600108 10.9146696
+Emigrant, Montana, USA	45.3702141 -110.7335469
+Elektrenai, Vilnius County, Lithuania	54.786657 24.6708398
+Sabar�, Minas Gerais, Brazil	-19.7172803 -43.5840055
+Kuropatnik, Lower Silesia, Poland	50.7487566 17.1084368
+Skalica, Slovakia	48.8461007 17.2287837
+Capernaum, Israel	32.8807342 35.5754258
+Campbell County, Kentucky, USA	38.9339799 -84.3715286
+Palais Bahia, Marrakech, Morocco	31.62148195 -7.981695883854556
+Pineville, LA, USA	31.3224044 -92.4343035
+Denver Colorado, USA	39.7392364 -104.9848623
+Gol, Norway	60.7513391 9.012301772691686
+Lesachtal, Carinthia, Austria	46.68063785 12.796397643914279
+Bilthoven, Netherlands	52.1289693 5.2046134
+Rozay-en-Brie, Seine-et-Marne, France	48.6848 2.96346
+Kopanica, Bulgaria	42.5769868 22.9235509
+Rock hill, South Carolina, USA	34.9248667 -81.0250784
+Cacaxtla, Tlaxcala, Mexico	19.2441959 -98.3400186
+Bermuda Dunes, California, USA	33.7438202 -116.2863072
+B�ren, North Rhine-Westphalia, Germany	51.574148699999995 7.025974041326364
+Soroca, Moldova	48.1571286 28.2996052
+Georgetown, Colorado, USA	39.7062268 -105.6971252
+Haines Canyon, California, USA	34.2605458 -118.2772866
+Congaree National Park, South Carolina, USA	33.7943468 -80.76395873355744
+Oconee County, South Carolina, USA	34.7622221 -83.1099645
+Molenwaard, Zuid-Holland, Netherlands	51.8713573 4.858314127970756
+Saint Lunaire, Ille-et-Vilaine, France	48.6354993 -2.1090269
+Mori, Trento, Italy	45.8524443 10.9782754
+Loccum, Lower Saxony, Germany	52.452157799999995 9.150411701053631
+Nappanee, Indiana, USA	41.4427856 -86.0013699
+Cibolo, Texas, USA	29.5707831 -98.2330927
+Laon, Aisne, France	49.564665 3.620686
+Angier, North Carolina, USA	35.5071045 -78.7391813
+Fort Oglethorpe, Georgia, USA	34.9513555 -85.2415113
+Route 95 south, North Carolina, USA	36.441477 -76.326563
+Central Bank of Bahrain, Manama, Bahrain	26.24306345 50.58691544587364
+Volta Redonda, Rio de Janeiro, Brazil	-22.5225497 -44.1040128
+Achmelvich, Scotland, UK	58.1687429 -5.3003436
+Hiroshima University, Hiroshima, Japan	34.4019766 132.7123195
+Eze, Alpes-Maritimes, France	43.7288923 7.3620705
+Guania, Colombia	3.8627852 -67.9200417
+Convent Villa, India	10.163492 76.43598204743782
+McLean, Illinois, USA	40.4631789 -88.8196613
+Walluf, Hessen, Germany	50.0403592 8.1585795
+St. Pauls Platz, Munich, Germany	48.13609365 11.552322025101544
+Gouaix, France	48.4836926 3.2945398
+Springfield Township, Ohio, USA	39.239530200000004 -84.51215731795963
+Studio Diamond SP	37.4121115 -79.1394472
+Islas Baleares, Spain	39.613432 2.880353635614984
+Carrabelle, Florida, USA	29.8532645 -84.664348
+St-Triphon, Canton de Vaud, Switzerland	46.2926382 6.9784632
+Occoquan, Virginia, USA	38.6837271 -77.260261
+Plaza del Toro, Madrid, Spain	40.606025849999995 -3.716621481527156
+Coal Township, Pennsylvania, USA	41.8367272 -78.9772611
+Clayton County, Georgia, USA	33.5204959 -84.3591713
+La Herradura, Granada, Spain	36.7345524 -3.7379332
+Greenfield, Indiana, USA	39.7855096 -85.7681979
+Rathausplatz, Hamburg, Germany	53.4596559 9.980185543009153
+Utah Lake, Utah, USA	40.1851469 -111.8095427612205
+Wentzville, Missouri, USA	38.8244136 -90.8683119
+North Sea, Germany	50.6732016 7.192610074738468
+Sperenberg, Brandenburg, Germany	52.1415496 13.3650454
+Saksun, Faroe Islands	62.2465585 -7.1777219
+Shingletown, California, USA	40.5023815 -121.87332566126673
+Zellwood, Florida, USA	28.7311059 -81.6011849
+Playa Norte, Isla Mujeres, Mexico	21.2603725 -86.7501008
+Barry, Vale of Glamorgan, Wales	51.4043548 -3.2690216
+Derby, Derbyshire, UK	52.9212617 -1.4761491
+Auerbach/Vogtland, Saxony, Germany	50.5087816 12.400153
+Balje, Lower Saxony, Germany	53.8333 9.13333
+Jugovo, Serbia	44.6566529 20.8686103
+Harstad, Norway	68.92973835000001 16.520913478350344
+Bialy Kosciol, Lower Silesia, Poland	50.729797 17.0405784
+Lake Crowley, California, USA	37.61955065 -118.73139867631382
+Bungawalbin, NSW, Australia	-29.0975 153.2027778
+Ozarowice, Slaskie, Poland	50.4638913 19.042814
+Ada, Michigan, USA	42.9547136 -85.4879523
+Wetzhausen, Bavaria, Germany	50.195267 10.4107966
+Murwillumbah, New South Wales, Australia	-28.3267617 153.3971541
+Central Point, Oregon, USA	42.376782 -122.912721
+Myrtle Point, Oregon, USA	43.0635936 -124.1392815
+Weildorf, Bavaria, Germany	47.8621034 12.8704606
+Higashi-Omiya, Saitama, Japan	35.9486331 139.6402625
+Divice, Czech Republic	50.277295 13.8153435
+Clervaux, Luxembourg	50.0547912 6.0275511
+Zwiesel, Bavaria, Germany	49.0130274 13.2307617
+Perast, Cattaro, Montenegro	42.4862681 18.6988592
+Chama, Colorado, USA	37.1618719 -105.3783126
+Koc Universitesi, Istanbul, Turkey	41.20315895 29.072865356234708
+Sidi Mabrouk, Algeria	36.3577414 6.6305719
+Danbury, North Carolina, USA	36.4093047 -80.2058831
+Steglitz-Zehlendorf, Berlin, Germany	52.4292052 13.2299741
+Creston, Ohio, USA	40.9869997 -81.8937511
+Salisbury, Pennsylvania, USA	40.57341185 -75.43251453277945
+Corleone, Sicily, Italy	37.8120779 13.3014383
+Grao, Spain	43.3892839 -6.0687347
+Old Youghal Road, Cork, Ireland	51.9055668 -8.4682586
+Winter Springs, Florida, USA	28.6987064 -81.3054759
+Ranelagh, Dublin 6, Ireland	53.3252185 -6.2550504
+Altay, Russia	49.808 86.6446
+Lumparland, Ahvenanmaa, Finland	60.1168691 20.271068
+Niepolomice, Malopolskie, Poland	50.033182 20.2168012
+Star, Mississippi, USA	32.0937003 -90.0460222
+Leitza, Navarra, Spain	43.0806959 -1.9163064
+Hurricane Cliffs, Arizona, USA	36.7199839 -113.2696701
+Nandan Van, India	18.464486700000002 73.8201027
+Ibirama, Santa Catarina, Brazil	-27.0537021 -49.5190771
+Vordernberg, Styria, Austria	47.4883966 14.9940399
+Center Line, Michigan, USA	42.4850362 -83.0277002
+Yaphank, New York, USA	40.83178045 -72.9303712664026
+1848 North Wells St. Chicago, Illinois, USA	41.91511712058538 -87.63494335057115
+Villers-le-Temple, Belgium	50.5081117 5.370841
+Frontenac, Ontario, Canada	45.5331536 -73.5522155
+Caspar, California, USA	39.363505 -123.815849
+Provins, France	48.5602959 3.2988089
+Stoneboro, Pennsylvania, USA	41.3392232 -80.1050604
+Milltown, Indiana, USA	38.3422849 -86.2760893
+Biergarten, Bavaria, Germany	49.598606450000005 10.627125630988763
+Borchen, North Rhine-Westphalia, Germany	51.6610534 8.7231483
+Port Bolivar, Texas, USA	29.3799791 -94.7645679
+Bretton Woods, New Hampshire, USA	44.2576311 -71.4413006
+Farmington New Mexico, USA	36.7291152 -108.205445
+Santa Fe, Havana, Cuba	23.0775749 -82.5158115
+Somerset County, New Jersey, USA	40.5675084 -74.6189556
+Norwalk, Ohio, USA	41.2424219 -82.6155745
+Ry, Jylland, Denmark	56.0883559 9.7718753
+Black Rock Desert, Nevada.	41.08322595 -118.79699135337323
+Barrington, New South Wales, Australia	-31.9730685 151.9140593
+Couvin, Belgium	50.0524906 4.4955009
+Great Barrier Island, New Zealand	-36.199421400000006 175.4172866138049
+Paquime, Chihuahua, Mexico	30.36663 -107.94756531034238
+Mareeba, Queensland, Australia	-17.129513000000003 143.92421903082817
+300 South Adams Street Tallahassee, Fl 32313, USA	30.4395928 -84.28268412524463
+Orinoco Delta, Venezuela	8.9808214 -60.846677
+Blue Nile, Egypt	30.0352723 31.2337039
+Cerro Paranal, Chile	-24.6280555 -70.4045723
+Bellas artes de Trujillo	-8.1254282 -79.0353729
+Dhaun, Rhineland-Palatinate, Germany	49.814793 7.4981353
+Port de Cherbourg-Octeville, Manche, France	49.641881350000006 -1.6205896054528375
+Dahner Felsenland, Rheinland-Pfalz, Germany	49.11019005 7.770495658419747
+Hussigny-Godbrange, Lorraine, France	49.4936689 5.8680329
+Misquamicut Beach, RI	41.32012305 -71.81660404299043
+Vaison-la-Romaine, Vaucluse, France	44.2407641 5.075737
+2476 Hunter St. Los Angeles, California, USA	34.027518816326534 -118.22767040816326
+Tenejapa, Chiapas, Mexico	16.84780885 -92.49685799812426
+Hollywood California, USA	34.0980031 -118.329523
+Jakovo, Serbia	44.754108 20.2602481
+Jay Creek, Northern Territory, Australia	-23.796971 133.500409
+Serampore, India	22.7549951 88.3416672
+North Riverside, Illinois, USA	41.84686 -87.8152024
+Bergambacht, Zuid-Holland, Netherlands	51.9314474 4.7827247
+Olympic Dam, South Australia, Australia	-30.4861437 136.8905504
+Pelabuhan Klang, Malaysia	3.0027625 101.3966735
+1-5 Solent Circuit, Baulkham Hills NSW 2153, Australia	-33.7317566 150.9667863
+Usti nad Labem, Czech Republic	50.6603327 14.0381357
+Flosta, Norway	58.5286929 8.933496
+Traunstein, Bavaria, Germany	47.8701474 12.6423403
+Valdetorres, Madrid, Spain	40.7524045 -3.474226
+Lathuile, Haute-Savoie, France	45.7828756 6.2054177
+Allende-Platz, Hamburg, Germany	53.567682000000005 9.983005389624982
+Vantage, Washington, USA	46.9437207 -119.9899662
+Jefferson County, Washington, USA	47.7325289 -123.6328565
+Spittal/Drau, Carinthia, Austria	46.7905474 13.4872101
+Carney, Maryland, USA	39.4061009 -76.52850335020662
+Kinsau, Bavaria, Germany	47.8772964 10.9132872
+Doctor's Cave Beach, Cornwall, Jamaica	18.4871215 -77.92789427384568
+Harvey, IL, USA	41.6100344 -87.6467132
+Readville, Massachusetts, USA	42.2403766 -71.1369964
+Fiera di Primiero, Trentino, Italy	46.1770955 11.8294692
+Exmoor National Park, Devon, UK	51.1338406 -3.6039948912526802
+Chilkoot Pass, Alaska, USA	59.6966522 -135.2382324
+Mainleus, Bavaria, Germany	50.0992499 11.3761976
+Coudersport, Pennsylvania, USA	41.7728108 -78.0192691
+Breezewood, Pennsylvania, USA	39.9991026 -78.2396314
+Zurich, Kanton Zurich, Switzerland	47.3744489 8.5410422
+Baden, Morbihan, France	47.6199988 -2.9184744
+Allinge, Bornholm, Denmark	55.276338 14.803101
+Van Vorst Park, New Jersey, USA	40.71806585 -74.04715701753389
+Melchow, Brandenburg, Germany	52.771154550000006 13.72723483074357
+Maude, Victoria, Australia	-37.9529629 144.1679516
+Hunting Island, South Carolina, USA	32.3663052 -80.4445497
+Old Greenwich, Connecticut, USA	41.022875 -73.564846
+Stanwood, Washington, USA	48.24216 -122.3520327
+Villa de Ayala, Morelos, Mexico	18.7663043 -98.9853284
+Paris, Ile-de-France, France	48.8588897 2.3200410217200766
+Welches, Oregon, USA	45.3384997 -121.9634026
+Shanti Niketan, Delhi, India	28.57315085 77.16446564146489
+Cinnaminson, New Jersey, USA	40.0166151 -74.9999754
+Tillsonburg, Ontario, Canada	42.859494 -80.7265015
+Malchen, Hessen, Germany	49.7903849 8.6519015
+Erling, Bavaria, Germany	48.5270625 12.4415229
+Meucon, Morbihan, France	47.71659 -2.76411
+Aulne, Belgium	50.3667016 4.332513
+New Athens, Illinois, USA	38.3264383 -89.8770468
+Kilkenny, Co. Kilkenny, Ireland	52.6510216 -7.2484948
+Twann, Kanton Bern, Switzerland	47.093989 7.1548139
+Death Canyon, Utah, USA	38.0565489 -110.5747148
+Laaer Berg, Vienna, Austria	48.1580555 16.3954357
+Codroipo, Friuli-Venezia Giulia, Italy	45.9611171 12.9789516
+Bullingen, Belgium	50.4075533 6.257827
+Kelebekler Vadisi, Turkey	41.1081858 28.675353251488378
+Pico, Lazio, Italy	41.450817 13.559607
+Raalte, Overijssel, Netherlands	52.3874327 6.307848238791079
+Bee, Virginia, USA	37.1151088 -82.1720811
+Lake Tallulah Falls, Georgia, USA	34.73496855 -83.34944912014478
+Wanganui, Manawatu-Wanganui, New Zealand	-39.9324904 175.0519306
+Altkirch, Haut-Rhin, France	47.6238204 7.2401542
+Aisne, Picardie, France	49.453285449999996 3.606899003594057
+Mobeetie, Texas, USA	35.525777000000005 -100.44181410393121
+Manton, California, USA	40.4351568 -121.8699903
+Lambach, Upper-Austria, Austria	48.0919647 13.8724131
+Paseo de la Princesa, San Juan, Puerto Rico	18.4641395 -66.1196561
+Culebra, Puerto Rico	18.3030519 -65.3000989
+Le Soler, France	42.6824044 2.8007536
+Galati, Romania	45.4338215 28.0549395
+Chitkul, Himachal Pradesh, India	31.3517931 78.4359134
+Clearwater, British Columbia, Canada	51.6503514 -120.0654595
+Vienna International Centre, Austria	48.23505285 16.417788170651285
+Eselnita, Romania	44.727543299999994 22.269762809768284
+Orange City, Iowa, USA	43.0072424 -96.0583138
+Central park New York City, New York, USA	40.7827725 -73.9653627406542
+Jeffersonton, Virginia, USA	38.637065 -77.9149952
+Wellsville, New York, USA	42.1220125 -77.9480575
+Islas San Benito, Baja California Norte, Mexico	28.3058649 -115.59238410093019
+Klamath National Forest, California, USA	41.539277049999995 -123.3519840021789
+Balnakeil, Scotland, UK	58.5758558 -4.7669108
+Brookpark, Ohio, USA	41.4197915 -81.8238184
+Beigang, Taiwan	23.575525 120.302393
+Oberau, Bavaria, Germany	47.562 11.133
+Tumby Bay, South Australia, Australia	-34.1972527 136.03892045841997
+Oak Ridge, New Jersey, USA	41.0462085 -74.4859898
+Durand, Illinois, USA	42.4358914 -89.3319502
+Tolga, Algeria	34.73212 5.3830752
+Boatstrand, Co. Waterford	52.1383528 -7.303608895370535
+Timberlea, Nova Scotia, Canada	44.6597684 -63.7435208
+Wise, Virginia, USA	36.9759345 -82.5757108
+Vault-de-Lugny, Yonne, France	47.49806 3.85011
+Cattolica Eraclea, Sicily, Italy	37.44084 13.392054
+Aquila, Ticino, Switzerland	46.5040627 8.9489762
+Franconia, Bavaria, Germany	49.79298295 9.937941470514051
+Loxton, South Africa	-31.4772222 22.3497222
+Osterode, Lower Saxony, Germany	51.693183250000004 10.317083943222094
+Oasis Fint, Ouarzazate, Morocco	30.9194914 -6.8887444
+Silkeborg, Jylland, Denmark	56.169453 9.5495141
+Valkenburg, Netherlands	50.8647531 5.8312518
+Kolkwitz, Brandenburg, Germany	51.7490389 14.244854
+Estadio Sixto Escobar, San Juan, Puerto Rico	18.465260100000002 -66.08882592958929
+St. Paul Park, Minnesota, USA	44.847917 -92.9980516
+Annapolis, Nova Scotia, Canada	44.7064932 -65.2498142
+Bahia de Kino, Sonora, Mexico	28.8245984 -111.9371856
+Dringenberg, Germany	51.679500250000004 9.054114265833892
+Burkes Garden, Virginia, USA	37.0981725 -81.3409367
+Gleiwitz, Germany	52.2306686 10.528318
+Plateros, Zacatecas, Mexico	23.2276368 -102.8397112
+Ravenstein, Noord-Brabant, Netherlands	51.7949725 5.6509329
+Attawapiskat, Ontario, Canada	52.9244075 -82.4270112
+Kontich, Belgium	51.1353297 4.4454784
+Channenahalli, Karnataka, India	12.9767271 77.428935
+Treffurt, Thuringia, Germany	51.1409396 10.2271763
+Murchison Falls, Uganda	2.2784944 31.6858938
+Simsee, Bavaria, Germany	47.9490997 12.2786611
+Siemonia, Slaskie, Poland	50.4222163 19.0547555
+Bourtange, Netherlands	53.0067206 7.1920883
+Rilland, Zeeland, Netherlands	51.4164747 4.1812417
+Crafers, South Australia, Australia	-34.9933414 138.7162883
+Wick, Scotland, UK	58.4425516 -3.0915827
+Readlyn, Iowa, USA	42.7033644 -92.2248454
+Buzau, Romania	45.26925815 26.7748172789942
+Burke, Vermont, USA	44.6178561 -71.92349565358407
+Fonmon Castle, Wales, UK	51.40385345 -3.370844572889509
+Gua�ba, Brazil	16.26497925 -61.594585603926156
+Ohlsdorf, Upper Austria, Austria	47.9611479 13.7927962
+Essonnes, France	48.613904399999996 2.4821375404529995
+New Windsor Cantonment State Historic Site, New York, USA	41.47521305 -74.06597149719073
+Cals College, Nieuwegein, Netherlands	52.027764649999995 5.094150124864905
+Riverside, Connecticut, USA	41.0337082 -73.57818
+Hopewell Junction, New York, USA	41.584752 -73.80004907608696
+Corfu, Ionian Islands, Greece	39.591337 19.859618918733858
+Amathus Avenue, Limassol, Cyprus	34.7096749 33.1378543
+Tregear, NSW, Australia	-33.7486957 150.7957569
+Kagel Canyon, California, USA	34.281324999999995 -118.3809183226044
+Gisors, Eure, France	49.2789504 1.777826
+Benevento, Campania, Italy	41.2476884 14.705941329939769
+Ruhleben, Berlin, Germany	52.5256744 13.2414191
+Debipur, West Bengal, India	23.1435428 88.1573731
+Camarate, Lisbon, Portugal	38.7979738 -9.137797597001224
+Mutters, Tirol, Austria	47.2284492 11.3782646
+Fort Hahneberg, Berlin, Germany	52.521930600000005 13.137729308340758
+Middlesex, New Jersey, USA	40.5734911 -74.494037
+Upstate, South Carolina, USA	35.0003217 -81.97088501504776
+Toney Burger Center, Sunset Valley TX	30.23046095 -97.80975227788343
+North Frisia, Schleswig-Holstein, Germany	54.6591848 8.998149926747127
+Beenleigh, Queensland, Australia	-27.717437850000003 153.20445695
+Crescent Bay, California, USA	33.5455806 -117.8022775
+Botucatu, S�o Paulo, Brazil	-22.8879628 -48.4410712
+Batanes Islands, Philippines	20.5 121.9
+Remse, Saxony, Germany	50.8550766 12.5727697
+Pittsford, Vermont, USA	43.7063656 -73.0278109
+Hracholusky, Czech Republic	50.0030822 13.7736888
+Chenalho, Chiapas, Mexico	16.971716100000002 -92.51921237690784
+Justitiepaleis, Antwerp, Belgium	51.2087064 4.403947221548979
+Shabolovka, Moscow, Russia	55.7238027 37.6108721
+Bad Salzschlirf, Hessen, Germany	50.6238209 9.5061166
+Siler City, North Carolina, USA	35.7234734 -79.4622431
+Millersville, Tennessee, USA	36.3910445 -86.713274095798
+Knokke-het-Zoute, Flanders, Belgium	51.3538991 3.2984025
+Nyborg, Fyn, Denmark	55.3602577 10.6639186
+Dordrecht, Zuid-Holland, The Netherlands	51.7958812 4.6779351
+Illa de Arousa, Galicia, Spain	42.55003895 -8.867156127774127
+Ivanhoe, Victoria, Australia	-37.768844 145.0455919
+Serris, Seine-et-Marne, France	48.8567 2.7855615
+Canosa, Italy	44.5535604 10.4119138
+Metcalfe, Ontario, Canada	45.236218 -75.472641
+Round Mountain, California, USA	40.8013395 -121.93490348891966
+Paarl, South Africa	-33.741667 18.975
+Herne-Sodingen, North Rhine-Westphalia, Germany	51.5624123 7.238738928938719
+Talkatora garden, New delhi, India	28.62393935 77.19355720309285
+McLoud, Oklahoma, USA	35.4358996 -97.0914163
+Dhaulagiri, Nepal	28.6976088 83.4894884
+Cross Creek, Florida, USA	29.4868065 -82.1651513
+Silicon Oasis, Dubai, United Arab Emirates	25.12245315 55.39605492600715
+Shawnee County, Kansas, USA	39.0273676 -95.7627535
+Carbonado, Washington, USA	47.0797219 -122.0514335
+Rijpwetering, Zuid-Holland, Netherlands	52.1935379 4.5818375
+Agur, Israel	31.6971051 34.9129214
+Moulins, Allier, France	46.5660526 3.3331703
+Temperley, Buenos Aires, Argentina	-34.7758816 -58.3971199
+St. John's Newfoundland, Canada	47.561701 -52.715149
+Cavalaire, Var, France	43.1722952 6.531917
+Kadov, Czech Republic	48.9824374 16.2873462
+Theater St.Pauli, Hamburg, Germany	53.5491011 9.9629881
+Sand Canyon, California, USA	35.3074597 -118.4286956
+Torre de Madrid, Spain	40.42446975 -3.7123372571091293
+Lake District, England, UK	54.478530449999994 -3.065531666074264
+Webster City, Iowa, USA	42.4663069 -93.8252471
+Mandya, Karnataka, India	12.5238888 76.8961961
+Schluft, Brandenburg, Germany	52.9448351 13.4725415
+Candelaria, Quezon, Philippines	13.9286568 121.4246633
+Actis, California, USA	34.958585 -118.1486857
+Viola, Delaware, USA	39.0428907 -75.5718695
+Awutu Beraku, Central Region, Ghana	5.51036 -0.515392
+LLanera, Asturias, Spain	43.4545737 -5.850642615099105
+Vila Cruzeiro, Rio de Janeiro, Brazil	-22.7440656 -41.9671739
+Nowe Miasto nad Pilica, Mazowieckie, Poland	51.616692 20.5796171
+Dunkirk, Ohio, USA	40.7892204 -83.6432639
+Wampum, Pennsylvania, USA	40.8881184 -80.3381195
+Crotone, Calabria, Italy	39.1873894 16.87828188895307
+Whitesburg, Georgia, USA	33.4940017 -84.9138283
+Kalvarienberg, Vienna, Austria	48.216869 16.3317991
+Paklenica National Park, Croatia	44.2884709 15.4457485
+Ozersk, Chelyabinsk Oblast, Russia	55.76046 60.705101
+Fortville, Indiana, USA	39.9322625 -85.8480354
+Woodward, Oklahoma, USA	36.4336481 -99.3903862
+Visaginas, Lithuania	55.5995933 26.4371224
+Pickett, Wisconsin, USA	43.911372 -88.7298326
+Delamere, Cheshire, UK	53.2136511 -2.6567857
+Scrovistea, Romania	44.7207086 26.0240243
+Monte Sereno, California, USA	37.236333 -121.992458
+Adirondack Park, New York, USA	43.958065000000005 -74.32076544590532
+National Forest, Idaho, USA	43.62772545 -114.82028226006628
+Stein, Limburg, Netherlands	50.9732145 5.760681940061414
+Mt. Ephraim, New Jersey, USA	39.8784466 -75.0926738
+El Vedat de Torrent, Valencia, Spain	39.41381285 -0.491221273159395
+4bis av. Anatole France, Charenton-le-Pont, France	48.8249226 2.410319
+Port Bonython, South Australia, Australia	-32.9666335 137.74160128090702
+Dalian, Liaoning, China	38.9181714 121.6282945
+Chino, Nagano, Japan	35.98562 138.157854
+Grassau, Bavaria, Germany	47.779457 12.4537954
+Ilhas Selvagens, Portugal	30.146254149999997 -15.866860663342404
+Elephant Butte, New Mexico, USA	33.1975054 -107.2241595
+Sucy-en-Brie, France	48.7711323 2.5221284
+Lucignano, Italy	43.2744629 11.7459997
+Sankt Stefan ob Stainz, Styria, Austria	46.9294783 15.2536154
+Malmesbury, Western Cape, South Africa	-33.460278 18.723611
+Copley, Ohio, USA	41.0989439 -81.6445685
+Santpoort, Noord-Holland, Netherlands	52.4338823 4.6325507
+Kor River, Iran	30.0549808 52.6901615
+Pont de l'Alma Tunnel, Paris, France	48.8642153 2.3008051
+Gammeltorv, Copenhagen, Denmark	55.678182050000004 12.572112151475025
+Bebelplatz, Berlin, Germany	52.5164872 13.393826170541502
+Fairmount, Indiana, USA	40.4173005 -85.6504938
+Marjvena sanapiro, Tbilisi, Georgia	41.6696903 44.8561009
+Princeton, Kentucky, USA	37.1092162 -87.8819595
+Rochester, Indiana, USA	41.0648846 -86.2159959
+Kombissiri, Burkina Faso	11.9886068 -1.2946019536589886
+Waldron, Indiana, USA	39.4536932 -85.6666529
+Mus, Turkey	38.9740786 41.9590433
+Estudios Moro, Madrid, Spain	40.2393982 -3.7649111
+Custer County, Colorado, USA	38.1072962 -105.3543375
+Espelkamp, North Rhine-Westphalia, Germany	52.3778041 8.6157377
+Daggett, California, USA	34.8634166 -116.8880324
+Mineral Point, Wisconsin, USA	42.8601834 -90.179547
+Th�nes, Haute-Savoie, France	45.9939203 5.9613997
+Portel, Portugal	38.31350505 -7.739053768381878
+Uniondale, South Africa	-33.6555556 23.1255556
+Blue Nile, Sudan	15.6082322 32.5083496
+Mandapam, Tamil Nadu, India	9.282701 79.1526713
+Beregovo, Ukraine	48.2050985 22.6453246
+Viseu de Mijloc, Maramures, Romania	47.7155458 24.4057516
+St. Croix River, New Brunswick, Canada	45.1955679 -67.26192124207924
+Catavina, Baja California, Mexico	29.7321505 -114.7208517
+Gonzalez, Texas, USA	31.5990032 -106.2685908
+Groote Eylandt, Australia	-13.980525199999999 136.58688005808932
+Santeny, Val-de-Marne, France	48.7348571 2.5788488
+Jotunheimen, Norway	61.5529159 8.530708633391667
+Swords, Dublin, Ireland	53.4598264 -6.2184562
+Bemposta, Galicia, Spain	41.9363801 -7.3784109
+Tehran University Dormitory, Tehran, Iran	35.7325602 51.3868308
+Estero Bay, Florida, USA	26.4126286 -81.8590879
+Raimund Theater, Vienna, Austria	48.19219665 16.339917547799665
+Pedernales, Dominican Republic	17.9584646 -71.5325569
+Ingelheim am Rhein, Rhineland-Palatinate, Germany	49.9752749 8.0547274
+Baxter, Tennessee, USA	36.1539862 -85.6437474
+Redwood Shores, California, USA	37.5318804 -122.2480219
+Chugwater, Wyoming, USA	41.756639 -104.821635
+Lo Tung, Taiwan	22.6697227 120.4884652
+Leefdaal, Belgium	50.847321 4.5913344
+Chernivtsi, Ukraine	48.2864702 25.9376532
+Joigny, Yonne, France	47.9812486 3.3995767
+Lagonissi, Greece	37.777971449999995 23.88905304963039
+Markt, Berlin-Spandau, Germany	52.5371906 13.2041987
+Enniskillen, Ontario, Canada	44.0154372 -78.7704573
+Krog Street Market, Atlanta, Georgia	33.7569916 -84.36401485537772
+Bourg-sur-Gironde, Gironde, France	45.2543044 -1.0237276
+Hofheim in Unterfranken, Bavaria, Germany	50.1366915 10.5231727
+Zandvoort, Noord-Holland, The Netherlands	52.3713394 4.5307624
+Sinn, Hesse, Germany	50.6530604 8.3304382
+Lake Benbrook, Texas, USA	32.6248872 -97.46981238878176
+Upper Milford Township, Pennsylvania, USA	40.4920793 -75.52302933895211
+Geiseltalsee, Saxony-Anhalt, Germany	51.317264 11.894875786311149
+Paul Spur, Arizona, USA	31.3662127 -109.7345151
+Meride, Switzerland	45.8905035 8.953433
+Sungei Buloh, Singapore	1.4410133 103.7232148
+Schaerbeek, Brussels, Belgium	50.8676041 4.3737121
+Lawndale, North Carolina, USA	35.4140187 -81.5631474
+Tontogany, Ohio, USA	41.4192278 -83.7403759
+Narendrapur, West Bengal, India	22.4541674 88.4183764
+Johanngeorgenstadt, Saxony, Germany	50.4310567 12.7146849
+Haute-Vienne, France	45.91901925 1.203176771876291
+Neuilly-sur-Seine, Hauts-de-seine, France	48.884683 2.2695658
+Le Vaudreuil, Eure, France	49.2532604 1.1969613
+Aluche, Madrid, Spain	40.392356 -3.7571096
+Ehrhardt, South Carolina, USA	33.0968264 -81.0142681
+Germersheim, Rhineland-Palatinate, Germany	49.2222749 8.36659
+Gradac, Croatia	43.1064526 17.3416928
+Bedburg, North Rhine-Westphalia, Germany	50.9976706 6.576634
+Cabo Blanco, Peru	-4.2507932 -81.2311114
+Miscou Island, New Brunswick, Canada	47.9620731 -64.5243347
+Orsigna, Tuscany, Italy	44.077105 10.8872511
+The Subway, Lisbon, Portugal	38.7238376 -9.148466
+Belle Fourche River, South Dakota, USA	44.6758009 -103.860576
+Blue Ridge, Virginia, USA	39.1673561 -77.8114682
+Jefferson City, Tennessee, USA	36.122311 -83.4923961
+N.Babylon, New York, USA	40.7303088 -73.3265592076986
+Clearlake Oaks, California, USA	39.017434 -122.65152068032447
+Esens, Lower Saxony, Germany	53.6468107 7.6118499
+Raymond, Alberta, Canada	49.4606969 -112.6558579
+Clogherhead, County Louth, Ireland	53.7917202 -6.2390693
+Baneasa, Giurgiu, Romania	44.046659 26.0688088
+Adirondack Park of New York State	43.547512 -75.202433
+Prijedor, Bosnia - Herzegovina	44.9805039 16.7131197
+Fitzgerald Bay, South Australia, Australia	-32.9195158 137.7511401521828
+Tornesch, Germany	53.69873115 9.73985387919966
+Canadian, Texas, USA	35.9120114 -100.3839018
+Blandford, Nova Scotia, Canada	44.491169 -64.1087959
+Perry, Arkansas, USA	34.9616474 -92.8757514
+Colomars, Alpes-Maritimes, France	43.7615774 7.2183304
+Presa de Pinilla, Madrid, Spain	40.9459692 -3.7750723
+Lake Seminole, Florida, USA	30.7897402 -84.87110484945171
+Shefer, Israel	33.0777838 35.455753
+Tunduma, Tanzania	-9.30588725 32.80564290567392
+Lake Cuyamaca, California, USA	32.9893223 -116.57391196452296
+Nauru	-0.5252306 166.9324426
+Lille Torv, Aarhus, Denmark	56.157754600000004 10.207146599421087
+Le Bourg ,Puch d'Agenais, Lot-et-Garonne, France	44.3278679 0.2423174
+Orestiada, Greece	41.5036382 26.528601
+Laguna Woods, California, USA	33.6106076 -117.7249722
+Bellaterra, Catalonia, Spain	41.5025932 2.0800563
+Boulevard Barbes, Paris 18, France	48.884873 2.3497069
+Royal Canberra Hospital, Australian Capital Territory, Australia	-35.2930201 149.1221052
+, Georgia, USA	34.92363695 33.60940035
+Hatta, United Arab Emirates	24.79716825 56.1511410719783
+Schwarzach am Main, Bavaria, Germany	49.7998181 10.2304991
+Icking, Bavaria, Germany	47.9515105 11.4320346
+Warrenton, Oregon, USA	46.165105 -123.923756
+Cairo, New York, USA	42.2989749 -73.9984659
+Yvorne, Canton de Vaud, Switzerland	46.3317116 6.9586852
+Quinta del Berro, Madrid, Spain	40.4255065 -3.660724381427099
+Winters, California, USA	38.5249065 -121.970801
+Rosemount, Minnesota, USA	44.7391873 -93.12611
+Burg Rabenstein, Brandenburg, Germany	52.034409 12.5792683
+Strzelce Krajenskie, Lubuskie, Poland	52.8785785 15.5326861
+Chalk River, Ontario, Canada	46.0185741 -77.449446
+Woodland Park, Colorado, USA	38.9938016 -105.057045
+Feira de Santana, Bahia, Brazil	-12.2578934 -38.9598047
+Ripon, California, USA	37.741595 -121.124382
+Lepoglava, Croatia	46.2069378 16.0435822
+Aransas Pass, Texas, USA	27.909666 -97.1503865
+Umpqua, Oregon, USA	43.3646201 -123.4707511
+Grez-Doiceau, Brabant Wallon, Belgium	50.7386182 4.6962324
+Pyramid Lake, California, USA	34.6650035 -118.78057428131392
+Saint-Menges, Ardennes, France	49.7406 4.9258
+Mustang, Nepal	28.948133249999998 83.90056901351043
+Redmond, Oregon, USA	44.2726203 -121.1739212
+Ples, Russia	57.459187 41.511353
+Skagit County, Washington, USA	48.4596092 -121.7332784
+Stratford, Virginia, USA	38.9006661 -77.1118317
+Szczyrk, Slaskie, Poland	49.69649115 19.010946935372793
+Plaza de la Cultura, Santo Domingo, Dominican Republic	18.4711608 -69.90963026888711
+Bottrop-Ebel, North Rhine-Westphalia, Germany	51.50614815 6.9513011519784484
+Denman, South Australia, Australia	-34.983733 138.60300104429018
+Bexley Woods, London	51.44231825 0.13325656651193882
+Pico Duarte, Dominican Republic	19.022993 -70.9980479
+Jaunpili, Latvia	57.7620102 26.0685835
+Palm Coast, Florida, USA	29.5541432 -81.2207673
+Jesewitz, Saxony, Germany	51.4224434 12.5645728
+Chacahua, Oaxaca, Mexico	15.7037933 -96.6028162
+Santa Marta - Corroios, Portugal	38.6318627 -9.1392297
+Taejon, South Korea	36.3496 127.3848
+Kammerberg, Bavaria, Germany	49.8776793 10.1952347
+Milton, Washington, USA	47.2481166 -122.312837
+Bilbao, Basque Country, Spain	43.2630018 -2.9350039
+Granger, Washington, USA	46.3420741 -120.187272
+Louvain-La-Neuve, Belgium	50.6682012 4.6128839
+Bad Lauterberg, Lower Saxony, Germany	51.6313633 10.4706667
+Ilava, Slovakia	48.9985674 18.2307598
+Westbahnhof, Vienna, Austria	48.1967867 16.337686013711394
+Kaznejov, Czech Republic	49.8931303 13.3829479
+Stalowa Wola, Podkarpackie, Poland	50.5653105 22.0644075
+14837 Hart Street Van Nuys, California, USA	34.19763263265306 -118.45666928571428
+Deer Park, Washington, USA	47.9543679 -117.4768479
+Orange, Texas, USA	30.1228634 -93.9041169
+Princeton, Iowa, USA	41.6747543 -90.3404075
+South Hampton, New York, USA	40.95515465 -72.19267451125596
+Cerro Apante, Matagalpa, Nicaragua	12.90857735 -85.91369028013463
+Wels, Lower Austria, Austria	48.40597255 15.653971485010963
+Sierra Madre del Sur, Mexico	16.17 -96.26
+Operahuset, Oslo, Norway	59.907523749999996 10.752680567425934
+Roncal, Navarra, Spain	42.8074494 -0.9555751
+Chinguetti, Mauritania	20.4634827 -12.3658552
+Opuwo, Namibia	-18.0550384 13.8387366
+350 Calvert Ave. Alexandria, Virginia, USA	38.83013889372394 -77.05296518702549
+Chattooga River, Georgia, USA	34.720674 -85.286422
+McRae, Arkansas, USA	35.1137095 -91.8217004
+New England, New South Wales, Australia	-30.518459200000002 151.66810534085707
+Siblingen, Kanton Schaffhausen, Switzerland	47.7151451 8.519796
+Whatcom County, Washington, USA	48.8107819 -121.8828175
+Anaheim, CA 92807, USA	33.8035029 -117.881443
+Tinte, Zuid-Holland, Netherlands	51.886794 4.1348786
+Kakkanad, Kerala, India	10.01657 76.34275
+Blanzac, Charente, France	45.8717902 -0.3507186
+Lechtal, Tirol, Austria	47.2594854 10.3714799
+6737 Centennial Blvd. Nashville, TN 37209	36.17113881300358 -86.8719265318792
+Big Sky, Montana, USA	45.2589644 -111.308725
+Atlantic Station, Atlanta, Georgia	33.7900612 -84.398518
+Belvoir Fortress, Israel	32.59561265000001 35.52152773951076
+Van Wyck, South Carolina, USA	34.8584802 -80.8459054
+Louisburg, North Carolina, USA	36.0990393 -78.301106
+Jaligny-sur-Besbre, Allier, France	46.3802795 3.5928142
+Xlendi, Gozo, Malta	36.0311977 14.2182656
+Whitinsville, Massachusetts, USA	42.1130203 -71.6576064
+Kenilworth, New Jersey, USA	40.6760225 -74.289262
+Szymbark, Warminsko-Mazurskie, Poland	53.6460716 19.4864091
+Barbican, London, UK	51.5201501 -0.0986832
+Sarzeau, Morbihan, France	47.5287694 -2.7641997
+08013, Barcelona, Spain	41.40050593062141 2.1784384886551353
+Stevens Point, Wisconsin, USA	44.5229223 -89.574111
+Ilfov, Romania	44.5017074 26.244907651159284
+La Havana, Cuba	23.1334267 -82.38213876468915
+Vorderstoder, Upper Austria, Austria	47.7127562 14.2250312
+Villa Rica, Georgia, USA	33.730460300000004 -84.93307326474743
+Clear Lake, Wisconsin, USA	45.2519072 -92.2712996
+Butry-sur-Oise, Val-d'Oise, France	49.0856723 2.1979556
+Leona Valley, California, USA	34.618321 -118.288133
+Eilvese, Niedersachsen, Germany	52.5494351 9.416240681024831
+Barrington, New Hampshire, USA	43.223191 -71.047211
+Loket Castle, Loket, Czech Republic	50.1871182 12.7542787
+Jawbone Canyon, California, USA	37.2296109 -118.587842
+Loverval, Belgium	50.374997 4.47342
+Ilsan, South Korea	37.6822186 126.769498
+Jonesboro, Louisiana, USA	32.241538 -92.7154376
+Suchowo, Zachodniopomorskie, Poland	53.32059 15.82483
+Clark Air Force Base, Philippines	15.1835127 120.53247557956786
+Windischgarsten, Upper Austria, Austria	47.7218417 14.3289935
+Oegstgeest, Netherlands	52.1833669 4.472129402976295
+Wilczy Szaniec, Warminsko-Mazurskie, Poland	54.080469199999996 21.498348704206975
+Dewey, Arizona, USA	34.5300253 -112.2412739
+Trutnov, Czech Republic	50.5608851 15.9130498
+Selfkant, Germany	51.020689950000005 5.9217594796191495
+Grundlsee, Steiermark, Austria	47.6272662 13.837928
+Raguhn, Saxony-Anhalt, Germany	51.708566950000005 12.29782471426285
+Averbode, Belgium	51.0300217 4.9797369
+Placilla, Chile	-34.6385927 -71.1173651
+Black Hills National Forest, South Dakota, USA	43.88524015 -103.7953555730531
+Majadahonda, Madrid, Spain	40.473055 -3.8724138
+Slingerlands, New York, USA	42.6292455 -73.8645685
+46300 Petaling Jaya, Selangor, Malaysia	3.1100104125 101.6235370875
+13105 Whittier Blvd. Whittier, California, USA	33.96488156122449 -118.0360948877551
+Nelson Mandela Bridge, Johannesburg, South Africa	-26.1959234 28.0339257
+Westlake, Louisiana, USA	30.2421496 -93.2507099
+Al Areen Wildlife Park, Bahrain	25.9510459 50.516339163558555
+Chengdu City Center, Sichuan, China	30.6583342 104.0621715
+Catawissa, Pennsylvania, USA	40.9548267 -76.4609868
+Bayahibe, Dominican Republic	18.3687086 -68.8396888
+Castelbuono, Sicily, Italy	37.9331292 14.0877842
+Sharpenhoe Clappers, Bedfordshire, UK	51.9596047 -0.4495566
+Pittsburgh Pennsylvania, USA	40.3693889 -80.6243098
+Valcarlos, Navarra, Spain	43.0926454 -1.3017388
+Castlereagh, New South Wales, Australia	-33.6647962 150.6844521
+Metamora, Indiana, USA	39.4497721 -85.1394065
+Stagira, Chalkidiki, Greece	40.5301473 23.7516086
+Wizajny, Podlaskie, Poland	54.367349 22.8665097
+Escola Superior de Teatro e Cinema, Lisbon, Portugal	38.76364565 -9.235189862101725
+Sylvenstein, Bavaria, Germany	47.5906495 11.5510296
+Ljusne, Sweden	61.2136308 17.1281545
+Long Island, Maine, USA	43.68426 -70.171738
+Dayton, Iowa, USA	42.2613645 -94.0685672
+Menden, North Rhine-Westphalia, Germany	51.43779 7.7953822
+Gasworks Park, Seattle Washington, USA	47.645597550000005 -122.33492837810945
+Owensville, Ohio, USA	39.1227966 -84.1357572
+San Martin, Buenos Aires Province, Argentina	-34.5762765 -58.5388435
+Ostend, West Flanders, Belgium	51.2258565 2.919496
+South Bound Brook, New Jersey, USA	40.5534365 -74.531544
+Arnprior, Ontario, Canada	45.433515 -76.3543692
+Berne, Lower Saxony, Germany	53.1833014 8.4833214
+Wetter/Ruhr, North-Rhine Westphalia, Germany	51.3879463 7.3951553
+Bu�ya, Norway	40.4648686 19.4845708
+Polsum, North Rhine-Westphalia, Germany	51.6264919 7.0528322
+Yser, Belgium	50.9413257 2.6539176
+Gabsheim, Rhineland-Palatinate, Germany	49.8282301 8.1735195
+Riverbank, California, USA	37.7360396 -120.9354895
+Blackrock, County Dublin, Ireland	53.3018639 -6.1788342
+Teton Village, Wyoming, USA	43.593145 -110.84492617640024
+Cedar Falls, Washington, USA	47.4220481 -121.7843935
+Morris County, New Jersey, USA	40.8679538 -74.5601181
+Fajardo 00735, Puerto Rico, USA	18.3245149 -65.6531674
+Greenport West, New York, USA	41.1018945 -72.38499225834539
+Chichicastenango, Guatemala	14.898012 -91.1019484805474
+Egreville, Seine-et-Marne, France	48.1758188 2.8738344
+Oradour-sur-Glane, Haute-Vienne, France	45.932778 1.0325
+Blair, Ontario, Canada	45.4310413 -75.6084142
+Saxony Anhalt, Germany	52.0089065 11.7003344
+Neuharlingersiel, Lower Saxony, Germany	53.6992698 7.7035695
+Gouta, Italy	43.9396 7.60808
+Klinikum Buch, Berlin, Germany	52.632014 13.5127115
+Choudrant, Louisiana, USA	32.5301484 -92.5143122
+Barra Mansa, Rio de Janeiro, Brazil	-22.5394843 -44.1735129
+Rebecq, Belgium	50.67355825 4.135027550319423
+Columbiaville, Michigan, USA	43.156693 -83.410505
+Wind Gap, Pennsylvania, USA	40.8481509 -75.2915694
+Friuli Venezia Giulia, Italy	46.151042 13.055904
+Wemmel, Belgium	50.908020300000004 4.305641557650904
+Yi, China	39.3467083 115.2509065
+Crawford, New Hampshire, USA	44.2179065 -71.4113179
+Radegund, Upper Austria, Austria	48.0965003 12.7631846
+Best Western Hotel, Accra, Ghana	5.6023442 -0.1852962
+Palena, Italy	41.9843588 14.1380412
+Galata Bridge, Istanbul, Turkey	41.0200195 28.9730012
+Lake Elmo, Minnesota, USA	45.0021685 -92.8801862
+Skobelevo, Bulgaria	42.6760701 25.1954901
+Hochzoll, Augsburg, Germany	48.3525304 10.946146
+Chalcatzingo, Morelos, Mexico	18.6896989 -98.774887
+Tapolca, Hungary	46.8820972 17.4389619
+Whiting, Iowa, USA	42.1274894 -96.1494631
+Havertown, Pennsylvania, USA	39.9809452 -75.3085201
+Shaxi, China	22.5212787 113.302946
+Perryville, Maryland, USA	39.5601129 -76.0713385
+Schwalmstadt, Hessen, Germany	50.9128945 9.2139074
+Macdonaldtown, New South Wales, Australia	-33.8969053 151.1858923
+Airedale St, Auckland, New Zealand	-36.8561685 174.7655994
+Rummelsburger See, Berlin, Germany	52.495891799999995 13.477956852998776
+Schloss Hallwil, Kanton Aargau, Switzerland	47.3232471 8.193806
+Gorky, Russia	56.3264816 44.0051395
+Patos, Para�ba, Brazil	-4.2308483 -48.0814633
+Garden City, Missouri, USA	38.5611247 -94.1913332
+South Bend, Indiana / Indiana University South Bend	41.6642161 -86.220977
+Ridley Park, Pennsylvania, USA	39.8812236 -75.3237993
+Nauvoo, Illinois, USA	40.550042 -91.3848749
+Old Mines, Missouri, USA	38.0153279 -90.7559644
+Karlskirche, Vienna, Austria	48.1982785 16.371895063816545
+Burgin, Kentucky, USA	37.7522783 -84.7611039
+Providencia, Chile	-33.4288379 -70.61133725589745
+Hinterstoder, Upper Austria, Austria	47.6998016 14.1554223
+Saanich Inlet, British Columbia, Canada	48.62709905 -123.50340078043794
+Presles, Val-d'Oise, France	49.114721 2.2814878
+Bunde, Lower Saxony, Germany	53.184017 7.2695448
+Amatrice, Lazio, Italy	42.6292367 13.2891755
+Grand Harbour, Senglea, Malta	35.8899366 14.5158117
+Oil City, Louisiana, USA	32.7440322 -93.9715703
+Reno Events Center. Reno, Nevada, USA	39.53089695 -119.81247350085957
+Ales, France	44.1253665 4.0852818
+Langkawi, Malaysia	6.3700386 99.7928634
+Las Zorreras, Madrid, Spain	40.4980441 -3.6320574
+Mo i Rana, Norway	66.3110969 14.1386991
+Vogtland, Saxony, Germany	50.54332745 12.02747814933859
+San Juan de Ulua, Veracruz, Mexico	17.687778 -93.891944
+Churchill River, Saskatchewan, Canada	55.6034686 -104.7105222
+Stillwater County, Montana, USA	45.6540259 -109.3579352
+Rockland, Delaware, USA	39.7962233 -75.5721475
+Solares, Cantabria, Spain	43.3840287 -3.7385842
+Circuito del Jarama, Madrid, Spain	40.61590605000001 -3.5849035369097493
+Hotel Cabo Blanco, Jalisco, Mexico	19.2067881 -104.6797767
+Cergy-Pontoise, Val-d'Oise, France	49.0527528 2.0388736
+Friedeburg, Saxony-Anhalt, Germany	51.61791695 11.735493757785274
+Amery, Wisconsin, USA	45.3069062 -92.3621369
+Lanyu, Taiwan	22.08088875 121.50303162770635
+Stawiguda, Warminsko-Mazurskie, Poland	53.6584991 20.4011694
+North Aurora, Illinois, USA	41.8061399 -88.3272952
+Milin, Czech Republic	49.6321628 14.0461362
+Freital, Saxony, Germany	51.016265 13.6530329
+Zduny, Wielkopolskie, Poland	51.6463268 17.377617
+Geismar, Thuringia, Germany	51.2317614 10.1663185
+Ruckersville, Virginia, USA	38.2331873 -78.369175
+San Juan National Historic Site, Puerto Rico	18.468436599999997 -66.12197328337356
+Heathfield, England, UK	50.9717443 0.2517025
+Cottonwood County, Minnesota, USA	44.019068 -95.1658845
+Parksville, New York, USA	41.8554576 -74.7595057
+Ansongo, Mali	15.6639257 0.5067841
+South Brisbane, QLD, Australia	-27.482134 153.0223507
+Hradschin, Prague, Czech Republic	50.0896727 14.3978032
+220 Marcus Garvey Drive, Kingston, Jamaica	17.9796725 -76.8178543
+Trombay Club, India	19.0388354 72.92412477801147
+Hamilton, Washington, USA	48.526005 -121.9889629
+Horseshoe Point, Scotland, UK	56.06035525 -2.674544008286084
+Hotel Pernik, Holguin, Cuba	20.88957 -76.2402101
+Christmas Valley, Oregon, USA	43.2377077 -120.6875812
+Zografou, Athens, Greece	37.9773935 23.770726
+Sodus, New York, USA	43.27245 -76.987993
+Shepard, Texas, USA	30.4788142 -95.5141096
+Selent, Blomenburg, Germany	54.2857232 10.431830949502348
+River Trave, Germany	53.8579712 10.685569
+Elysian, California, USA	33.6885931 -117.7444339
+MacRitchie Reservoir, Singapore	1.3448177000000001 103.82393788001518
+Bastrop, Louisiana, USA	32.7761446 -91.9082967
+Carew, Wales, UK	51.69831 -4.8278557
+IJsselstein, Netherlands	52.026205250000004 5.028685923229064
+Gondal, Gujarat, India	21.9349644 70.7849752761015
+Rothesay, New Brunswick, Canada	45.3815475 -65.9879398
+Cook, South Australia, Australia	-30.6143308 130.4125666
+Mount of Beatitudes, Israel	32.881813199999996 35.556519505996526
+Cushing House Newburyport, Massachusetts, USA	42.806610649999996 -70.87033379711549
+Castle, Ploskovice, Czech Republic	50.55988375 14.201772262666758
+Madison County, Montana, USA	45.2844765 -111.91520431645114
+Floresti, Cluj-Napoca, Romania	46.7598372 23.5549289
+Bardia National Park, Nepal	28.47242165 81.46034217609565
+Villiers sur Marne, Val-de-Marne, France	48.8262055 2.5406696
+Burguete, Navarra, Spain	42.9890103 -1.3349915
+Murphy, Mississippi, USA	33.1209575 -90.7014843
+Crofton Maryland, USA	39.01595465 -76.68420565430054
+Pontecorvo, Lazio, Italy	41.461618 13.666709
+Saxony, KwaZulu-Natal, South Africa	-29.4845612 31.2346046
+Buchanan, Michigan, USA	41.8272684 -86.3611249
+New Edinburg, Arkansas, USA	33.7573274 -92.2384789
+Railroad Creek, Washington, USA	47.335466 -124.150943
+Den Haag, Zuid Holland, Netherlands	52.0799838 4.3113461
+Snohomish County, Washington, USA	48.0074736 -121.7304882
+Botanisk Have, Aarhus, Denmark	56.16137055 10.191263281716154
+Sunderland, England, UK	54.9058512 -1.3828727
+Shanghai Airport - Shanghai, China	31.141345049999998 121.80463662688626
+Beli Drim river, Kosovo	42.426507 20.5225312
+Golubac Fortress, Golubac, Serbia	44.661161699999994 21.678495709003652
+Cizre, Turkey	37.3274814 42.1894609
+Warren, Arkansas, USA	33.6126086 -92.0645831
+Vaassen, Gelderland, Netherlands	52.2901716 5.9686728
+Velence, Hungary	47.2353177 18.6605263
+Hartville, Ohio, USA	40.9636685 -81.3312195
+Bear Lake, Colorado, USA	39.2963621 -106.41531769415081
+Szczytno, Warminsko-Mazurskie, Poland	53.56373295 20.996863617882177
+Andover, New Jersey, USA	40.9859311 -74.7421089
+Batres, Madrid, Spain	40.2091393 -3.9215947
+Navan Road, Dublin 7, Ireland	53.371958 -6.3313182
+Missour, Morocco	33.047057 -3.992578
+Nortonville, Kansas, USA	39.4166649 -95.3335839
+Seymour, Texas, USA	33.5942438 -99.2603073
+Island of the Dolls, Mexico City, Mexico	19.2722453 -99.08870792753828
+Elfrida, Arizona, USA	31.6853714 -109.6870138
+Cotroceni National Museum, Bucharest, Romania	44.4342166 26.062502
+Actopan, Hidalgo, Mexico	20.30887855 -98.87565980207685
+Tamazula, Jalisco, Mexico	20.0180067 -104.05136655180584
+Tea, South Dakota, USA	43.44661 -96.836034
+Mazama, Washington, USA	48.5920867 -120.4039844
+Rush, County Dublin, Ireland	53.52435355 -6.109726883280706
+Charles Prince Airport, Zimbabwe	-17.750578249999997 30.923870417080586
+Monte Antico, Tuscany, Italy	42.9850443 11.3633618
+Greenbrier, Arkansas, USA	35.2339274 -92.3877837
+Cape Hardy, South Australia, Australia	-34.19722 136.29889
+Moctezuma, Sonora, Mexico	29.748798 -109.70788584867081
+Evans Bay Parade, Wellington, New Zealand	-41.2879251 174.8038759
+Teutoburger Wald, North Rhine-Westphalia, Germany	52.04831745 8.421850424795181
+Costa Brava, Catalonia, Spain	41.789894 2.7867242
+Torre a Mare, Apulia, Italy	41.087781 17.0006678
+Shamong, New Jersey, USA	39.7824265 -74.73033774370708
+Westfall, Pennsylvania, USA	41.38487045 -74.78062098580764
+Ueda, Nagano, Japan	36.4021192 138.2490506
+Pine City, Minnesota, USA	45.8260672 -92.9685423
+Sierra Pinacate, Sonora, Mexico	29.1352324 -111.0113639
+24 Rue Censier, Paris, France	48.8404114 2.3523366
+Frankford, New Jersey, USA	41.1662296 -74.733885353246
+Sierra Negra, Puebla, Mexico	18.9862137 -97.3151017
+Gloucester, New South Wales, Australia	-32.019323299999996 151.96069344242386
+Leitrim, County Leitrim, Ireland	53.990833 -8.063611
+Niagara River, New York, USA	43.0733521 -79.03891748121772
+Rocha, Rocha, Uruguay	-34.4810095 -54.3365608
+Queens Bay, British Columbia, Canada	49.641552000000004 -116.94700567344978
+Bekaert, Zwevegem, Belgium	50.8227268 3.3408351342190374
+Walls, Mississippi, USA	34.9578728 -90.1517605
+Franklin County, Arkansas, USA	35.5110075 -93.8864847
+Aarey Colony, India	19.1503904 72.87426783008218
+Knotts Island, North Carolina, USA	36.5323766 -75.9229797
+Orvin, Kanton Bern, Switzerland	47.1606885 7.212695
+Hettstedt, Saxony-Anhalt, Germany	51.6500047 11.4999986
+Stockdale, Texas, USA	29.2339501 -97.9607748
+28013, Madrid, Spain	40.41875318562518 -3.7070099469020796
+Rathfarnham, Dublin, Ireland	53.2988099 -6.2855388
+Totonicapan, Guatemala	15.0424999 -91.40610219934399
+Crowders Mountain, North Carolina, USA	35.2324556 -81.2763074
+Lindau, Germany	47.550753 9.6926624
+Wabasha, Minnesota, USA	44.2767596 -92.2018164
+Guajira, Colombia	10.4259556 -72.9583092
+Heiligenblut, Carinthia, Austria	47.04394745 12.853317220109819
+Slaughter Beach, Delaware, USA	38.9129131 -75.3040332
+Seebenstein, Lower Austria, Austria	47.695657749999995 16.150594072400267
+Calle Tetuan, San Juan, Puerto Rico	18.4640075 -66.1173468
+Braine L'Alleud, Brabant Wallon, Belgium	50.6828722 4.3692706
+Val Verde, California, USA	34.4474359 -118.6635083
+Rosanna, Victoria, Australia	-37.7428013 145.0661769
+Oakford, Illinois, USA	40.1025463 -89.9631693
+Jaarbeurs, Utrecht, Netherlands	52.0850418 5.10393397929261
+Armidale, New South Wales, Australia	-30.5144881 151.6656564
+Montagne de la Lure, Alpes-de-Haute-Provence, France	44.1843444 5.8370163
+Hittfeld, Lower Saxony, Germany	53.3840275 9.9877898
+Point Lay, Alaska, USA	69.7857195 -163.03479747510147
+81667 Munich, Bavaria, Germany	48.13043221092129 11.598426848459761
+Ballindamm, Hamburg, Germany	53.5520637 9.9950323
+Collinsville, Alabama, USA	34.269124 -85.86073649539672
+Cleveland County, Arkansas, USA	33.8847138 -92.1724506
+Navaluenga, Avila, Spain	40.4101393 -4.7079974
+Eagle Harbor, Michigan, USA	47.458245 -88.162326
+Grainau, Bavaria, Germany	47.4753212 11.0259498
+Falkensteiner Hohle, Germany	48.5140433 9.4527559
+Kingsland Road, London, UK	51.5451922 -0.0758903
+Blomidon, Nova Scotia, Canada	45.2214455 -64.3691594
+Tasavlu, Turkey	39.450309 27.3356274
+Monaco-Ville, Monaco	43.7309697 7.4248152
+Bessines, Haute-Vienne, France	46.1090993 1.3685926
+Gloucester, New Jersey, USA	39.7267303 -75.1535378
+Australian Botanical Garden	-32.461717 137.7435599875473
+Baita-Plai, Bihor, Romania	46.484035 22.62252
+Adlershof Studio, Berlin, Germany	52.4308589 13.5425447
+Gilboa, New York, USA	42.3973028 -74.4459805
+Cinemateca Portuguesa - Museu do Cinema, Lisbon, Portugal	38.7208511 -9.1486381
+Hinkley, California, USA	34.9347025 -117.1992124
+Manlius, New York, USA	43.0020107 -75.9768632
+Jablines, Seine-et-Marne, France	48.9175496 2.7648157
+Knightstown, Indiana, USA	39.7956007 -85.5263629
+Kursk Nuclear Power Plant, Kursk, Russia	51.67769615 35.60649660411259
+Porteau Cove, British Columbia, Canada	49.55694095 -123.2396002402199
+Tonneins, Lot-et-Garonne, France	44.3905556 0.3091667
+Solaro, Lombardia, Italy	45.6175264 9.0810206
+Goldingen, Kanton St. Gallen, Switzerland	47.2628195 8.9665579
+Milanville, Pennsylvania, USA	41.6714775 -75.0651686
+Visoko, Bosnia-Herzegovina	43.9894986 18.1816434
+Panchagarh, Bangladesh	26.32215705 88.5477309406956
+Schio, Vicenza, Italy	45.7113511 11.3553593
+Castera-Verduzan, France	43.8061233 0.428672
+Kumul, Xinjiang, China	42.817404 93.5142008
+Le Meux, Oise, France	49.3669433 2.7439069
+Colditz Castle, Saxony, Germany	51.131028549999996 12.8073772012315
+Milford Mill, Maryland, USA	39.344981950000005 -76.76914559978786
+Rocky River, Ohio, USA	41.4756031 -81.8393034
+Charlotte, Tennessee, USA	36.1772797 -87.3397319
+Columbia County, New York, USA 	42.2415027 -73.6723456
+Burgos, Salas de los Infantes, Spain	42.0192206 -3.3043339
+Lorena, Texas, USA	31.3865592 -97.2155596
+Mead, Colorado, USA	40.20279275 -104.97586196824028
+Gehrden, Lower Saxony, Germany	52.313508 9.6008438
+The Gap, Utah, USA	38.1833677 -110.0483315
+Muhen, Kanton Aargau, Switzerland	47.3408342 8.0535781
+Honeyville, Indiana, USA	41.5817166 -85.6016526
+191 Spring St. Lexington, Massachusetts, USA	42.42135200642172 -71.25145887467365
+Loch Leven, Perth & Kinross, Scotland	56.1992597 -3.3688635163899274
+Massing, Bavaria, Germany	48.3973505 12.6048293
+Ifrane, Morocco	33.527605 -5.107408
+Thurnau, Bavaria, Germany	50.024448 11.3944717
+WAPL Appleton, Wisconsin, USA	44.3592109 -87.9857526
+Ironbound Island, Nova Scotia, Canada	44.7725468 -62.6494469
+Delta Amacuro, Venezuela	8.6282101 -61.5648108
+Petrosani, Romania	45.4143907 23.3740904
+L'�le Saint-Denis, Seine Saint-Denis, France	48.9355757 2.4569474
+Wilmot, Wisconsin, USA	42.5131872 -88.1819025
+Bachkovski Manastir, Bulgaria	41.94188785 24.849487607329763
+Sokol District, Moscow, Russia	55.803462800000005 37.50780792042755
+Muynak, Karakalpakstan, Uzbekistan	43.7643276 59.0297467
+New Lebanon, New York, USA	42.4639722 -73.3964977
+Muerzzuschlag, Austria	47.6023164 15.6728794
+Liberty City, Florida, USA	28.13135225 -81.61609816743908
+Mbare, Zimbabwe	-17.8633131 31.034494
+CASA Walnut Creek, California, USA	37.9205509 -122.0209728
+Beilinson Hospital, Israel	32.08868885 34.867195573666635
+Caussols, Alpes-Maritimes, France	43.7413269 6.9000361
+Villa de Vallecas, Madrid, Spain	40.3739576 -3.6121632
+Moers, North Rhine-Westphalia, Germany	51.451283 6.62843
+Vernal, Utah, USA	40.4556825 -109.5284741
+Batroun, Lebanon	34.2548879 35.6588567
+Drumcondra, Dublin, Ireland	53.3680988 -6.2554727
+Orange County, Virginia, USA	38.2490349 -78.013983
+Versailles, New York, USA	42.5189496 -78.9958695
+Le Cellier, Loire Atlantique, France	47.3186735 -1.3465357
+Zubrnice, Czech Republic	50.6494539 14.2203809
+Oriskany, New York, USA	43.157359 -75.332909
+Holguin, Cuba	20.91155765 -75.78919775863332
+Hotel Baltschug, Moscow, Russia	55.748225649999995 37.62602842329147
+Epe, Gelderland, Netherlands	52.3270371 5.9631945020748915
+Highlands, North Carolina, USA	35.0525909 -83.1968173
+Castagniers, Alpes-Maritimes, France	43.7906001 7.2313062
+Geneva Lake, Geneva, Switzerland	38.8722824 -85.0207845
+Gulf Coast, Louisiana, USA	30.44687045 -90.08165411700679
+Ramingstein, Salzburg, Austria	47.0743129 13.8353664
+Bahrain Islamic Bank, Manama, Bahrain	26.239798399999998 50.58736414422037
+Indian Land, South Carolina, USA	35.0018151 -80.8556287
+Topping, Virginia, USA	37.5881938 -76.4743934
+Chapelle-Royale, Centre-Val de Loire, France	48.1445748 1.0484768
+Arena 70/2, Vienna, Austria	48.24180495 16.437296576970322
+Yecla Murcia, Spain	38.613652 -1.1157373
+Jeff Davis County, Texas, USA	30.7018281 -104.1501698
+Cetinje, Montenegro	42.389633 18.9246085
+Marlboro, Maryland, USA	38.8139804 -76.7575894
+Decazeville, Aveyron, France	44.5585148 2.2542071
+Adria Filmtheater, Berlin, Germany	52.4546993 13.31729028863208
+Etah, Greenland	78.3131833 -72.6012716
+Council Grove, Kansas, USA	38.6609239 -96.491958
+Sablet, Vaucluse, France	44.1923384 5.006085
+Tating, Schleswig-Holstein, Germany	54.3256494 8.7063937
+Marusevec Castle, Croatia	46.27214975 16.188608418130315
+Henrico, Virginia, USA	37.4957023 -77.335257
+Village, Corsica, France	42.469054 9.3900248
+Diamond Lake, Oregon, USA	43.1787376 -122.1389202
+Hygiene, Colorado, USA	40.1887848 -105.1780551
+Juazeiro, Pernambuco, Brazil	-8.2691328 -36.7644135
+Oradour sur Glane, France	45.932778 1.0325
+Capitol Reef National Park, Utah, USA	38.06702855 -111.15525624854631
+Rovinj, Croatia	45.0809754 13.6424024
+Dahme, Schleswig-Holstein, Germany	54.2213817 11.0852528
+Bonao, Dominican Republic	18.9383504 -70.405431
+Wrentham, Massachusetts, USA	42.0667652 -71.3281114
+Gangavathi, Karanataka, India	15.4261076 76.5306714
+Murcia, Madrid, Spain	40.54069605 -3.6281548821082006
+Cauayan, Isabela, Philippines	16.9335031 121.7743905
+Arronville, Val-d'Oise, France	49.180049 2.1118399
+Louisburgh, County Mayo, Ireland	53.7635338 -9.8084904
+Clayton, South Australia, Australia	-29.3154705 138.4322539216463
+Vence, Alpes-Maritimes, France	43.7226704 7.1114175
+Bronson, Michigan, USA	41.8722716 -85.1946963
+222 Main Street ,Salt Lake City, Utah, USA	40.764280299999996 -111.89161231996295
+Memari, West Bengal, India	23.1756813 88.0963919
+Indianapolis , Indiana, USA	39.7683331 -86.1583502
+Radisson Blu Iveria Hotel, Tbilisi, Georgia	41.7039918 44.7933627
+Korbeek-Dijle, Belgium	50.839684 4.640793
+2701 Manhattan Beach Blvd; Redondo Beach, California, USA	33.887454 -118.36287
+Hampton, New Jersey, USA	40.7070446 -74.9560032
+Dienhausen, Bavaria, Germany	47.8884888 10.832756
+Kocksgatan 24, 116 24 Stockholm, Sweden	59.3140267 18.0781947
+Saugatuck, Michigan, USA	42.6549244 -86.2040552
+Kachura Lake, Pakistan	35.42661255 75.45526130420376
+Wilburton, Pennsylvania, USA	40.8139667 -76.3902207
+Effeltrich, Bavaria, Germany	49.6595316 11.0927191
+Nassau, New York, USA	42.5159145 -73.6101159
+Studio Havelchaussee, Berlin, Germany	52.5502251 13.2256292
+Turner, Maine, USA	44.2564588 -70.2561671
+Hotel Gresham Palace, Budapest, Hungary	47.4997606 19.0481776
+Pemberton British Columbia, Canada	50.3203804 -122.8080783
+Saltspring Island, British Columbia, Canada	48.8296672 -123.51516139891447
+Smyrna, Tennessee, USA	35.9824598 -86.5199492
+Pauline, South Carolina, USA	34.8331835 -81.8723235
+Datong Township, Yilan, Taiwan	24.4641285 121.8007249
+Streeton, South Australia, Australia	-35.0707043 138.5383505
+Gladbeck, North Rhine-Westphalia, Germany	51.5718665 6.9877343
+Eastern Oregon, Oregon, USA	45.3181334 -118.09164452501295
+Lesany, Czech Republic	49.8441659 14.524945
+Crimmitschau, Saxony, Germany	50.8162378 12.3867217
+Gutierrez Zamora, Veracruz, Mexico	20.440282250000003 -97.10715380897673
+Beeton, Ontario, Canada	44.0789618 -79.784557
+Bray Lake, Ontario, Canada	49.26810505 -81.34878165053524
+Gruyere, Victoria, Australia	-37.7342172 145.4502423
+Manhattan, Illinois, USA	41.4225316 -87.9858863
+Horn, Lower Austria, Austria	48.6636596 15.6563147
+La Couvertoirade, Aveyron, France	43.9135013 3.3164627
+Machaerus, Jordan	31.567418500000002 35.624106467835595
+Gopnath, Gujarat	23.0688147 72.5648948
+Borssele, Zeeland, Netherlands	51.4254902 3.7379392
+Lindabrunn, Lower Austria, Austria	47.9121904 16.1710653
+Merville, France	50.6436584 2.6387499
+Distomo, Greece	38.4291946 22.6672151
+Fahrland bei Potsdam, Brandenburg, Germany	52.4681584 13.0119376
+Camisea River, Peru	-11.8959449 -72.3503298
+Old Forge, New York, USA 	43.7099532 -74.974448
+New York, New York, USA	40.7127281 -74.0060152
+Telford, Pennsylvania, USA	40.3220483 -75.3279538
+Maridalen, Oslo, Norway	60.00542715 10.775259462712865
+Geiselbullach, Bavaria, Germany	48.2256228 11.3420199
+Deinze, East Flanders, Belgium	50.9840526 3.5274017
+Puerto Penasco, Sonora, Mexico	31.530171799999998 -113.38971892127962
+Swanwick, England, UK	50.8757192 -1.2659524
+Yorkin, Costa Rica	9.5179275 -82.8583758
+Laurentian Mountains, Quebec, Canada	47.1352312 -72.2788761
+Cormatin, Sa�ne-et-Loire, France	46.5437731 4.6868549
+Canton Massachusetts, USA	42.1828643 -71.12517621641291
+Pleven, Bulgaria	43.409022 24.6180123
+Michigan City, Mississippi, USA	34.9809243 -89.2506254
+Kerr, Arkansas, USA	34.7867571 -92.0584768
+Blassac, Haute-Loire, France	45.1702025 3.4003937
+S�ke, Turkey	44.0755432 -103.3260179
+Meyersdale, Pennsylvania, USA	39.8136931 -79.024748
+St. Peter Ording, Schleswig-Holstein, Germany	54.3172664 8.6254937
+Barnesville, Pennsylvania, USA	40.8147866 -76.0312371
+Kokor�n, Czech Republic	49.67644 18.40410654143087
+West Wendover, Nevada, USA	40.7426699 -114.072087
+Hospitalet de Llobregat, Catalonia, Spain	41.3598601 2.0997927
+Vianden Castle, Luxembourg	49.9348804 6.202804160734983
+Chelmsford, Massachusetts, USA	42.5998139 -71.3672838
+Downtown Center, Santo Domingo, Dominican Republic	18.45064345 -69.95285617767676
+Cisco, Texas, USA	32.3828077 -98.9797165
+Lichtervelde, Belgium	51.0274096 3.1402247
+Coffeyville, Kansas, USA	37.0372999 -95.6163634
+Cataldo, Idaho, USA	47.5488066 -116.3296149
+Janakpur, Nepal	26.7281124 85.93643035322714
+Holledau, Bavaria, Germany	48.4882825 11.650495864754383
+Dolac, Zagreb, Croatia	45.8139375 15.9769291
+Barinas, Murcia, Spain	38.2726949 -1.0573211
+La Sorbonne Paris, France	48.84863575 2.3436033599678794
+Ticino, Switzerland	46.3351913 8.7525902
+Villa Mella, Dominican Republic	18.531096 -69.9064378
+Jardim botanico, Rio de Janeiro, Brazil	-22.968384550000003 -43.22869449858106
+Dinwiddie, Virginia, USA	37.0779278 -77.586655
+Hughesville, Missouri, USA	38.8386278 -93.2954855
+Nova Siri, Italy	40.148212 16.538889
+Dornum, Lower Saxony, Germany	53.6469082 7.4279332
+Merckem, Belgium	50.4700558 4.8584246
+Lowell, Michigan, USA	42.933601 -85.3418551
+Puerto Maldonado, Peru	-12.5938633 -69.1866773
+Helsinki Airport, Vantaa, Finland	60.3189332 24.9682958
+Long Barn, California, USA	38.0929762 -120.1343539
+Fremont County, Colorado, USA	38.4692006 -105.4328622
+Beaulieu Castle, Machelen, Belgium	50.9036957 4.427547016196272
+Mantung, South Australia, Australia	-34.5884876 140.0772296
+Shefaram, Israel	32.8045765 35.1723866
+Zlatnite Mostove, Vitosha, Bulgaria	42.6097285 23.2391737
+Bulbucata, Romania	44.2771942 25.822484
+Baltrum, Lower Saxony, Germany	53.728207749999996 7.3994820058885615
+Puerto Montt, Chile	-41.4718121 -72.939621
+Taperoo, South Australia, Australia	-34.8065404 138.5000199
+Haarhausen, Thuringia, Germany	50.861742 10.89896
+Redortiers, Alpes-de-Haute-Provence, France	44.1017044 5.6166017
+Camp Meade, Maryland, USA	39.1372706 -76.6944617
+Chillicothe, Texas, USA	34.2537085 -99.5111446
+Greenfield, Ohio, USA	39.3520084 -83.3826928
+Portuguesa, Venezuela	8.96739065 -69.3917347493333
+Kalkara, Malta	35.8898771 14.5290867
+San Francisco De Macoris, Republica Dominicana	19.2972812 -70.2533206
+Donelson, Tennessee USA	36.1625566 -86.6699968
+Hunting Valley, Ohio, USA	41.489219 -81.401781
+Orient, Iowa, USA	41.203044 -94.4146845
+Archdale, North Carolina, USA	35.914581 -79.9719831
+Amherst, New Hampshire, USA	42.8642874 -71.6252484
+Magny-en-Vexin, Val-d'Oise, France	49.1554403 1.7864359
+Macheke River, Zimbabwe	-18.8113525 31.9749209
+Chamblee, Georgia, USA	33.892176 -84.2988296
+Chu�, Rio Grande do Sul, Brazil	-31.7509197 -52.3349301
+Vievis, Lithuania	54.7693774 24.8158205
+Kiryat Gat, Israel	31.6031494 34.7779274
+Sogakope, Ghana	5.9989117 0.5951312
+Smederevo, Serbia	44.6651048 20.9271115
+Serencebey, Besiktas, Istanbul	41.0482235 29.0096783
+Pont de Tolbiac, Paris, France	48.8328274 2.3808583382739865
+Hergla, Tunisia	36.0289024 10.498095971544412
+Animas River, Colorado, USA	37.6979725 -107.6589582
+Hartland, Connecticut, USA	41.996206 -72.9795488
+Almondell Country Park, Scotland, UK	55.88509525 -3.4785000571378477
+Rio Balsas, Guerrero, Mexico	25.7568183 -100.2534774
+Point Pleasant, West Virginia, USA	38.8445251 -82.1370889
+Flourtown, Pennsylvania, USA	40.1034436 -75.2123995
+Catlin, Illinois, USA	40.0650363 -87.7019675
+Marmora, Ontario, Canada	44.4827759 -77.6823297
+Laurelville, Ohio, USA	39.473397 -82.7393363
+Calle Londres, Madrid, Spain	40.2392566 -3.7538755
+Prissiano, South Tirol, Italy	46.5533079 11.1794119
+Prignitz, Brandenburg, Germany	53.12313355 11.901469377691978
+Finike, Antalya, Turkey	36.3046148 30.1445334
+Saint-Briac-Sur-Mer, Ille-et-Vilaine, France	48.6183398 -2.1327847
+Trakai, Lithuania	54.6449911 24.9353981
+1070 North Hicks Avenue - Los Angeles, California, USA	34.049138970268636 -118.1907919265712
+Kengarags, Riga, Latvia	56.908907 24.1873513
+Nacozari de Garcia, Sonora, Mexico	30.485376199999997 -109.47208572443533
+Fort McPherson, Northwest Territories, Canada	67.4364612 -134.883318
+Grand Hotel, Oslo, Norway	59.9138017 10.739527
+NW, Washington, USA	38.9352086 -77.0564501
+Gaiety Theatre, Douglas, Isle of Man	54.1548074 -4.4785041
+Huldenberg, Belgium	50.7892736 4.5833958
+Nebo, Louisiana, USA	31.5887854 -92.1417992
+Venyov, Russia	54.3506275 38.266561
+Beaufort, Savoie, France	45.7174453 6.5732569
+Chesapeake Bay, Virginia, USA	38.228414900000004 -76.2631734771632
+Schwarzenbach a. d. Saale, Bavaria, Germany	50.2223578 11.9332653
+Glenmalure, Ireland	52.9576993 -6.3539662
+Verneuil-en-Halatte, Oise, France	49.273664 2.5188916
+Wilkeson, Washington, USA	47.1053802 -122.0456673
+Pula arena, Pula, Croatia	44.87320875 13.849670044257707
+Coffee Bay, South Africa	-31.985195 29.14697
+CWO Huset, Aalborg, Denmark	57.0537309 9.9123288
+Blossom Prairie, Texas, USA	30.0620902 -95.9793012
+River Po, Italy	42.361005 13.471639
+Guizhou, China	27.0 107.0
+Wadi Al Rayan, Egypt	29.2337968 30.4267685
+Oaklands Park, South Australia, Australia	-35.0066862 138.544563
+Ridgefield, Washington, USA	45.8167616 -122.7433775
+Ringgold, Louisiana, USA	32.3284899 -93.2798917
+Sankt Peders Str�de, Copenhagen, Denmark	55.6797318 12.570954
+Garryowen, Montana, USA	45.5267935 -107.4165963
+Valmondois, Val-d'Oise, France	49.0967512 2.1889394
+Mooi River, South Africa	-31.077774 28.3522505
+Florida, Valle del Cauca, Colombia	3.3256006 -76.2370118
+Prescott National Forest, Arizona, USA	34.6706447 -112.06992708766188
+Jaskinia Mamutowa, Malopolskie, Poland	50.1703913 19.8057149
+Diepoldsau, Kanton St. Gallen, Switzerland	47.3859513 9.6556042
+Swiss Alp, Texas, USA	29.7824523 -96.9094258
+Vuelta Abajo, Cuba	41.026647 -4.1668107
+Kishoreganj, Bangladesh	24.4339822 90.7857232
+Barboursville, West Virginia, USA	38.4095298 -82.2945923
+Isartal, Bavaria, Germany	48.0556122 11.5217455
+Gerlos, Tirol, Austria	47.20911125 12.029656795913978
+Olsztyn, Slaskie, Poland	50.7494569 19.2686901
+Kangra Valley, India	32.055272 76.6256428
+rue de Rouen, Mennecy, Essonne	48.5494652 2.4255589
+Bertram, Texas, USA	30.7437645 -98.0554349
+Playas de Tijuana, Baja California, Mexico	32.531755 -117.116418
+Tijeras, New Mexico, USA	35.0796355 -106.3879441
+Hazelhurst, Wisconsin, USA	45.805212 -89.7237462
+Overijse, Belgium	50.7701622 4.5351806
+Sheridan, Indiana, USA	40.1350375 -86.2205487
+Stamullen	53.6285486 -6.2622712
+Carrollton, Missouri, USA	39.3582412 -93.4965428
+Bogata, Texas, USA	33.4711597 -95.2144967
+Milagres, Bahia, Brazil	-12.864635 -39.861092
+Ancona, Marches, Italy	43.480120400000004 13.218790609151764
+Beucha, Saxony, Germany	51.3212921 12.5694912
+Lungern, Obwalden, Switzerland	46.7857297 8.1607283
+Schwaz, Tirol, Austria	47.3449529 11.7084253
+Tingha, New South Wales, Australia	-29.9566568 151.2122145
+Chaneysville, Pennsylvania, USA	39.8236966 -78.4891828
+Via Patriarca, 21/ 23 Mirano, Italy	45.4985771 12.1274733
+Mountain Creek, Queensland, Australia	-26.6970476 153.0995568
+New Haven, Indiana, USA	41.0733059 -85.0173125
+Zeebrugge, West Flanders, Belgium	51.3312211 3.207561
+Ringoes, New Jersey, USA	40.4289354 -74.8675019
+Texas Hill Country, Texas, USA	29.476061 -98.7454365
+Sulina, Romania	45.15541425 29.652728883222483
+Royal Oak, Auckland, New Zealand	-36.911995 174.7761848
+Neustift, Tirol, Austria	47.11073865 11.307143505841502
+40 Water St Windsor, NS B0N 2T0, Canada	44.995457252332564 -64.13866864236664
+Bouchemaine, Maine-et-Loire, France	47.4234644 -0.6085356
+Karlovo, Bulgaria	42.6358156 24.8048226
+Redding California, USA	40.5863563 -122.391675
+Przodkowo, Pomorskie, Poland	54.3791906 18.287826
+Marlborough Sounds, New Zealand	-41.28893895 174.00888431688372
+North Curl Curl, New South Wales, Australia	-33.7630002 151.2904773
+Nivelles, Wallonia, Belgium	50.5976885 4.3235854
+Takua Pa District, Phang-nga, Thailand	8.8663388 98.3433027
+Arnhem, Gelderland, The Netherlands	51.984257 5.9108573
+Barceloneta, Barcelona, Spain	41.3821171 2.1854822
+Villazon, Bolivia	-22.090727 -65.5956943
+Petrodvorets, St. Petersburg, Russia	59.87978495 29.92607550356373
+Perrysburg Ohio, USA	41.5571178 -83.6279321
+Hamfelde, Schleswig-Holstein, Germany	53.597504650000005 10.439094966985529
+Parque Nacional Bosque de Tlalpan, Mexico City, Mexico	19.2909768 -99.2073859
+Featherston, Wairarapa, New Zealand	-41.114939 175.32524
+Killiney, County Dublin, Ireland	53.2553845 -6.11304
+Adamsville, Alabama, USA	33.6009389 -86.9561059
+Jindrichuv Hradec, Czech Republic	49.1443265 15.003354
+Wasserburg am Inn, Bavaria, Germany	48.0615171 12.220026
+near Portland, Oregon, USA	45.5202471 -122.6741949
+Zipf, Upper Austria, Austria	48.0366457 13.502273
+Ottenburg, Belgium	50.7522298 4.6153442
+Bayambang, Pangasinan, Philippines	15.8088028 120.4540746
+Old Bexley, Kent, UK	51.4348899 0.1667225
+Janda Baik, Pahang, Malaysia	3.3227606 101.8486758
+Sacsayhuaman, Cuzco, Peru	-13.483388399999999 -71.97170194074698
+Low Tatras, Slovakia	48.93964895 19.563121353490196
+Zillah, Washington, USA	46.4020734 -120.261998
+Jhajjar, Haryana, India	28.53364155 76.68981477716189
+Kofa Mountains, Arizona, USA	33.3300344 -113.9535457
+Hochgurgl, Tirol, Austria	46.8999275 11.0514309
+Veyreau, Aveyron, France	44.185112 3.3001458
+Kernersville, North Carolina, USA	36.1198589 -80.0736533
+Oberlausitz, Saxony, Germany	51.20847765 14.672816188099732
+Annet-sur-Marne, Seine-et-Marne, France	48.9263555 2.7189327
+Gourdon, Alpes-Maritimes, France	43.7195336 6.9787811
+Neosho, Missouri, USA	36.8665201 -94.3701651
+Westmont, California, USA	33.9414035 -118.3022963
+Nsola, Cameroon	3.2400749 10.4325908
+Polideportivo Elipa, Madrid, Spain	40.4167492 -3.656477
+Boso Peninsula, Chiba, Japan	34.900405 139.8880854
+Altamira, Puerto Plata, Dominican Republic	19.650998350000002 -70.79298720485
+Danville, Pennsylvania, USA	40.9664806 -76.6131474
+Inverell, NSW	-29.43679805 151.17706931836153
+Roosevelt, Texas, USA	33.581475 -101.6743294
+Sault Ste. Marie, Michigan, USA	46.490586 -84.359269
+Three Arch Bay, California, USA	33.4908606 -117.7322758
+Lewisville, Indiana, USA	39.4711579 -86.6319463
+Minami-senju, Tokyo, Japan	35.7332554 139.7990037
+Mondorf-les-Bains, Luxembourg	49.5071747 6.2814238
+Mecklenburg, Germany	53.74455555 11.796396054417967
+Spanish, Ontario, Canada	46.193239 -82.347307
+Namao, Alberta, Canada	53.7162187 -113.4926061
+Lataguri, West Bengal, India	26.706542 88.7689841
+Arcola, Virginia, USA	38.9519042 -77.5339428
+Karumba, Queensland, Australia	-17.4876079 140.8404027
+v. Svezhen, Bulgaria	42.5054936 25.0254554
+Museumsquartier, Vienna, Austria	48.2031942 16.35834217139453
+Llinars, Catalunya, Spain	42.1311401 1.7085263
+Lourdes, France	43.0940904 -0.0464975
+Piushaven 21, 5017 AN Tilburg, The Netherlands	51.5527532 5.0942462
+Graham County, North Carolina, USA	35.359542 -83.8337785
+Rathdowney, Queensland, Australia	-28.2100613 152.8652382
+Winnabow, North Carolina, USA	34.1493374 -78.0936046
+Warngau, Bavaria, Germany	47.819046150000005 11.730831024196185
+Phnom Chisor, Cambodia	11.1844173 104.823748
+Erdinger Moos, Bavaria, Germany	48.4467209 11.9967633
+La Certosa, Italy	45.4343794 12.37470160204338
+Vorchdorf, Upper Austria, Austria	48.0035141 13.922837
+Cathlamet, Washington, USA	46.2031673 -123.383189
+Kuttanadu, Kerala, India	9.57859815 76.82470914860139
+Kearny & Jersey City, New Jersey, USA	39.914540849999995 -74.15406822698799
+Reichsburg Cochem, Rhineland-Palatinate, Germany	50.14222785 7.167087023380078
+Fort van Liezele, Belgium	51.066839200000004 4.284995741511725
+Yalu River, North Korea	40.1411724 124.4331729
+Schauspielhaus, Hamburg, Germany	53.5543073 10.0083986
+Breddorf, Lower Saxony, Germany	53.2918796 9.0792564
+Koszecin, Slaskie, Poland	50.635918 18.8413347
+san pedro California, USA	33.7358518 -118.2922934
+Villaverde Alto, Madrid, Spain	40.3409182 -3.7112332
+Marcinelle, Belgium	50.3977245 4.4442531
+New Ross, Ireland	52.3955671 -6.9446066
+Champaign County, Illinois, USA	40.1346857 -88.1975558
+Detroit, Texas, USA	33.6629825 -95.2662526
+Effort, Pennsylvania, USA	40.94493155 -75.44297170018345
+Odawara Castle, Odawara, Japan	35.251014 139.153411
+Zambezi River, Mozambique	-18.7261804 36.2460302
+Les Lecques, Gard, France	43.8305216 4.0462089
+Stephentown, New York, USA	42.5486929 -73.3739973
+Limestone Coast Road, South Australia, Australia	-36.966833 139.7525724
+Clyde, North Carolina, USA	35.5334379 -82.910691
+Hugo, Colorado, USA	39.1346297 -103.4714033
+Hartsville, South Carolina, USA	34.3740431 -80.0734005
+HafenCity, Hamburg, Germany	53.5429127 9.9958346
+Netrokona, Bangladesh	24.8855734 90.7332362
+Liangshan County, Sichuan, China	32.3837 105.209
+Ellison Bay, Wisconsin, USA	45.254709 -87.071503
+Khachik, Armenia	39.6239454 45.2072395
+Providensky, Chukotka, Russia	65.47949105000001 -175.1735918903462
+CC Merksem, Antwerpen, Belgium	51.25046315 4.437930326031027
+National Library of Russia, St. Petersburg, Russia	59.935185700000005 30.345275972327407
+West Olive, Michigan, USA	42.921341 -86.1471466
+Garrett, Pennsylvania, USA	39.8631361 -79.0580824
+Villa Cesare, Savudrija, Croatia	45.50038705 13.512827824651495
+Hesse, Hochtaunuskreis, Germany	50.21916395 8.623093446956169
+Avoriaz, Morzine, France	46.1925439 6.7702857
+Gillette, Wyoming, USA	44.290635 -105.501876
+Fort Saskatchewan, Alberta, Canada	53.7128571 -113.2148942
+Nueva Alianza, Guatemala	14.5540699 -90.9285575
+Priel, Upper Austria, Austria	47.8655367 13.3147575
+Zhang Jia kou, Hebei, China	40.8228016 114.880567
+Safaga, Egypt	26.7633325 33.9383817
+Puente Cabrera 2, Granada, Spain	37.1778638 -3.5936661
+Estaca, New Mexico, USA	36.1119669 -106.058634
+Havana, Illinois, USA	40.3014316 -90.0633625
+Saint-Cyr-l'Ecole, Yvelines, France	48.799708 2.0672138
+Vesterbro, Copenhagen	55.6681576 12.559064
+Mexico, DF, Mexico	19.2667063 -99.1269596
+Concord, Georgia, USA	33.0912359 -84.4374232
+Zambezia, Mozambique	-16.6460178 36.991932
+Kummersdorf-Gut, Brandenburg, Germany	52.1029663 13.3751784
+Medora, Illinois, USA	39.1744908 -90.1431654
+Washington Duke Inn Durham, North Carolina, USA	35.99294315 -78.94739265531058
+Hotel PLM Saint-Jacques, Paris, France	48.844663499999996 2.3400307857143083
+Mgarr ix-Xini, Gozo, Malta	36.0202977 14.27123989283611
+Savannah, Missouri, USA	39.9413678 -94.829946
+Lange Nieuwstraat, Antwerpen, Belgium	51.2199375 4.406264
+Rodas, Greece	36.4379874 28.2233083
+Cologne, Minnesota, USA	44.771629 -93.7813523
+A10, Brandenburg, Germany	52.3679552 13.5094331
+Wahlheim, Rhineland-Palatinate, Germany	49.7173116 8.1045695
+Waynesville, North Carolina, USA	35.4887476 -82.9888725
+Macomb, Illinois, USA	40.4588934 -90.6713939
+Twekkelo, Overijssel, Netherlands	52.2284781 6.8139537
+Nassogne, Belgium	50.1287359 5.3418985
+Chaleh Siah, Iran	33.8895 46.5601
+Hell's Kitchen, New York, USA	40.7644228 -73.9923918
+Srebrenica, Bosnia and Herzegovina	44.1063188 19.2952783
+Altar Valley, Arizona, USA	32.0773004 -111.3148258
+Mundelein, Illinois, USA	42.263079 -88.0039653
+Topola, Serbia	44.2544752 20.6797215
+Garfield, Arkansas, USA	36.4484053 -93.9740892
+Freistadt, Upper Austria, Austria	48.5112961 14.5047566
+Cobb, California, USA	38.8221258 -122.723045
+Wapato, Washington, USA	46.4476278 -120.420338
+Newaygo County, Michigan, USA	43.5121225 -85.7944976
+Traiskirchen, Lower Austria, Austria	48.0138858 16.2952311
+Hamburger Kammerspiele, Hamburg, Germany	53.56993405 9.9854033111156
+Muroc, California, USA	34.927661 -117.897306
+Sandl, Upper Austria, Austria	48.5603578 14.6444023
+Alleman, Iowa, USA	41.8200591 -93.611251
+Kaimkillenbun, Queensland, Australia	-27.0600645 151.434263
+Atlantis Casino, Paradise Island, Bahamas	25.0850469 -77.3225869
+Tourly, Oise, France	49.2231762 1.9468289
+San Mateo, Estado Aragua, Venezuela	10.2153833 -67.4180154
+Argao, Cebu, Philippines	9.8827627 123.6068412
+Scharndorf, Lower Austria, Austria	48.0939365 16.7962338
+Planfoy, Loire, France	45.3836 4.44057
+Mayetta, Kansas, USA	39.338885 -95.722483
+Wakefield, New Hampshire, USA	43.5685871 -71.0297823
+Fern Park, Florida, USA	28.6512265 -81.34536097097518
+Eaubonne, Val-d'Oise, France	48.9906696 2.2794326
+Bad Heilbrunn, Bavaria, Germany	47.7463564 11.455267
+Thanegaon Village, Maharashtra, India	21.1584313 78.474932
+Nordeste, Brazil	-9.571664349999999 -40.961051765435606
+Eppishausen, Bavaria, Germany	48.1677834 10.5165068
+Florenville, Wallonia, Belgium	49.6993182 5.3100518
+Annaba, Algeria	36.8982165 7.7549272
+Lago Atitlan, Guatemala	14.68014625 -91.18617380722014
+Store Torv, Aarhus, Denmark	56.157300899999996 10.208950174527136
+Anaconda, Montana, USA	46.1294685 -112.953131
+Stezyca, Pomorskie, Poland	54.2059665 17.9552688
+Mount Arapiles, Victoria, Australia	-36.7522254 141.8353365
+Drewitz, Brandenburg, Germany	52.3640235 13.1269517
+Hoheluft, Hamburg, Germany	53.5872148 9.969697965280966
+Ambleville, Val-d'Oise, France	49.1478623 1.6965871
+Kingsland, Arkansas, USA	33.8600701 -92.2946707
+Skelmersdale, UK	53.5504323 -2.8097184
+Sulphur Springs, Texas, USA	33.1384886 -95.6010143
+Lake Victoria, New South Wales, Australia	-33.9927623 141.2757557011002
+Solna, Stockholm, Sweden	59.361367 18.0013693
+Berca, Romania	45.2873392 26.6809742
+Tissamaharama, Sri Lanka	6.2690006 81.2852933
+Chemulpo Bay, Incheon, South Korea	37.3469737 126.521582
+Putrajaya, Malaysia	2.9140567 101.6838531
+Bingham, Utah, USA	40.530889900000005 -112.13037803893832
+Certaldo Alto, Italy	43.573909 11.093589715502967
+Ninh Binh, Vietnam	20.2545421 105.9764854
+Ferney-Voltaire, Ain, France	46.2555744 6.1076131
+Clarksburg, Pennsylvania, USA	40.5336773 -79.3819842
+Kratie, Cambodia	12.678301699999999 106.05817329824376
+Los Angeles LGBT Center	34.1005628 -118.3327632
+Panama, Republic of Panama	8.559559 -81.1308434
+Sal island, Cape Verde	-34.0860607 23.3656633
+Virgen, Tirol, Austria	46.99948155 12.430539151032937
+Deer Lodge, Montana, USA	46.395761 -112.730038
+Asheboro, North Carolina, USA	35.7079146 -79.8136446
+Levin, Czech Republic	50.6137762 14.284155
+Langenzenn, Bavaria, Germany	49.4950727 10.7937902
+Liepaja, Latvia	56.5048435 21.0070903
+Saint-Laurent-du-Var, Alpes-Maritimes, France	43.6690101 7.1906969
+Valle Nevado, Chile	-33.352964 -70.2486776
+Emirate of Sharjah, United Arab Emirates	25.28784375 55.47897850735059
+Table Bay, South Africa	-33.8916667 18.4597222
+St.Francisville, Louisiana, USA	30.7807244 -91.3763353
+Shek Wan, Hong Kong SAR, China	22.3502777 114.0850329
+Carrera del Darro 17, Granada, Spain	37.3506504 -3.2947378
+Sveti Stefan, Montenegro	42.2558399 18.89118267872983
+Ilhabela, S�o Paulo, Brazil	-23.816628 -45.368685
+346 N. Kenwood St. Burbank, California, USA	34.156808 -118.343868
+Bellingen, New South Wales, Australia	-30.37399135 152.71920995667793
+Skallelv, Finnmark, Norway	70.1873632 30.3343831
+Talmaciu, Sibiu, Romania	45.6646194 24.2659424
+Oak Island, North Carolina, USA	33.9046184 -78.0827699
+Feldkirchen, Carinthia, Austria	46.7219887 14.0969727
+Pasca, Peru	-9.98010935 -77.43589384059317
+1141 N. Ashland Ave. Chicago, Illinois, USA	41.9027955 -87.6672587
+Sabinal, Texas, USA	29.3174554 -99.4664356
+Augustusburg, Saxony, Germany	50.8144193 13.1009791
+Bhullar Villa, India	30.4198811 74.6023247
+His�y, Norway	58.4317347 8.7436841
+Chichigalpa, Nicaragua	12.5720493 -87.0262652
+near, Isfara, Tajikistan	40.123264 70.6134164
+Humboldt, Arizona, USA	34.5008589 -112.2373846
+Zvornik, Bosnia and Herzegovina	44.3854067 19.1027717
+Kovalam, Kerala, India	8.4004698 76.9788156
+Burg Ronneburg, Hessen, Germany	50.2383231 9.060754355109749
+Johore, Malaysia	2.0229012 103.3147721
+Quistinic, Morbihan, France	47.9046954 -3.1353968
+Strathcona County, Alberta, Canada	53.5762678 -113.1255397
+Bagno, Dolnoslaskie, Poland	51.3392058 16.8203816
+Oakdale, Minnesota, USA	44.985624 -92.9645794
+Orange Vale, California, USA	33.8896059 -117.4586554
+Sluderno, South Tirol, Italy	46.6645383 10.5848173
+Vestby, Norway	59.559856249999996 10.711865345334502
+Somosaguas, Madrid, Spain	40.4104552 -3.7968235
+Puolanka, Finland	64.8729778 27.6552537
+Daniels County, Montana, USA	48.7710629 -105.5123296
+Central Highlands, Tasmania, Australia	-42.196028 146.67270337807344
+Grand Forks, British Columbia, Canada	49.03333625 -118.45018043556618
+Lyons, Colorado, USA	40.224432 -105.270532
+Mauch Chunk, Pennsylvania, USA	40.8458683 -75.7968451
+Fairfax, Ohio, USA	39.145372 -84.3931827
+Monte Santo, Bahia, Brazil	-10.4382898 -39.3304065
+Yardville, New Jersey, USA	40.1812212 -74.6643248
+Pomorie, Bulgaria	42.5684133 27.6167754
+Theatre de la Michodiere, Paris, France	48.8693146 2.3347338
+Itabuna, Bahia, Brazil	-14.7935179 -39.274318
+Springfield, Kentucky, USA	37.6853413 -85.2221819
+Costa Veracruzana, Veracruz, Mexico	19.1956175 -96.1531213
+Tipton, Iowa, USA	41.7697434 -91.127935
+Stenderup, Schleswig-Holstein, Germany	54.7334055 9.9305363
+Underwood, New York, USA	44.0878308 -73.6762434
+Capistrano Beach, California, USA	33.4625277 -117.6717175
+Toppenish, Washington, USA	46.3775015 -120.308938
+Avondale Estates, Georgia, USA	33.771494 -84.2671444
+Port Stanvac, South Australia, Australia	-35.1103229 138.491350376664
+Lake St. Clair, Michigan, USA	42.4935392 -82.73921273797565
+Kindberg, Steiermark, Austria	47.5049711 15.4498601
+Tavistock, Ontario, Canada	43.32104 -80.8363123
+Pilar de la Horadada, Alicante, Spain	37.8675489 -0.7925673
+Rarden, Ohio, USA	38.9222941 -83.2424066
+Selma, North Carolina, USA	35.5365485 -78.2844435
+1330-Oriro Guro-gu Seoul Republic of Korea	37.4819986 126.8454005
+Meuse, Lorraine, france	49.01296845 5.428669076639772
+Rue Simart, Paris 18, France	48.8909793 2.3478652
+Cachan, Val-de-Marne, France	48.7945413 2.3340758
+Schiller Theater, Berlin, Germany	52.51156145 13.31884171602358
+Gunnison Canyon, Colorado, USA	38.579806500000004 -107.74369704974094
+Nizhni Novgorod, Russia	56.294877850000006 43.8616356801561
+La Falda, Cordoba, Spain	-31.4798699 -64.2127392
+Trece Martires City, Cavite, Philippines	14.2999977 120.9579495
+Antony, Hauts-de-Seine, France	48.753554 2.2959423
+Ledbetter, Texas, USA	32.683342350000004 -96.78879145
+Manigod, Haute-Savoie, France	45.8609621 6.3697041
+Udi, Nigeria	6.3144 7.4258
+Greenville, Illinois, USA	38.8922687 -89.4131356
+Knokke-Heist, West Flanders, Belgium	51.33607345 3.302202456506173
+Saint-Gilles, Ille-et-Vilaine, France	48.1539357 -1.8299928
+North Chicago, Illinois, USA	42.325578 -87.8411818
+Crone Wood, Ireland	53.16096225 -6.226272243361938
+Clyde Park, Montana, USA	45.886879 -110.603819
+4930 S Cottage Grove Ave, Chicago, IL,USA	41.805146300000004 -87.60772222901309
+Mook, Limburg, Netherlands	51.752582 5.8842244
+North Stuart Street.	39.3124979 -76.4724147
+Presidente Figueiredo, Amazonas, Brazil	-2.0486359 -60.0236658
+Glasshouse Mountains, Queensland, Australia	-26.8993625 152.9563065
+Moss, Tennessee, USA	36.589226 -85.6169166
+Hilham, Tennessee, USA	36.4142281 -85.4416363
+Hakendover, Belgium	50.7943267 4.9820934
+Saburtalo, Tbilisi, Georgia	41.7245466 44.7537761
+Val d'Oise, Ile-de-France, France	49.07507045 2.209811443668384
+Ballyhack, Co. Wexford	52.2452333 -6.9682764
+Les Autels Villevillon, Centre Val de Loire, France	48.1735343 0.9966694
+Mozartplatz, Vienna, Austria	48.1951469 16.3683143
+Double Adobe, Arizona, USA	31.4667657 -109.6900706
+Alexandria, Ontario, Canada	45.3112037 -74.6367573
+Piregg, Steiermark, Austria	47.3879294 15.6508542
+Doubravice, Czech Republic	48.9359698 14.510572
+Chaozhou, Guangdong, China	23.6566146 116.6205482
+Telecka, Serbia	45.7952488 19.3808096
+Caprino, Ticino, Switzerland	45.983564 8.979226
+Rog�z, Warminsko-Mazurskie, Poland	54.1600463 21.7683444
+Riau, Indonesia	0.5004112 101.5475811
+Rosetown, Saskatchewan, Canada	51.554815 -107.9912859
+Pulaski, Virginia, USA	37.0478983 -80.7797935
+Chapada Diamantina, Bahia, Brazil	-12.8277272 -41.4277117
+Cooperstown, Pennsylvania, USA	41.498667 -79.8703345
+Castelli Region, Italy	46.687979 11.142803
+Bezirk, Vienna, Austria	48.2578288 16.3972979
+Townsville Airport, QLD, Australia	-19.2451565 146.76274840451035
+Streedagh, County Sligo, Ireland	54.4034423 -8.5664476
+Pawnee, Texas, USA	28.6536765 -98.0033055
+Poco das Antas, Brazil	-29.4512516 -51.6690936
+Holiday Inn Kissimmee, Florida, USA	28.3539623 -81.62573430631696
+Milotice, Czech Republic	48.9556412 17.1414569
+Wendell, Massachusetts, USA	42.555351 -72.4045523
+Chincoteague, Virginia, USA	37.9331799 -75.3788141
+National Stock Exchange, India	19.06019265 72.85986292683748
+Bernheze, Noord-Brabant, Netherlands	51.683532850000006 5.521242816477055
+Enigmatic Studios	42.3358337 -3.6998679
+Whitesburg, Kentucky, USA	37.1184318 -82.8268265
+Nogent-sur-Oise, Oise, France	49.2744711 2.4676727
+Murphy, Oklahoma, USA	36.1363895 -95.2445205616013
+Tipuani, La Paz, Bolivia	-15.5648946 -68.0187987
+Hillsboro, West Virginia, USA	38.1354376 -80.2131296
+Sumter, South Carolina, USA	33.9204354 -80.3414693
+2501 2nd Ave Detroit, Michigan, USA	42.338469 -83.059435
+Mammoth, Arizona, USA	32.722568 -110.6406547
+Miches, Dominican Republic	18.9621382 -68.98135939024237
+Athens County, Ohio, USA	39.355589 -82.0610404
+Saanich, British Columbia, Canada	48.4594315 -123.3764946
+Shakespeare, New Mexico, USA	32.3259161 -108.7383876
+Champigny, Essonne, France	48.4461337 2.1814129
+Tinsukia, Assam, India	27.52016575 95.5306347312879
+Skeena Rd., North Vancouver, Canada	49.3194788 -123.0216759
+Inning, Bavaria, Germany	48.0714121 11.1467858
+Sierra Norte, Puebla, Mexico	19.0195425 -98.2246054
+Maassluis, Zuid-Holland, The Netherlands	51.9266671 4.244000657157326
+New Plymouth Central, Taranaki, New Zealand	-39.05943465 174.07773315
+Ardon, Loiret, France	47.77747 1.87302
+Schelde, Belgium	50.8490932 3.6172604
+Meru, Kenya	0.0499786 37.6500063
+Friesack, Brandenburg, Germany	52.7395263 12.5782641
+Lindrith, New Mexico, USA	36.304462 -107.0450425
+Sutton, Alaska, USA	61.7113889 -148.894166
+Gut Oehe, Schleswig-Holstein, Germany	54.7076085 10.0030246
+Castle Rock, Washington, USA	46.2739907 -122.9049187
+216 W 8th St. Los Angeles, California, USA	33.73700397959184 -118.28181744897958
+Val Trebbia, Italy	44.8172206 9.4819719
+Novo Hamburgo, Brazil	-29.6905705 -51.1429035
+Saint-Andr�, Nord, France	47.142587 0.5372079
+Castle Mespelbrunn, Bavaria, Germany	49.9054222 9.3073831
+Cormontreuil, Marne, France	49.2234466 4.0534118
+Farmsen, Hamburg, Germany	53.607222 10.1177994
+Cananea, Sonora, Mexico	30.9826994 -110.21011852364062
+Teatro Castro Alves - Salvador, Bahia, Brazil	-12.989259149999999 -38.51931878984719
+Victor, Idaho, USA	43.6025939 -111.111309
+Baviaanskloof, South Africa	-34.043161 18.3684179
+Alvarado, Oaxaca, Mexico	16.1851204 -95.2094494
+Knight Township, Indiana, USA	37.9878693 -87.52979251721834
+Kiental, Kanton Bern, Switzerland	46.5885474 7.7246488
+Troop, Texas, USA	26.3751168 -98.8071646
+Muskoka Lake, Ontario, Canada	45.01076875 -79.59923826698856
+Saint-Antonin-Noble-Val, Tarn-et-Garonne, France	44.1527778 1.7558333
+Avala-Ateliers, Belgrade, Serbia	44.75704 20.4328178
+Canton Grisons, Switzerland	46.2583983 9.1391958
+Bad-Wimsbach, Upper Austria, Austria	48.0633093 13.901416
+Warren Texas, USA	30.6146489 -94.408529
+Mingus Mountain, Arizona, USA	34.6939118 -112.1276604
+New Auburn, Wisconsin, USA	45.2041282 -91.5582197
+Varamin, Iran	35.3352013 51.6445157
+Hermit Lake, Colorado, USA	38.08803475 -105.63163583387097
+Middletown, Pennsylvania, USA	40.1784423 -74.89305746907641
+Alzey, Rhineland-Palatinate, Germany	49.7455695 8.1150946
+Wadi El Ryan, Egypt	29.8911327 31.2975571
+Gries im Sellrain, Tirol, Austria	47.1955069 11.1562281
+Osny-Pontoise, Val-d'Oise, France	49.0660487 2.0614598
+Bad Schlema, Saxony, Germany	50.614048499999996 12.66973211906181
+Pergine, Trentino, Italy	46.063324 11.231448
+Lake Shannon, Washington, USA	48.5925577 -121.72271635900962
+Jevany, Czech Republic	49.9702457 14.8097767
+Hemberg, Switzerland	47.3004656 9.1756588
+Nakhon Ratchasima, Thailand	15.2241917 101.9313754
+Bergkamen, North Rhine-Westphalia, Germany	51.6149389 7.6362876
+Hornick, Iowa, USA	42.2305463 -96.097517
+Dauria, Russia	49.926261 116.8470203
+Gila, New Mexico, USA	32.9658848 -108.5766473
+Tazewell, Virginia, USA	37.116249 -81.5194582
+Cape of Good Hope, South Africa	-34.3571503 18.4739571
+Perham, Maine, USA	46.8442083 -68.1972566
+Bromma, Stockholm, Sweden	59.339769 17.9395411
+Barrier Highway, New South Wales, Australia	-31.5533992 146.6285691
+Dafeng, China	23.4353411 108.6010614
+Aurora, New York, USA	42.7539591 -76.7024485
+Moosonee, Ontario, Canada	51.267071 -80.650635
+Nowe Czarnowo, Poland	53.19691 14.49256
+Corinth, Mississippi, USA	34.9343599 -88.5223353
+Maynard, Massachusetts, USA	42.4321064 -71.4539683
+Locke, New York, USA	42.6606263 -76.4307699
+Oliver Springs, Tennessee, USA	36.0447011 -84.3443834
+Lake Bled, Slovenia	46.363913249999996 14.093806871341457
+Ijoukak, Morocco	30.9993443 -8.1585674
+Bella Vista Mall, Santo Domingo, Dominican Republic	18.453361100000002 -69.94187443980402
+Volkspark Friedrichshain, Berlin, Germany	52.5271408 13.432144836639669
+Kuldiga, Latvia	56.9685951 21.9606758
+Konstanz, Germany	47.659216 9.1750718
+Florissant, Missouri, USA	38.7919683 -90.3227803
+Mt. Baker National Forest, Washington, USA	48.386777 -121.7645808
+Teulon, Manitoba, Canada	50.383333 -97.266667
+Fischer, Texas, USA	29.9768804 -98.2658468
+Thomasville, Georgia, USA	33.6973298 -84.3496472
+Stagecoach, Nevada, USA	39.3738041 -119.3740567
+Suceava, Romania	47.53265345 25.834593917414125
+Noto, Sicily, Italy	36.8908864 15.0706454
+Le Perchay, Val-d'Oise, France	49.1101221 1.9331691
+Neuhardenberg, Brandenburg, Germany	52.5965971 14.2383658
+Ward, Arkansas, USA	35.0303648 -91.950421
+Le Grand-Bornand, Haute-Savoie, France	45.9418675 6.4271457
+Montnegre, Catalonia, Spain	41.9562921 2.9323276
+Los Feliz California, USA	34.108133949999996 -118.29017961170848
+Ribera de Arriba, Asturias, Spain	43.304672 -5.910467714297559
+Emondeville, Manche, France	49.4587224 -1.342488
+Ile de France	48.6443057 2.7537863
+Home Counties, England	51.05296295 -0.30621706010868166
+Loch Fyne, Argyll and Bute, UK	56.27194425 -4.9272794630800725
+Wydminy, Warminsko-Mazurskie, Poland	53.9819183 22.0324318
+Little Fort, British Columbia, Canada	51.4252892 -120.2062612
+3rd St Baton Rouge, Louisiana, USA	30.3554569 -91.2633147
+Avondale, Harare, Zimbabwe	-17.793151 31.0360581
+Boone County, Illinois, USA	42.321246 -88.8235511
+Shadow Lake, Ontario, Canada	44.7222751 -78.7916916
+Montmatre, Paris, France	48.88824985 2.340677614299779
+Plaza de Armas, Iquitos, Peru	-3.7493220000000003 -73.24440913555554
+Kanam, India	31.6765393 78.4513092
+Organ, New Mexico, USA	32.4259166 -106.6019878
+Cais da Ribeira Nova, Lisbon, Portugal	38.7070369 -9.1446498
+13780 Rayen Street - Arleta, California, USA	34.235342387755104 -118.4335490612245
+North Syracuse, New York, USA	43.13479 -76.129924
+Irschenberg, Bavaria, Germany	47.8337585 11.9158893
+Saguenay-Lac-Saint-Jean, Quebec, Canada	50.3237707 -71.82166935213297
+Jingdezhen, China	29.2712774 117.1727822
+Sokoluk, Chui Region, Kyrgyzstan	42.356266 74.2728748
+Cogliate, Lombardia, Italy	45.6454799 9.0807321
+Cocula, Guerrero, Mexico	18.1398235 -99.72263122119733
+Oakwood apartments Los Angeles, California, USA	33.9810818 -118.46022482409944
+Obervellach, Carinthia, Austria	46.932825 13.2019817
+Deep Springs, California, USA	37.3715981 -117.9850939
+Lachine, Michigan, USA	45.0775112 -83.7160984
+Marienberg, Saxony, Germany	50.6507279 13.163188
+Becharof Lake, Alaska, USA	57.85340545 -156.22644848902527
+Deutsches Schauspielhaus, Hamburg, Germany	53.5544807 10.008959861111553
+Argonne, Illinois, USA	41.70914095 -87.97862213166601
+Mission, Kansas, USA	39.0277832 -94.6557914
+Vucje, Serbia	42.8649674 21.9111809
+Lanke, Brandenburg, Germany	52.7604503 13.5636783
+Strakonice, Czech Republic	49.2662501 13.913701605344116
+Domazlice, Czech Republic	49.4407069 12.9298338
+Beaufort, Missouri, USA	38.4208837 -91.1890379
+Twin Oaks, California, USA	35.3124597 -118.409806
+Joshua Tree Desert, California, USA	33.7169798 -116.3864542
+Hawarden, Iowa, USA	42.9958216 -96.4853085
+San Juan Gate, San Juan, Puerto Rico	18.4651739 -66.1194642
+Chelsea, Michigan, USA	42.3180163 -84.020224
+Elbigenalp, Tirol, Austria	47.2911905 10.414096136556129
+Bogota, Colombia	4.6533326 -74.083652
+Buenos Aires Province, Argentina	-47.3447696 -66.8025582
+Amandola, Italy	42.979965 13.3560847
+Fort Elmina, Ghana	5.08473915 -1.3508466249728692
+Damascus, Arkansas, USA	35.3613795 -92.41464301316265
+St. Helena Island, South Carolina, USA	32.3868607 -80.5606622
+Moda, Istanbul, Turkey	40.9811687 29.0254706
+Gwangmyeong, South Korea	37.4810539 126.8631275
+Ottawa, Kansas, USA	39.1273653 -97.6568094
+McKinlay, Queensland, Australia	-20.5952895 141.71156055462455
+Castrovillari, Italy	39.8154937 16.202772
+Wattwil, Kanton St. Gallen, Switzerland	47.291534299999995 9.087813825936845
+Tapia de Casariego, Asturias, Spain	43.5692581 -6.9436488
+Halden Prison, Halden, Norway	59.1401259 11.28737035500475
+Sauble Beach, Ontario, Canada	44.6298478 -81.2648606
+Noeux-les-Mines, Pas-de-Calais, France	50.4808898 2.6620888
+Monticello, Minnesota, USA	45.3053901 -93.7939996
+Elba, Tuscany, Italy	42.790216599999994 10.340278678735025
+Kaufering, Bavaria, Germany	48.0871324 10.8605317
+Gevgelija, Macedonia	41.1388664 22.5033192
+Allegheny County, Pennsylvania, USA	40.4597204 -79.9760405
+Charlevoix, Quebec, Canada	47.6493447 -70.7362215
+Olgiate Comasco CO, Italy	45.7853256 8.9677744
+Gatumba, Burundi	-3.3348819 29.2529634
+Bourron-Marlotte, Seine-et-Marne, France	48.3408614 2.7056355
+Luchana, Madrid, Spain	40.4290481 -3.7016587
+Cibola National Forest, New Mexico, USA	35.22611665 -108.24116539164535
+Teluk Bahang Dam, Penang, Malaysia	5.4445824 100.21572306682258
+Enfield, New Hampshire, USA	43.6407024 -72.1439629
+La Grange, Texas, USA	29.9080038 -96.8730449
+Punta Indio, Argentina	-35.262381700000006 -57.25025318639368
+Frederiksborg Castle	55.9351046 12.30174349027778
+Greendale, Victoria, Australia	-37.5611732 144.2989014
+Mira Park, India	19.29485205 72.87621112237852
+Liberty, South Carolina, USA	34.7869865 -82.6936822
+Hainault, England, UK	51.6033138 0.0933827
+Maria Gugging, Lower Austria, Austria	48.3125842 16.2506269
+Ravenswaaij, Gelderland, Netherlands	51.9525908 5.3276157
+Hamburg, Eppendorf, Germany	53.5907102 9.9862731
+Fairhaven, New Jersey, USA	40.924753 -74.1251758
+Calama, Chile	-22.4623917 -68.9272181
+Tembleque, Madrid, Spain	40.3923815 -3.7612605
+Bayport, Minnesota, USA	45.0212648 -92.7813238
+Naix-aux-Forges, Meuse, France	48.637263 5.3771405
+Ponte Gardena, South Tirol, Italy	46.5982157 11.5325098
+Tournus, France	46.5617373 4.9122425
+Chihuahua, Chihuahua, Mexico	28.6523808 -106.0902046
+Lapeer, Michigan, USA	43.0904764 -83.2333705
+Ottobrunn, Bavaria, Germany	48.0643823 11.6675042
+Lake Tyers, Victoria, Australia	-37.840896 148.12695875442947
+Bundestag, Berlin, Germany	52.5185918 13.3766658
+Odense �, Fyn, Denmark	55.3996135 10.38358785196143
+Leuna, Saxony-Anhalt, Germany	51.3233638 12.0195081
+1124 S. Seaward Ave, Ventura, CA 93001	34.263476 -119.27308333333333
+Binh Tinh, Vietnam	10.349001300000001 107.07722302184354
+Runnemede, New Jersey, USA	39.8523358 -75.0679498
+Kiketi, Georgia	41.6550453 44.6496506
+Dreetz, Brandenburg, Germany	52.8 12.4667
+Senec, Slovakia	48.2199473 17.3969901
+Chincoteague Bay, Maryland, USA	38.1160834 -75.24326068462557
+Champex, Kanton Wallis, Switzerland	46.0305776 7.1168165
+Glorieta de Atocha, Madrid, Spain	40.4085701 -3.6916222
+Babahoyo, Ecuador	-1.8009022 -79.5338214
+Fuente del Fresno, Madrid, Spain	40.5933855 -3.5981021
+Melikhovo, Russia	53.6034229 35.6034462
+Yvelines, France	48.76203735 1.8871375621264361
+Plaza Colon, San Juan, Puerto Rico	18.4661731 -66.112087550527
+Opwijk, Belgium	50.9690529 4.1896665
+Sopchoppy, Florida, USA	30.0599251 -84.4887917
+Saint denis, Ile de France	48.935773 2.3580232
+Eagle River, Michigan, USA	47.4138051 -88.2956606
+Collierville, Tennessee, USA	35.042036 -89.6645266
+Uberaba, Minas Gerais, Brazil	-19.750833 -47.936666
+Riudecanyes, Catalonia, Spain	41.1303686 0.9618942
+Mule Creek, New Mexico, USA	33.12201 -108.9561742
+Westmount, Quebec, Canada	45.4857329 -73.5963951
+South campus , New Delhi , India	28.5845345 77.16311928835285
+Pilot Mountain, North Carolina, USA	36.3401384 -80.4742242
+Citrus County, Florida, USA	28.8512851 -82.5141209
+Neuried, Bavaria, Germany	48.0932345 11.4651589
+Nautla, Veracruz, Mexico	20.122768399999998 -96.80115316191728
+Parker, South Dakota, USA	43.397483 -97.136445
+Hartsdale, New York, USA	41.0130875 -73.80848138929805
+Domont, Val-d'Oise, France	49.0285536 2.3278097
+Phillipsburg, New Jersey, USA	40.6937099 -75.1901761
+Golden State Highway, California, USA	35.7641602 -119.2496271
+Zweisimmen, Kanton Bern, Switzerland	46.553261 7.3738058
+Chicago/Peoria, Illinois, USA	40.8639347 -89.6742873
+Felsenreitschule, Salzburg, Austria	47.7979326 13.0420725
+Strzelin, Dolnoslaskie, Poland	50.78092 17.0683947
+Noshiro, Akita, Japan	40.2118417 140.0271517
+Yorkville, New York, USA	40.7780067 -73.9482022
+Patma, India	9.7279236 76.35203596018809
+Silver City, Nevada, USA	39.2637967 -119.6411221
+Maltepe Universitesi, Istanbul, Turkey	40.958189 29.1898087
+Gujranwala District, Punjab, Pakistan	32.166667 73.833333
+Erlinsbach, Aargau, Switzerland	47.3968661 8.0133738
+Judith Gap, Montana, USA	46.677179 -109.75185
+Arvika, Sweden	59.766667 12.65
+B2 Club, Moscow, Russia	55.53902695 37.18576127790905
+Sandwich, Illinois, USA	41.6458633 -88.6217432
+Sea Cliff, California, USA	34.3444414 -119.4181732
+Mohegan Lake, New York, USA	41.3184272 -73.8590248
+Vedado, La Habana, Cuba	23.1334573 -82.3910644
+Tanhua, Finland	67.5276057 27.5450988
+Saddle Brook, New Jersey, USA	40.898988 -74.0926418
+Chivilcoy, Argentina	-34.8969591 -60.0190499
+Testelt, Belgium	51.0091661 4.951587
+Sutton, Vermont, USA	44.633176 -72.0264149
+1161 Vine St Los Angeles, California, USA	34.092069714285714 -118.32672937142857
+Chippewa Lake, Ohio, USA	41.0697771 -81.9009726
+Narva, Estonia	59.3766729 28.1921457
+Berlin, Pennsylvania, USA	39.9206363 -78.9578022
+Warrego, Northern Territory, Australia	-19.44930355 133.85447865255065
+Paron, Arkansas, USA	34.7728686 -92.7585001
+Cleveland, Texas, USA	30.3414794 -95.0900115
+Rheinpfalz, Rhineland-Palatinate, Germany	49.3532886 8.138076
+Franklin, Virginia, USA	36.6776507 -76.9224609
+Port Victor, South Australia, Australia	-35.5354297 138.6464516
+Liberty County, Texas, USA	30.0856736 -94.7856262
+Belle Meade, Tennessee, USA	36.0958924 -86.8569448
+Sugar Camp, Wisconsin, USA	45.7901828 -89.3203932
+Soisy-sur-Seine, Essonne, France	48.6502928 2.4490991
+Cardiff by the Sea, California, USA	33.0220155 -117.2803463
+North Coast, Oregon, USA	43.4110907 -124.24198706671962
+Radstadt, Salzburg, Austria	47.3846705 13.4627822
+Owaneco, Illinois, USA	39.4822664 -89.1936976
+Barrydale, Western Cape, South Africa	-33.904124 20.721356
+Condado Lagoon, San Juan, Puerto Rico	18.4624106 -66.08491930934676
+Bad Zell, Upper Austria, Austria	48.35850189999999 14.677723924032243
+31 Essex Street, New York, USA	42.9140719 -78.8830238
+Great Smoky Mountains National Park, Tennessee, USA	35.634220049999996 -83.40236602525079
+Valle de Juarez, Jalisco, Mexico	19.8146914 -102.98363356723414
+Prescott-Russell, Ontario, Canada	45.4075591 -75.1163176
+Montbrun-Les-Bains, France	44.1751941 5.4413098
+Ceredo-Kenova, West Virginia, USA	38.400006899999994 -82.5680152894553
+Györ, Hungary	47.687609 17.6346815
+Shurugwi, Zimbabwe	-19.754233550000002 30.156915030014392
+Poughquag, New York, USA	41.6089826 -73.6817957
+Spittal an der Drau, Carinthia, Austria	46.7982211 13.4963308
+Yongin, Gyeonggi Province, South Korea	37.2405741 127.1785572
+Floriano, Piaui, Brazil	-6.7726534 -43.0070616
+Booneville, Kentucky, USA	37.4761991 -83.6749145
+Krk, Croatia	45.090195449999996 14.549668107706815
+Swarovski Kristallwelten, Innsbruck, Austria	47.2947079 11.6011599
+Benesov, Czech Republic	49.7818921 14.6869121
+Casola Valsenio, Italy	44.2231871 11.6231101
+Dandenong Ranges National Park, Victoria, Australia	-37.840548549999994 145.3849948229232
+Riverside, New Jersey, USA	40.5098259 -74.7840518
+Tivoli, Texas, USA	28.4566379 -96.8894155
+Shopping Center Brasilia, Porto, Portugal	41.15684575 -8.627275030994511
+Red Bull Arena, Leipzig, Germany	51.34579105 12.34825492263645
+Hamburg-Stellingen, Germany	53.5896457 9.9185504
+Alexandria, Kentucky, USA	38.9595078 -84.3879946
+Mt. Washington, New Hampshire, USA	44.2704946 -71.3033045
+Nancy-sur-Cluses, Haute-Savoie, France	46.0433318 6.5777368
+Fronteras, Sonora, Mexico	30.83021845 -109.6177801188526
+Inkster, Michigan, USA	42.2942045 -83.3099303
+Vasant Vihar, Delhi, India	28.56069055 77.16079073168567
+Custer, Colorado, USA	38.1072962 -105.3543375
+Vlodrop, Limburg, Netherlands	51.1322399 6.0781047
+Aigues-Mortes, Gard, France	43.5658225 4.1912837
+Shepparton, Victoria, Australia	-36.381072 145.3993172
+Villefranche-du-Queyran, Lot-et-Garonne, France	44.3086547 0.1975659
+Brookland, New York, USA	42.6691 -73.826665
+Terra Linda, California, USA	38.0040893 -122.5497
+Ocumare de la Costa, Venezuela	10.4620171 -67.7680815
+Conway, Washington, USA	48.3410791 -122.3427576
+Onekama, Michigan, USA	44.363613 -86.205087
+Joo Chiat Mansion, Singapore	1.3141536500000002 103.90424784674829
+Enzenreith, Lower Austria, Austria	47.6680593 15.9532329
+Granados, Sonora, Mexico	29.7515076 -109.34232213177164
+Nemours, Seine-et-Marne, France	48.268026 2.6953079
+Chuo Park, Chiba, Japan	35.644706 139.8968836
+Comarca del Sobrarbe, Provincia de Huesca, Spain	42.4397727 0.07483625493224041
+Josefstal, Bavaria, Germany	47.6934349 11.8865169
+Scottsville, Kentucky, USA	36.7533781 -86.1905424
+Idrija, Slovenia	46.0023983 14.0273014
+Lunguletu, Dambovita, Romania	44.6119483 25.6621301
+Welland, South Australia, Australia	-34.903885 138.5587553
+Maku, West Azarbaijan Province, Iran	39.2909641 44.4521379
+6735 Greenleaf Ave. Whittier, California, USA	33.98058740939597 -118.03742468456376
+Le Reposoir, Haute-Savoie, France	45.994579900000005 6.5181500046712895
+Gurtnellen, Kanton Uri, Switzerland	46.7376202 8.6281646
+Pontypool, Ontario, Canada	44.1017447 -78.6308231
+Barrington Hills, Illinois, USA	42.1447475 -88.1556336
+San Marino, San Marino	43.9458623 12.458306
+Vakarel, Bulgaria	42.5560379 23.7113759
+Riis Skov, Aarhus, Denmark	56.1758582 10.225368082127106
+Kamenice, Czech Republic	49.3665866 15.7802296
+Sienne, Italy	43.3185536 11.3316533
+Seine-Saint-Denis, Ile-de-France, France	48.9098125 2.4528634784461856
+Bregenz, Austria	47.5025779 9.7472924
+Chester Bay, Nova Scotia, Canada	44.53074495 -64.23721858736211
+Spandau Citadel, Berlin, Germany	52.5410528 13.211316101057868
+Los Molinos, Madrid, Spain	40.7148059 -4.0742294
+Zibritov, Slovakia	48.39064635 18.977767409390545
+Silk Road, China	39.9069175 116.404783
+Coleridge, North Carolina, USA	35.6401395 -79.6153046
+Biasca, TI, Switzerland	46.3606274 8.9714023
+Coral Bay, Western Australia, Australia	-23.1436752 113.770165
+Toubkal, Marrakech, Morocco	31.0601227 -7.9146971
+Champagne-sur-Oise, Val-d'Oise, France	49.1339431 2.2312397
+21st Street Cooperative	39.95121090000001 -75.17585594968864
+Guadalupe, Baja California, Mexico	25.5878456 -111.9752995
+Port Costa, California, USA	38.044824500000004 -122.18442202495345
+Western Springs, Illinois, USA	41.8096132 -87.900671
+Stateline, South Lake Tahoe, USA	38.9582412 -119.9437919
+Kompong Cham, Cambodia	12.1174857 105.20800220742942
+Heroldsbach, Bavaria, Germany	49.6925072 10.9995751
+Wabma Kadarbu Mound Springs Conservation Park, South Australia, Australia	-29.412310650000002 136.82669250033553
+CBS Studios, USA	39.1160281 -84.5020941
+Saggau, Steiermark, Austria	46.7000798 15.3860458
+Outreau, Pas-de-Calais, France	50.7036916 1.5845684
+Pingtung, Taiwan	22.6828017 120.487928
+Mehrauli-Badarpur Rd, Delhi, India	28.5047641 77.2782429
+Rio Vista, California, USA	38.1557502 -121.6913439
+Caroline, South Australia, Australia	-37.9082095 140.9315815
+Sibling	-37.7849261 144.9770558
+Jeffersonville, Indiana, USA	38.2770227 -85.7371604
+Negeri Sembilan, Malaysia	2.7831895 102.1925319
+Coney Island Brooklyn New York City, New York, USA	40.575929599999995 -73.99219633010372
+Jeleniewo, Podlaskie, Poland	54.2063389 22.9128099
+Athena, Oregon, USA	45.8119097 -118.491336
+Englishtown, New Jersey, USA	40.2973319 -74.3582041
+Royston, Georgia, USA	34.0125855 -84.1260479
+Menades, Yonne, France	47.4444226 3.8233518
+Ledyard, Connecticut, USA	41.4386053 -72.0175193
+Neder-Betuwe, Gelderland, Netherlands	51.92150995 5.616123265710504
+Schifferstadt, Rhineland-Palatinate, Germany	49.3865825 8.3737948
+Torres, Rio Grande do Sul, Brazil	-29.3373663 -49.7299648
+Bay Minette, Alabama, USA	30.8829628 -87.7730474
+Zwembad De Put, Rijswijk, The Netherlands	52.00735525 4.326443881417112
+Boiceville, New York, USA	42.0053215 -74.2663747
+Wygoda Laczynska, Pomorskie, Poland	54.285789 17.9988181
+Schloss Diedersdorf, Brandenburg, Germany	52.50995905 14.324945385257598
+Adma, Lebanon	34.0241879 35.64909646311142
+Ampfing, Bavaria, Germany	48.2550234 12.4190555
+Twisp, Washington, USA	48.3634784 -120.122303
+Ulu Yam, Selangor, Malaysia	3.4312579 101.6577526
+Deutschkreutz, Burgenland, Austria	47.5932902 16.63440143578873
+An der Jahrhunderthalle 1, 44793 Bochum, Germany	51.481237 7.1981212
+Saint Hilaire-Saint Mesmin, Loiret, France	47.8683824 1.8368147
+Radio Kootwijk, Netherlands	52.1770547 5.8335719
+Rabstejn nad Strelou, Czech Republic	50.0419228 13.2893653
+Huntsville, Tennessee, USA	36.409801 -84.4904939
+Punta Rieles, Montevideo, Uruguay	-34.826327 -56.1161428
+Anjou, France	45.3462 4.88149
+Morona Santiago, Ecuador	-2.6232969 -78.0048106
+Frankfurt	50.1106444 8.6820917
+Abbaye de Cadouin, Dordogne, France	44.8114643 0.8737695
+Eurasburg, Bavaria, Germany	48.3343673 11.0832728
+Undenheim, Rhineland-Palatinate, Germany	49.8396706 8.2180733
+Thabazimbi, South Africa	-24.588765 27.411834
+Wewelsfleth, Schleswig-Holstein, Germany	53.8496035 9.4037072
+Zupanovice, Czech Republic	49.7077879 14.2987096
+Bogazici Universitesi, Istanbul, Turkey	41.0851583 29.0456561
+Prichsenstadt, Bavaria, Germany	49.8181263 10.3513154
+Maebashi, Gunma, Japan	36.3893418 139.0632826
+Heerde, Netherlands	52.4056303 6.0413984003658525
+Lucky Bay, South Australia, Australia	-33.7057452 137.0441998
+Pembroke, Massachusetts, USA	42.0714907 -70.8092074
+Leland, Michigan, USA	45.0228754 -85.7601164
+Lixing-les-Rouhling, Moselle, France	49.1549389 6.9951165
+Vila Planalto, Distrito Federal, Brazil	-15.79268 -47.850277
+Kolyma, Russia	64.7509134 153.9209465
+Combourg, Ille-et-Vilaine, France	48.4104391 -1.7500622
+Itaquaquecetuba, S�o Paulo, Brazil	-23.4754492 -46.3514033
+Mbala, Zambia	-8.8456071 31.3709227
+Phelps, Wisconsin, USA	46.064423 -89.087634
+Othello, Washington, USA	46.8259742 -119.1752913
+Lobau, Vienna, Austria	48.16857905 16.53498847996093
+Coxley Woods, England, UK	53.64169435 -1.590640146722174
+Brakpan, Gauteng, South Africa	-26.235278 28.37
+Haifa Street, Baghdad, Iraq	33.3401175 44.375756
+Ein Rafa, Israel	31.7901732 35.1162744
+Chicago,Illinois, USA	41.8755616 -87.6244212
+Seia, Portugal	40.4200998 -7.7028054
+Achenkirch, Tirol, Austria	47.5276244 11.7056026
+Peissenberg, Bavaria, Germany	47.7965862 11.0670713
+Czersk, Mazowieckie, Poland	51.9590773 21.2319862
+Havana, Florida, USA	30.6335883 -84.41292536492466
+Lumpkin County, Georgia, USA	34.5546076 -83.9926806
+Tsim Sha Tsui, Kowloon, Hong Kong	22.3031647 114.1602124
+Piushaven, Tilburg, Netherlands	51.554123 5.103785
+Benaulim, Goa, India	15.2601367 73.9275675
+Waveland, Mississippi, USA	30.2889414 -89.379468
+Lexington Reservoir, California, USA	37.19609835 -121.99552192655307
+Denton, Maryland, USA	38.8845583 -75.8271564
+Rettenegg, Steiermark, Austria	47.5257339 15.7796033
+Mirleft, Morocco	29.579707 -10.031733
+23 De Enero, Caracas, Venezuela	10.5076023 -66.9312039
+Palisades Interstate Parkway, New York, USA	41.0139461 -73.9247692
+Obrov, Slovenia	45.5438003 14.0854916
+Vimioso, Portugal	41.5849534 -6.5291002
+Campobasso, Molise, Italy	41.717012 14.82614665046368
+Lough Dan, Wicklow, Ireland	53.0696114 -6.279194564764599
+Jenkins, Kentucky, USA	37.1734372 -82.6309892
+Chinde, Mozambique	-18.465580199999998 36.44820938849418
+Maracaju, Mato Grosso do Sul, Brazil	-21.6163005 -55.164605
+Cheviot, Ohio, USA	39.1570028 -84.6132787
+Liberty, North Carolina, USA	35.826774650000004 -79.56371137043811
+Gavle, Sweden	60.6750132 17.1467019
+Cousin, Seychelles	-4.3314159 55.66271643904621
+Azua, Dominican Republic	18.5767929 -70.8334767
+Willowmore, South Africa	-33.29533 23.488296
+Startup, Washington, USA	47.867304 -121.744458
+Valley View, Ohio, USA	41.3878312 -81.6045685
+Rathkeale, County Limerick, Ireland	52.5236119 -8.9377374
+Frisco, Colorado, USA	39.582964950000004 -106.10563386944945
+Presa de Atazar, Madrid, Spain	40.9242081 -3.4991203
+Borgholm, Sweden	56.883056 16.666667
+Tietgenkollegiet, Copenhagen, Denmark	55.6608157 12.590181641108968
+Khoy, West Azarbaijan Province, Iran	38.5504343 44.95354
+Bugac, Hungary	46.6888994 19.6821439
+Marion, Texas, USA	32.7931661 -94.344488
+Tenino, Washington, USA	46.8567408 -122.8502933
+Seminole, Texas, USA	32.7167351 -102.6490967
+Wangi Wangi, New South Wales, Australia	-33.0704798 151.5959469
+Waalre, Noord-Brabant, Netherlands	51.3856734 5.466115689689311
+Coicoyan de las Flores, Oaxaca, Mexico	17.21593695 -98.18370703508637
+Wagah Village, Pakistan	31.5950182 74.5562668
+Oberelvenich, North Rhine-Westphalia, Germany	50.7002325 6.7076968
+Eymet, France	44.6681229 0.3984795
+Oronsko, Mazowieckie, Poland	51.3134481 20.9901717
+Theater im Palast, Berlin, Germany	52.5662041 13.3965864
+Lambrecht, Rhineland-Palatinate, Germany	49.3714018 8.0683294
+Berlin-Halensee, Berlin, Germany	52.4995482 13.2849417
+Windsor Mill, Maryland, USA	39.3328346 -76.7594551
+Michoacán, Mexico	19.207098 -101.878113
+Rome, New York, USA	43.2128473 -75.4557304
+Roselle, Illinois, USA	41.9849897 -88.0797182
+Le Croisic, Loire-Atlantique, France	47.2933971 -2.5094404
+Carson Tahoe Hospital.	39.1708262 -119.77159735000001
+Fiuli Venezia, Giulia, Italy	45.6551354 13.7773417
+Going am Wilden Kaiser, Tirol, Austria	47.53295955 12.345026270277598
+Herlev, Copenhagen, Denmark	55.7164281 12.4589275
+Carrigavantry Lake, Co. Waterford	52.1702962 -7.198113746584697
+Glasson Dock, England, UK	53.9990449 -2.8510138
+Wiesenthau, Bavaria, Germany	49.7111819 11.1373566
+Cerro Torre, Argentinia	-49.2907155 -73.0973033
+Maspeth, New York, USA	40.723158 -73.912637
+Gorbio, Alpes-Maritimes, France	43.7866361 7.4438847
+Tapah, Perak, Malaysia	4.1990915 101.2599231
+Bunschoten, Utrecht, Netherlands	52.2391743 5.3734101
+Via Riva di Reno 72, Bologna, Italy	44.4988643 11.336868
+Coast, California, USA	37.858337 -122.2447394
+Tiffin, Ohio, USA	41.114485 -83.1779537
+Vinsebeck Castle, North Rhine-Westphalia, Germany	51.84861825 9.032049568471228
+Tourrettes-sur-Loup, Alpes-Maritimes, France	43.7158031 7.058912
+Even Yehuda, Israel	32.2724852 34.886767
+Lombard, Montana, USA	46.1073293 -111.3995318
+Vlaska Street, Zagreb, Croatia	45.8138954 15.983631
+Pangburn, Arkansas, USA	35.4263113 -91.8388005
+Sulaymaniah, Iraq	35.5818248 45.3443433
+Yavapai County, Arizona, USA	34.5668857 -112.5515965
+Williams Bay, Wisconsin, USA	42.5780721 -88.5409333
+Fermo, Italy	43.0922489 13.638768067263769
+Seelisberg, Switzerland	46.977964 8.5858121
+49 Rue Brillat-Savarin, Paris, France	48.8222777 2.3449091
+Czesz�w, Dolnoslaskie, Poland	50.9082937 15.7526985
+Cuatro Rayas, Puebla, Mexico	18.506944 -97.872222
+Shade, Ohio, USA	39.2259083 -82.0384751
+Tiny Township, Ontario, Canada	48.90471815 -93.87040844411473
+Winthrop, Washington, USA	48.4779232 -120.1861956
+Klempau, Schleswig-Holstein, Germany	53.7631877 10.6595591
+Augusta, Kansas, USA	37.6913769 -96.9707179
+Katikati, Bay of Plenty, New Zealand	-37.5522269 175.91541
+Laurel, Batangas, Philippines	14.0503459 120.90203996985369
+Sighthill Cemetery Glasgow, Scotland, UK	55.8770672 -4.236483822223621
+Avala Film Studios, Belgrade, Serbia	44.75704 20.4328178
+Bluefield, Virginia, USA	37.2698395 -81.2223195
+Petersburg, Illinois, USA	40.0117151 -89.8481652
+Aprilia, Lazio, Italy	41.5942016 12.6485765
+Chemin de la Source 3, 1854 Leysin, Switzerland	46.3457305 7.0088577
+Inchon, South Korea	37.456 126.7052
+Weifang, China	36.7071591 119.1557441
+Spring Glen, New York, USA	41.4116627 -74.3310177
+Italian Riviera, Liguria, Italy	44.14828 8.27149437210341
+Arendal, Aust-Agder, Norway	58.470206000000005 8.75965039996466
+Windhuk, Namibia	-22.5743922 17.0790688
+Bizerte, Tunesia	37.2720905 9.8708565
+Hviids Vinstue, Copenhagen, Denmark	55.6797778 12.584715
+Chita, Russia	52.033409 113.500893
+Matalane, Maputo, Mozambique	-25.6746783 32.6677701
+Veresk Bridge, Mazandaran, Iran	35.9032621 52.9903171
+Alboraia, Spain	39.5009954 -0.34948
+Tualatin Oregon, USA	45.3838546 -122.766351
+Bauta, Cuba	22.9802415 -82.549536
+30 Avenue Corentin Cariou, 75019 Paris, France	48.8957518 2.3879761
+Szombathely, Hungary	47.2291184 16.6187625
+Frewville, South Australia, Australia	-34.9479853 138.6311935
+Sakrow, Brandenburg, Germany	52.4325571 13.1011746
+Hallettsville, Texas, USA	29.4438528 -96.9410929
+Chimacum, Washington, USA	48.0146577 -122.770452
+Guavate, Puerto Rico	18.1326338 -66.0764665
+San Severino di Centola, Italy	40.0890661 15.3462762
+Empalme, Sonora, Mexico	28.003090800000003 -110.66158806950205
+Tete, Mozambique	-15.5205193 32.7682742
+Cabo Delgado, Mozambique, Africa	-11.3491918 40.3521571
+Aliartos, Boeotia, Greece	38.3727657 23.1015479
+Alpes de Haute-Provence, France	44.1640832 6.187851538609079
+Berlin-Lichterfelde, Berlin, Germany	52.4288631 13.3279636
+Patrick County, Virginia, USA	36.6818706 -80.284636
+Berlin-Moabit, Germany	52.5346789 13.3344781
+Wieringermeer, Noord-Holland, Netherlands	51.4795211 5.4639931
+Dubai Academic City, Dubai, UAE	25.1040979 55.38580929288868
+Mount Carmel, Pennsylvania, USA	40.7968393 -76.4131097
+Digby, Nova Scotia, Canada	44.62824285 -65.74887183178066
+Liberecky Kraj, Czech Republic	50.747603999999995 14.990310290688765
+Saronno, Lombardia, Italy	45.6256764 9.0373283
+Basse-Normandie, France	48.953684499999994 -0.573365358805311
+State of Sonora, Mexico	19.2038112 -98.8620553
+Bistriza, Bulgaria	42.2885158 23.5785067
+Krahule, Slovakia	48.7282175 18.943255005837365
+Montrose, Pennsylvania, USA	41.8339654 -75.8771388
+Breaza, Romania	46.761177 24.6367393
+Baluchistan, Iran	28.1292481 60.8236848
+Ben Arous, Tunisia	36.63064825 10.210082703817534
+Los Montesinos, Spain	38.0274262 -0.7434529
+Wadi Kharrar, Jordan	34.2333333 37.3333333
+Sunnyside, Washington, USA	46.3246419 -120.0081898
+Villalba, Puerto Rico	18.1283511 -66.4925028
+Thanh Hoa, Vietnam	20.1071694 105.2124457
+Bloomsbury, New Jersey, USA	40.6539892 -75.0865619
+Fort Pierre, South Dakota, USA	44.35352 -100.373824
+Kozarska Street, Zagreb, Croatia	45.8172411 15.9760151
+Wood Green, London, UK	51.5972054 -0.1099585
+Daliborky, Prague, Czech Republic	50.0919482 14.4037789
+Boal, Asturias, Spain	43.41024025 -6.835153873473709
+Chitungwiza, Harare, Zimbabwe	-18.0143462 31.0726737
+Hugoton, Kansas, USA	37.1753025 -101.349602
+Nof Yam, Israel	32.18614585 34.809796047092874
+El Alto, Peru	-16.3619949 -72.1536401
+Saint Denis, R�union	-32.9011745 -60.7008373
+Austria Trend, Vienna, Austria	48.1865966 16.3023674
+Bavarian Forest, Bavaria, Germany	48.909956949999994 13.083330488605739
+George West, Texas, USA	28.3318242 -98.1171612
+Forest, Mississippi, USA	32.3645888 -89.4742348
+Zinacantan, Chiapas, Mexico	16.7122671 -92.78552589129347
+University of Pittsburgh, Pennsylvania, USA	40.44415295 -79.96246095144505
+Zrinjevac, Zagreb, Croatia	45.8104797 15.978249502393496
+Hermitage, Tennessee, USA	36.1961664 -86.6224959
+Wyncote, Pennsylvania, USA	40.0906988 -75.14588569222737
+Tayug, Pangasinan, Philippines	16.0275524 120.7443637
+Windhaag bei Freistadt, Upper Austria, Austria	48.5861953 14.5615088
+Yamaska, Quebec, Canada	46.004355 -72.913513
+Van Cortlandt Park, New York, USA	40.8970755 -73.8865797057321
+Markham, IL, USA	41.5936453 -87.6947699
+Hillsboro, Missouri, USA	38.2322766 -90.5629034
+Moodus Village, Connecticut, USA	41.5028768 -72.4500867
+C/Minas 1, Madrid, Spain	40.8550434 -3.5385332
+Spreitenbach, Kanton Aargau, Switzerland	47.4182444 8.3640342
+Treuchtlingen, Bavaria, Germany	48.9554435 10.9089888
+Varzaneh, Iran	32.4203632 52.6486815
+Altenrhein, Kanton St. Gallen, Switzerland	47.4903839 9.5540541
+Wallingford, Connecticut, USA	41.4570418 -72.8231552
+North-East London, England, UK	51.5624017 -0.3038698
+North Fork River, Idaho, USA	45.40737485 -113.99731185
+Hankamer, Texas, USA	29.8582755 -94.6268618
+Kasteel Hoensbroek, Limburg, Netherlands	50.916565750000004 5.918436382628194
+Aregua, Paraguay	-25.3129449 -57.3852339
+Iver, Buckinghamshire, UK	51.52612575 -0.5135898781372035
+Elliston, South Australia, Australia	-33.5402435 135.38494455797314
+Litchfield, Illinois, USA	39.1753256 -89.6542579
+Sachsen-Anhalt, Germany	52.0089065 11.7003344
+Pottenstein, Bavaria, Germany	49.7721841 11.4087415
+Kanakapura, Karnataka, India	12.5450268 77.4199095
+Fort Hays, Kansas, USA	38.870683150000005 -99.34421145685238
+Dotzheim, Hessen, Germany	50.0712374 8.1956722
+Canyon Ranch	14.29382825 121.03296195454305
+Whitchurch-Stouffville, Ontario, Canada	43.9717581 -79.2454446
+Lone Valley, California, USA	34.4708993 -117.1563042
+2029 Blake Ave, Los Angeles, CA	34.102709 -118.243603
+Beaverton, Ontario, Canada	44.4296227 -79.1550193
+Rutland, Massachusetts, USA	42.3826052 -71.9633973
+Ammassalik, Greenland	65.6152573 -37.6378149
+Delbarton, West Virginia, USA	37.7112205 -82.183332
+New Castle, California, USA	34.1026757 -117.8589737
+Andheri West, Mumbai, India	19.1172495 72.833968
+Lavapies, Madrid, Spain	40.4084633 -3.7007946
+Doel, Oost-Vlaanderen, Belgium	51.3111156 4.2643189
+Jin Shan Ling, China	40.6847391 117.2367507
+Heiligenstadt, Bavaria, Germany	49.8642056 11.1705662
+Pubail, Gazipur, Bangladesh	23.9352271 90.4765258
+Ermont, Val-d'Oise, France	48.9917676 2.2585679
+Hollywood, County Wicklow, Ireland	53.0926903 -6.5953734
+Radio iela 8, Liepaja, Latvia	56.51145425 21.010625648496074
+Bouyon, Alpes-Maritimes, France	43.8253072 7.1232159
+Hindmarsh, South Australia, Australia	-34.9066222 138.5699532
+Bearsville, New York, USA	42.040647 -74.1551429
+Caswell Beach, North Carolina, USA	33.8960076 -78.051102
+Pawling New York, USA	41.5620381 -73.6026271
+Faversham House of York, Western Australia, Australia	-31.885594 116.76614933477725
+Rockwell, North Carolina, USA	35.5512508 -80.4064485
+Puch d'Agenais, Lot-et-Garonne, France	44.3292339 0.242668
+Freire, Chile	-38.9514242 -72.6254333
+Gau-Odernheim, Rhineland-Palatinate, Germany	49.783271 8.194753
+Hilpoltstein, Bavaria, Germany	49.188964 11.1892243
+North Sea, Belgium	51.101939 2.5912223
+Profundidad, Misiones, Argentina	-27.5616878 -55.7046327744754
+Is�re, France	48.8231095 2.2681739398734155
+Oldham, England, UK	53.5415797 -2.1147831
+Dehiwala-Mount Lavinia, Sri Lanka	6.84492345 79.86566372804089
+Lasko, Slovenia	46.1537984 15.2354706
+Dunhill Castle, Co. Waterford	52.15733335 -7.263297663578371
+Riverside, Massachusetts, USA	42.3373847 -71.2525527
+Emerald Park, Telangana	17.4124138 78.4800912
+Altlandsberg, Brandenburg, Germany	52.5614869 13.7245542
+Cabo de Palos, Murcia, Spain	37.635 -0.69
+Altenburg, Lower Austria, Austria	48.081994 15.5993318
+Hartland, Michigan, USA	42.656697 -83.7530022
+16 Wadsworth Street Boston, Massachusetts, USA	42.355147 -71.12603966862727
+Isaba, Navarra, Spain	42.8613306 -0.9233297
+Siemianowice Slaskie, Slaskie, Poland	50.31285075 19.017785857354603
+Nordeifel, North Rhine-Westphalia, Germany	50.4914246 6.566663244114064
+Snaefell Mountain, Isle of Man	54.2336592 -4.407100824104116
+Babberich, Gelderland, Netherlands	51.9069333 6.111876
+Hardin, Missouri, USA	39.2708469 -93.8343858
+North Beach, Maryland, USA	38.7048671 -76.5334229
+Beerwah, Queensland, Australia	-26.8571243 152.9575914
+Emery County, Utah, USA	38.9844774 -110.8038549
+Tayport, Scotland, UK	56.4490878 -2.8807193
+San Diego California, USA	32.7174202 -117.1627728
+Neustadt/Harz, Thuringia, Germany	51.5648227 10.837567268128318
+Siouxland, Iowa, USA	42.4862627 -96.4136727
+Neuendorf, Brandenburg, Germany	52.193277699999996 14.236227358313899
+Ripponlea, Victoria, Australia	-37.8758915 144.9952063
+Korbous, Tunisia	36.8165148 10.5690213
+Madison, Virginia, USA	38.0670454 -81.8192892
+St. Petersburg Conservatory, St. Petersburg, Russia	59.9260087 30.298068298671147
+Luby, California, USA	37.3629165 -121.8619127
+Valderredible, Cantabria, Spain	42.8564085 -3.970889841832725
+Sauk Mountain, Washington, USA	48.5229553 -121.600797
+Muhenda, Tanzania	-6.8481612 39.2279885
+Copper Harbor, Michigan, USA	47.4687939 -87.8884416
+Plaza del Callao, Madrid, Spain	40.4200671 -3.7057727
+Buschow, Brandenburg, Germany	52.5897709 12.6360357
+Made, Noord Brabant, Netherlands	51.6772552 4.7933615
+Poplar Grove, Illinois, USA	42.3683522 -88.822047
+Ardennes, France	49.69801175 4.671600518245179
+Quarry Valley, Iran	-29.3050788 153.19042911101874
+Umpqua National Forest, Oregon, USA	43.266694650000005 -122.42711536201494
+Arborg, Manitoba, Canada	50.9038419 -97.2224831
+Croy, Canton de Vaud, Switzerland	46.6945678 6.4771721
+Tai'an City, China	36.2002968 117.0809316
+Nederwetten, Noord-Brabant, Netherlands	51.4922059 5.5242783
+Bolton, Massachusetts, USA	42.4342336 -71.6097744
+Sombor, Vojvodina, Serbia	45.7727397 19.1147036
+Hawar Islands, Bahrain	25.65297295 50.75273482650153
+Puerto de la Cruz Verde, Madrid, Spain	40.5590182 -4.1968241
+Red Sea	20.29654545 38.53429714399387
+Pyramid of Khephren, Giza, Egypt	29.975957649999998 31.130756525035256
+Daganzo de Arriba, Madrid, Spain	40.5451953 -3.45785
+Vergiate, Italy	45.7248471 8.6940232
+Kinshasa, Democratic Republic of the Congo	-4.3217055 15.3125974
+Bacoachi, Sonora, Mexico	30.67849805 -110.01242589178645
+Severin, Romania	45.49288425 21.71999265492126
+Neubiberg, Bavaria, Germany	48.0769935 11.6615136
+Weekapaug, Rhode Island, USA	41.3309336 -71.7550658
+Yasawa Islands, Fiji	-17.2909471 177.12578580330327
+Himmelreich, Niedersachsen, Germany	51.5819491 10.6426842
+Galion, Ohio, USA	40.733795 -82.7896471
+St. Paul, Oregon, USA	45.2112347 -122.9767666
+Kirschau, Saxony, Germany	51.0921642 14.4251966
+Toolleen, Victoria, Australia	-36.7198456 144.6803319
+Nocera Superiore, Italy	40.7415603 14.6715039
+Kronenstrasse, Berlin, Germany	52.5112301 13.3898889
+Brummana, Lebanon	33.880785200000005 35.622428670858305
+Alsterdorfer Sporthalle, Hamburg, Germany	53.60272475 10.002062235896307
+Nesbyen, Buskerud, Norway.	60.5769153 9.1128628
+Lough Mask, County Mayo, Ireland	53.62908925 -9.344232985817685
+Oakman, Alabama, USA	33.7134432 -87.3886157
+Altona East, Melbourne, Australia	-37.88360825 144.7586157375
+Jones, Alabama, USA	32.5840214 -86.8974878
+Lowell Indiana, USA	41.2914244 -87.4205903
+Heiligenkreuzerhof, Vienna, Austria	48.20989595 16.376815398090663
+Comunidad de Madrid, Spain	40.5248319 -3.771562775451811
+Pravetz, Bulgaria	42.6356043 23.3760409

@@ -85,14 +85,41 @@ def find_not_found_addresses(path_src: str, path_dst: str, clean_info: list):
         file.writelines(not_found_addresses)
 
 
+def continuous_location_update(path_not_found: str, path_locbase: str):
+    """Some locations weren't found the first time by geopy,
+    but were the second. This function tries many times.
+
+    Args:
+        path_not_found (str): Path to file with not found addresses.
+        path_locbase (str): Path to file with locations.
+    """
+    with open(path_not_found, 'r', encoding='utf-8', errors='ignore') as file:
+        not_found = set(file.readlines())
+
+    if not not_found:
+        exit()
+
+    geolocator = Nominatim(user_agent='abc')
+    with open(path_locbase, 'a', encoding='utf-8', errors='ignore') as file:
+        for address in not_found:
+            try:
+                location = geolocator.geocode(address)
+                file.write(address[:-1] + '\t' + str(location.latitude) + ' ' +
+                           str(location.longitude) + '\n')
+            except Exception:
+                pass
+
+
 if __name__ == "__main__":
-    # lines = read_file('data/locations.list')
-    # clean_info = parse_lines(lines)
+    lines = read_file('data/locations.list')
+    clean_info = parse_lines(lines)
 
     # write_base('data/locbase.txt')
     # create_file_with_unique_addresses('data/locbase.txt')
 
-    # find_not_found_addresses('data/locbase.txt',
-    #                          'data/notfound.txt', clean_info)
+    while True:
+        find_not_found_addresses('data/locbase.txt',
+                                 'data/notfound.txt', clean_info)
+        continuous_location_update('data/notfound.txt', 'data/locbase.txt')
 
     pass
