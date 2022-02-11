@@ -111,15 +111,15 @@ def continuous_location_update(path_not_found: str, path_locbase: str):
 
 
 if __name__ == "__main__":
-    lines = read_file('data/locations.list')
-    clean_info = parse_lines(lines)
+    # lines = read_file('data/locations.list')
+    # clean_info = parse_lines(lines)
 
     # write_base('data/locbase.txt')
     # create_file_with_unique_addresses('data/locbase.txt')
 
-    while True:
-        find_not_found_addresses('data/locbase.txt',
-                                 'data/notfound.txt', clean_info)
-        continuous_location_update('data/notfound.txt', 'data/locbase.txt')
+    # while True:
+    #     find_not_found_addresses('data/locbase.txt',
+    #                              'data/notfound.txt', clean_info)
+    #     continuous_location_update('data/notfound.txt', 'data/locbase.txt')
 
     pass

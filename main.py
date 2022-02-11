@@ -315,6 +315,6 @@ if __name__ == "__main__":
 
     coordinates_base = 'data/locbase.txt'
     map_name = 'MyMap.html'
-    imdb_file = 'data/locations.list'
+    imdb_file = 'data/locations_small.list'
 
     main(year, lat, lon, coordinates_base, map_name, imdb_file)
